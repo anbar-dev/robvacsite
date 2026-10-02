@@ -27,7 +27,7 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 | 7 | Confronto concreto e leggibile su mobile | 3, 6 | Implementato; verifica responsive completata |
 | 8 | Link Amazon verso prodotti e varianti precisi | 3 | Implementato; quattro ASIN verificati |
 | 9 | Immagini e dettagli grafici più informativi | 2, 3, 6 | Parziale; foto autentiche in attesa di licenza/permesso |
-| 10 | Autore, contatti e metodologia credibili | 3, 6 | Da fare |
+| 10 | Autore, contatti e metodologia credibili | 3, 6 | Parziale; canale e criteri esplicitati, autore non nominato |
 | 11 | Verifica completa del percorso d'acquisto e del sito pubblicato | 1–10 | Da fare |
 | 12 | Misurazione essenziale, se utile | 11 | Opzionale, da valutare |
 
@@ -235,3 +235,12 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 - Non copiate foto dei produttori: i [termini Dreame](https://global.dreametech.com/pages/terms-conditions) consultati riservano la riproduzione e l'uso commerciale del materiale senza consenso scritto; la disponibilità dei [file media Roborock](https://newsroom.roborock.com/us/media/product/58?name=Q+Revo) non stabilisce da sola una licenza d'uso per il sito. Per completare la parte fotografica occorrono asset forniti dall'utente o permessi/licenze espliciti per tutte le immagini impiegate.
 - Verifiche statiche: `git diff --check`; tutte le quattro SVG hanno `role="img"` con titoli/descrizioni univoci; la hero ha alt text, dimensioni intrinseche e priorità di caricamento. Renderizzati e controllati i soli schemi SVG. Non è stata verificata in browser la pagina completa su viewport mobili.
 - Restano da fare: aggiungere foto autentiche con diritti verificati, verificarne il rendering responsive e aggiornare questa riga a completata solo quando gli asset autorizzati sono disponibili. Il punto rimane quindi parziale; si può riprendere appena arrivano i file o le licenze.
+
+### Step 10 — Completare autore, contatti e metodologia
+
+- Sostituita la firma «DustMigo editors» con «DustMigo» e aggiunta una breve descrizione del publisher: il sito è mantenuto dal suo creatore, pubblica sotto il nome DustMigo e non sostiene di avere un gruppo di tester o di aver svolto prove proprie.
+- Aggiornata la metodologia per collegare le raccomandazioni alle specifiche USA e ai test esterni citati; mantenute in chiaro le limitazioni e la disclosure Amazon. La data dell’ultimo controllo resta coerente: 2 ottobre 2026.
+- Aggiunta una via per inviare correzioni su GitHub Issues, con un modulo guidato che chiede pagina, problema e fonte a supporto. La via è collegata dai footer; il sito dichiara che per inviare una segnalazione serve un account GitHub e collega anche il repository pubblico. Il repository mostra Issues attive e la schermata «New issue» da utente non autenticato rimanda al login.
+- Il nome personale e una biografia dell’autore non sono stati inventati né dedotti dal nome della cartella utente. Se si vuole una firma personale, servono nome e breve descrizione approvati dall’utente; per ora il publisher è identificato con il marchio.
+- Verifiche: diff controllato; link pubblico Issues aperto, con comando «New issue» disponibile e login richiesto per inviare. Nessun modulo è stato inviato a GitHub.
+- Stato: parziale in attesa di eventuali informazioni reali per una firma personale. Il canale per le correzioni e il metodo editoriale sono pubblicati sotto il marchio DustMigo.

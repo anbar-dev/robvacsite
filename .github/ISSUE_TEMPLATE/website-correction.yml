@@ -1,0 +1,28 @@
+name: Website correction
+description: Report an incorrect detail, broken link, or unclear recommendation.
+title: "Website correction"
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for helping keep DustMigo accurate. Please include the page and a source when available."
+  - type: input
+    id: page
+    attributes:
+      label: Page or product
+      description: Link the page or name the model this report is about.
+      placeholder: https://dustmigo.com/compare.html — Qrevo S5V
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should be corrected?
+      description: Quote or describe the detail that appears wrong or unclear.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Supporting source
+      description: Link to an official product page or other relevant evidence, if available.
+      placeholder: https://...

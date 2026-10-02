@@ -26,6 +26,6 @@ GitHub Pages uses Jekyll by default. These files are plain HTML and assets; the 
 - Review the Amazon Associates and local advertising/privacy requirements for the markets you plan to target.
 - Recheck each product variant, manufacturer specs, Amazon availability, and all page dates.
 - Connect a Search Console property after the domain is live. No analytics are included by default; add a privacy-friendly provider only if you have a clear measurement question and update `privacy.html` first.
-- Configure an email/contact path before inviting reader corrections.
+- Reader corrections can be submitted through the GitHub Issues link in the site footer; submitting an issue requires a GitHub account.
 
 No framework, package install, build command, runtime API, or backend is needed.
