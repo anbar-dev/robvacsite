@@ -93,6 +93,8 @@ h1 em, h2 em { font-family: var(--serif); font-weight: 400; letter-spacing: -.04
 .clearance-input-row span, .clearance-note { color: #65716c; font-size: 11px; }
 .clearance-note { grid-column: 1 / -1; margin: 0; line-height: 1.45; }
 .finder-required-note { margin: 0; color: #59635f; font-size: 11px; line-height: 1.5; }
+.finder-no-script { margin: 0 0 24px; padding: 14px 16px; border-left: 3px solid var(--teal); background: #f4f6f4; color: var(--ink); font-size: 14px; line-height: 1.5; }
+.finder-no-script a { color: var(--teal-dark); font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
 .finder-submit { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
 .finder-feedback { margin: 13px 0 0; padding: 10px 12px; border-left: 3px solid #a83b25; background: #fff3ef; color: #702817; font-size: 13px; line-height: 1.5; }
 .finder-feedback[hidden] { display: none; }
