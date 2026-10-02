@@ -22,7 +22,7 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 | 2 | Accesso immediato al finder dalla homepage | — | Implementato; verifica visuale limitata |
 | 3 | Specifiche e varianti dei prodotti verificate | — | Verificato e corretto |
 | 4 | Budget e mercato chiaramente definiti | 3 | Implementato; verifiche statiche superate |
-| 5 | Raccomandazioni motivate e compatibili con i vincoli | 1, 3, 4 | Da fare |
+| 5 | Raccomandazioni motivate e compatibili con i vincoli | 1, 3, 4 | Implementato; scenari logici verificati |
 | 6 | Schede prodotto utili a decidere | 3, 4 | Da fare |
 | 7 | Confronto concreto e leggibile su mobile | 3, 6 | Da fare |
 | 8 | Link Amazon verso prodotti e varianti precisi | 3 | Da fare |
@@ -191,3 +191,13 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 - Se il tetto selezionato non ammette alcuna fascia della shortlist, il finder dice che non c’è una scelta compatibile e non propone automaticamente un modello più caro. La scelta da $500 verifica questo caso.
 - Verifiche: `node --check assets/site.js` e `git diff --check` senza errori; controllati i quattro gruppi obbligatori, i cinque limiti di budget e le soglie usate dal filtro. La logica di punteggio tra i modelli ammessi resta quella precedente; il riordino e le spiegazioni legate alle priorità spettano allo step 5.
 - Limite: non è stata verificata visivamente la nuova domanda su desktop e mobile; il browser locale era già risultato bloccato nelle verifiche degli step 1–2. La verifica completa del percorso resta nello step 11.
+
+### Step 5 — Rendere il risultato del finder spiegabile
+
+- Separati i vincoli dai segnali di priorità: il budget resta un filtro rigido; «wash the mop, too» esclude il Q10, che non ha il lavaggio del mop nel dock; una misura del mobile esclude i robot che non lasciano almeno 0,2 in oltre l'altezza pubblicata.
+- Verificate sulle pagine ufficiali USA e usate dal finder le altezze robot pubblicate: Q10 S5+ 3,90 in, Qrevo S5V 3,80 in, Dreame L40 Ultra Gen 2 3,82 in, Saros 10R 3,14 in. Il margine di 0,2 in è una regola prudenziale editoriale, non una garanzia del produttore o un test fisico; fonti e spiegazione sono nella pagina metodologica.
+- Riordinate soltanto le opzioni che rispettano i vincoli. Il punteggio interno combina superficie, problema principale e preferenza di manutenzione; non viene esposto come percentuale. I pareggi sono dichiarati e la fascia di spesa più bassa viene mostrata per prima.
+- Il risultato spiega perché il modello segue le risposte, dichiara un compromesso e mostra una seconda opzione quando è vicina o a pari merito. Ogni link Amazon mantiene tag e disclosure.
+- I casi senza candidati spiegano quale vincolo ha escluso la shortlist; il finder non alza il budget né suggerisce di ignorare la misura. L'opzione cavi/clutter aumenta la priorità dei sistemi di riconoscimento, ma avverte che nessun modello garantisce di evitare ogni filo.
+- Scenari verificati con la funzione effettiva di selezione: budget $500 → nessun match; peli su tappeti → Q10/Dreame in cima; lavaggio frequente → Qrevo/Dreame; cavi → Saros in cima; gap misurato 3,5 in → solo Saros; gap 3,2 in → nessun match; budget $600 + lavaggio nel dock → nessun match; parità su uso semplice → Q10 e Qrevo mostrati come pari merito.
+- Verifiche: `node --check assets/site.js`, `git diff --check` e gli scenari sopra senza errori. Il controllo visuale desktop/mobile resta da fare nello step 11; in questa sessione non è stata ripetuta la verifica nel browser.

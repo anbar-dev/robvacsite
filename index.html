@@ -43,7 +43,7 @@
 
     <section class="finder-section" id="finder">
       <div class="wrap">
-        <div class="section-intro finder-intro"><div><div class="eyebrow">THE 30-SECOND SHORTLIST</div><h2>What’s your biggest <em>cleaning headache?</em></h2></div><p>For U.S. buyers · budgets in USD · links go to Amazon.com. Four quick choices. No email, no account, no “best overall” guesswork.</p></div>
+        <div class="section-intro finder-intro"><div><div class="eyebrow">THE 30-SECOND SHORTLIST</div><h2>What’s your biggest <em>cleaning headache?</em></h2></div><p>For U.S. buyers · budgets in USD · links go to Amazon.com. Five quick choices, with a clearance measurement only if needed.</p></div>
         <form class="finder-card" id="finder-form">
           <fieldset class="finder-step">
             <legend><span class="step-number">01</span> What’s on your floor most?</legend>
@@ -78,6 +78,19 @@
               <label class="choice"><input type="radio" name="budget" value="900" required><span>Up to $900</span></label>
               <label class="choice"><input type="radio" name="budget" value="1600" required><span>Up to $1,600</span></label>
               <label class="choice"><input type="radio" name="budget" value="any" required><span>No fixed cap</span></label>
+            </div>
+          </fieldset>
+          <fieldset class="finder-step" id="clearance-step">
+            <legend><span class="step-number">05</span> Does the robot need to fit under low furniture?</legend>
+            <div class="choice-row">
+              <label class="choice"><input type="radio" name="clearance-mode" value="measured" aria-controls="clearance-details" required><span>Yes — I measured the tightest gap</span></label>
+              <label class="choice"><input type="radio" name="clearance-mode" value="none" required><span>No tight gap to clear</span></label>
+              <label class="choice"><input type="radio" name="clearance-mode" value="unknown" required><span>Not sure yet</span></label>
+            </div>
+            <div class="clearance-details" id="clearance-details" hidden>
+              <label for="clearance-input">Floor-to-furniture clearance</label>
+              <div class="clearance-input-row"><input id="clearance-input" name="clearance" type="number" min="2" max="12" step="0.1" inputmode="decimal" placeholder="e.g. 4.1" disabled><span>inches</span></div>
+              <p class="clearance-note">Measure the tightest point. The finder leaves about 0.2 in beyond the published robot height as a practical buffer.</p>
             </div>
           </fieldset>
           <div class="finder-submit"><div><p class="finder-required-note">Choose one answer in each section. Budget cutoffs are broad reference tiers, not live Amazon prices. Your answers stay on this page; nothing is sent or stored.</p></div><button class="button button-coral" type="submit">Show my best fit <span aria-hidden="true">→</span></button></div>
