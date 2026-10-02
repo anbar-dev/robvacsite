@@ -26,7 +26,7 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 | 6 | Schede prodotto utili a decidere | 3, 4 | Implementato; fonti e limiti esplicitati |
 | 7 | Confronto concreto e leggibile su mobile | 3, 6 | Implementato; verifica responsive completata |
 | 8 | Link Amazon verso prodotti e varianti precisi | 3 | Implementato; quattro ASIN verificati |
-| 9 | Immagini e dettagli grafici più informativi | 2, 3, 6 | Da fare |
+| 9 | Immagini e dettagli grafici più informativi | 2, 3, 6 | Parziale; foto autentiche in attesa di licenza/permesso |
 | 10 | Autore, contatti e metodologia credibili | 3, 6 | Da fare |
 | 11 | Verifica completa del percorso d'acquisto e del sito pubblicato | 1–10 | Da fare |
 | 12 | Misurazione essenziale, se utile | 11 | Opzionale, da valutare |
@@ -226,3 +226,12 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 - Verificati sulle pagine Amazon.com titolo/modello e corrispondenza dell'ASIN: Q10 S5+ `B0DWXF15GF`; Qrevo S5V `B0DSP8J476`; Dreame L40 Ultra Gen 2 `B0FVFL86M9`; Saros 10R standard tank-fill `B0DHCJ571Z`. Le pagine Amazon aperte identificano i modelli esatti; per il Saros la scheda risultava venduta da Roborock Technology Co. Ltd. I pulsanti sono aggiornati nella homepage, nella tabella e nell'URL usato dal risultato del finder.
 - Registrati ASIN e data di verifica nella metodologia. Chiarito che venditore, bundle, offerte e disponibilità possono cambiare e che l'acquirente deve ricontrollare dotazione e dock prima del checkout. Non vengono esposti prezzi.
 - Verifiche: `node --check assets/site.js` e `git diff --check` senza errori; ciascun ASIN compare una volta in homepage, confronto e catalogo del finder, con il tag mantenuto; le destinazioni generiche sono state rimosse e `target="_blank"` con `rel="sponsored nofollow noopener"` è conservato. Nessun flusso di acquisto o conversione è stato simulato.
+
+### Step 9 — Rendere le immagini e la grafica più utili
+
+- Esplicitato sia nell'alt text sia nella didascalia che l'immagine hero è un'illustrazione generata, generica e non riferita a un modello recensito o a una prova di DustMigo. La didascalia è più leggibile, soprattutto su mobile.
+- Sostituiti i riquadri grafici nascosti delle quattro schede con schemi SVG originali che affiancano una sagoma generica del robot alle impronte dei dock. I dock sono disegnati con scala comune approssimativa di 2 px/cm e misure riportate in didascalia; `title` e `desc` rendono la funzione accessibile. Gli schemi sono esplicitamente dichiarati non fotografici e non sono rendering esatti dei modelli.
+- Il WebP hero già usato è 1536×1024 e pesa circa 122 KB; mantiene `width`/`height`, `fetchpriority="high"` e ora `decoding="async"`. Gli SVG sono inline: non aggiungono richieste di immagini o font esterni.
+- Non copiate foto dei produttori: i [termini Dreame](https://global.dreametech.com/pages/terms-conditions) consultati riservano la riproduzione e l'uso commerciale del materiale senza consenso scritto; la disponibilità dei [file media Roborock](https://newsroom.roborock.com/us/media/product/58?name=Q+Revo) non stabilisce da sola una licenza d'uso per il sito. Per completare la parte fotografica occorrono asset forniti dall'utente o permessi/licenze espliciti per tutte le immagini impiegate.
+- Verifiche statiche: `git diff --check`; tutte le quattro SVG hanno `role="img"` con titoli/descrizioni univoci; la hero ha alt text, dimensioni intrinseche e priorità di caricamento. Renderizzati e controllati i soli schemi SVG. Non è stata verificata in browser la pagina completa su viewport mobili.
+- Restano da fare: aggiungere foto autentiche con diritti verificati, verificarne il rendering responsive e aggiornare questa riga a completata solo quando gli asset autorizzati sono disponibili. Il punto rimane quindi parziale; si può riprendere appena arrivano i file o le licenze.
