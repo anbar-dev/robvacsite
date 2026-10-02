@@ -25,7 +25,7 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 | 5 | Raccomandazioni motivate e compatibili con i vincoli | 1, 3, 4 | Implementato; scenari logici verificati |
 | 6 | Schede prodotto utili a decidere | 3, 4 | Implementato; fonti e limiti esplicitati |
 | 7 | Confronto concreto e leggibile su mobile | 3, 6 | Implementato; verifica responsive completata |
-| 8 | Link Amazon verso prodotti e varianti precisi | 3 | Da fare |
+| 8 | Link Amazon verso prodotti e varianti precisi | 3 | Implementato; quattro ASIN verificati |
 | 9 | Immagini e dettagli grafici più informativi | 2, 3, 6 | Da fare |
 | 10 | Autore, contatti e metodologia credibili | 3, 6 | Da fare |
 | 11 | Verifica completa del percorso d'acquisto e del sito pubblicato | 1–10 | Da fare |
@@ -219,3 +219,10 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 - Aggiornata la metodologia con le fonti ufficiali che supportano sollevamento del mop e dimensioni delle basi; mantenute le attribuzioni dei test indipendenti già documentate nello step 6.
 - Verifica visuale con viewport 390×844 e 1280×900: su mobile il contenitore della tabella scorre orizzontalmente e verticalmente, i nomi/criteri restano riconoscibili e la pagina non sviluppa overflow orizzontale; su desktop la tabella entra nel layout e il suggerimento mobile è nascosto. Controllata la console, senza errori o avvisi. È una verifica in browser con viewport ridimensionati, non una prova su dispositivi fisici.
 - Verifiche statiche: `git diff --check` senza errori. Il passo successivo è lo step 8: verificare le destinazioni Amazon per modello e variante.
+
+### Step 8 — Collegare le varianti corrette su Amazon
+
+- Sostituite le quattro ricerche generiche con destinazioni dirette Amazon.com `/dp/ASIN`, mantenendo `?tag=robvac93-20`, `rel="sponsored nofollow noopener"`, le etichette dei pulsanti e le disclosure accanto ai link.
+- Verificati sulle pagine Amazon.com titolo/modello e corrispondenza dell'ASIN: Q10 S5+ `B0DWXF15GF`; Qrevo S5V `B0DSP8J476`; Dreame L40 Ultra Gen 2 `B0FVFL86M9`; Saros 10R standard tank-fill `B0DHCJ571Z`. Le pagine Amazon aperte identificano i modelli esatti; per il Saros la scheda risultava venduta da Roborock Technology Co. Ltd. I pulsanti sono aggiornati nella homepage, nella tabella e nell'URL usato dal risultato del finder.
+- Registrati ASIN e data di verifica nella metodologia. Chiarito che venditore, bundle, offerte e disponibilità possono cambiare e che l'acquirente deve ricontrollare dotazione e dock prima del checkout. Non vengono esposti prezzi.
+- Verifiche: `node --check assets/site.js` e `git diff --check` senza errori; ciascun ASIN compare una volta in homepage, confronto e catalogo del finder, con il tag mantenuto; le destinazioni generiche sono state rimosse e `target="_blank"` con `rel="sponsored nofollow noopener"` è conservato. Nessun flusso di acquisto o conversione è stato simulato.
