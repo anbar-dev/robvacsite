@@ -2,6 +2,10 @@
 
 A small, static robot-vacuum buying guide built with HTML, CSS, and vanilla JavaScript for GitHub Pages.
 
+## Improvement roadmap
+
+See [ROADMAP.md](ROADMAP.md) for the prioritized improvement steps and completion criteria (in Italian). Each step will be implemented individually when requested.
+
 ## Preview locally
 
 Open `index.html` in a browser, or serve this folder with any static file server. No build step or backend is required.
