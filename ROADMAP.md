@@ -28,7 +28,7 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 | 8 | Link Amazon verso prodotti e varianti precisi | 3 | Implementato; quattro ASIN verificati |
 | 9 | Immagini e dettagli grafici più informativi | 2, 3, 6 | Parziale; foto autentiche in attesa di licenza/permesso |
 | 10 | Autore, contatti e metodologia credibili | 3, 6 | Parziale; canale e criteri esplicitati, autore non nominato |
-| 11 | Verifica completa del percorso d'acquisto e del sito pubblicato | 1–10 | Da fare |
+| 11 | Verifica completa del percorso d'acquisto e del sito pubblicato | 1–10 | Parziale; audit desktop e tecnico, viewport mobile e test senza JS da riprendere |
 | 12 | Misurazione essenziale, se utile | 11 | Opzionale, da valutare |
 
 ### Step 1 — Correggere le interazioni del questionario
@@ -231,7 +231,7 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 
 - Esplicitato sia nell'alt text sia nella didascalia che l'immagine hero è un'illustrazione generata, generica e non riferita a un modello recensito o a una prova di DustMigo. La didascalia è più leggibile, soprattutto su mobile.
 - Sostituiti i riquadri grafici nascosti delle quattro schede con schemi SVG originali che affiancano una sagoma generica del robot alle impronte dei dock. I dock sono disegnati con scala comune approssimativa di 2 px/cm e misure riportate in didascalia; `title` e `desc` rendono la funzione accessibile. Gli schemi sono esplicitamente dichiarati non fotografici e non sono rendering esatti dei modelli.
-- Il WebP hero già usato è 1536×1024 e pesa circa 122 KB; mantiene `width`/`height`, `fetchpriority="high"` e ora `decoding="async"`. Gli SVG sono inline: non aggiungono richieste di immagini o font esterni.
+- Il WebP hero già usato è 1600×1067 e pesa 122.310 byte; mantiene `width`/`height` coerenti con il file, `fetchpriority="high"` e `decoding="async"`. Gli SVG sono inline: non aggiungono richieste di immagini o font esterni.
 - Non copiate foto dei produttori: i [termini Dreame](https://global.dreametech.com/pages/terms-conditions) consultati riservano la riproduzione e l'uso commerciale del materiale senza consenso scritto; la disponibilità dei [file media Roborock](https://newsroom.roborock.com/us/media/product/58?name=Q+Revo) non stabilisce da sola una licenza d'uso per il sito. Per completare la parte fotografica occorrono asset forniti dall'utente o permessi/licenze espliciti per tutte le immagini impiegate.
 - Verifiche statiche: `git diff --check`; tutte le quattro SVG hanno `role="img"` con titoli/descrizioni univoci; la hero ha alt text, dimensioni intrinseche e priorità di caricamento. Renderizzati e controllati i soli schemi SVG. Non è stata verificata in browser la pagina completa su viewport mobili.
 - Restano da fare: aggiungere foto autentiche con diritti verificati, verificarne il rendering responsive e aggiornare questa riga a completata solo quando gli asset autorizzati sono disponibili. Il punto rimane quindi parziale; si può riprendere appena arrivano i file o le licenze.
@@ -244,3 +244,14 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 - Il nome personale e una biografia dell’autore non sono stati inventati né dedotti dal nome della cartella utente. Se si vuole una firma personale, servono nome e breve descrizione approvati dall’utente; per ora il publisher è identificato con il marchio.
 - Verifiche: diff controllato; link pubblico Issues aperto, con comando «New issue» disponibile e login richiesto per inviare. Nessun modulo è stato inviato a GitHub.
 - Stato: parziale in attesa di eventuali informazioni reali per una firma personale. Il canale per le correzioni e il metodo editoriale sono pubblicati sotto il marchio DustMigo.
+
+### Step 11 — Verificare il percorso completo e la pubblicazione
+
+- Verificato il dominio pubblicato in HTTPS: `https://www.dustmigo.com/` risponde con redirect 301 verso `https://dustmigo.com/`. Sulla homepage live risultano i metadati e le dimensioni dell'immagine introdotti nel commit `793707d`; canonical e percorsi degli asset puntano al dominio corretto.
+- Percorso finder desktop a 1280×720: l’invio vuoto presenta i cinque gruppi mancanti; caso peli + tappeti entro $900 restituisce Q10 S5+ e Dreame L40 come alternativa; apertura misurata 3,5 in restituisce solo Saros 10R; apertura da 3,0 in e budget $600 con lavaggio mop richiesto non mostrano prodotti incompatibili né link Amazon.
+- Il controllo del gap ha trovato un errore: i radio inviavano `clearance-mode`, mentre la logica cercava `clearanceMode`. Corretto con il commit `fbb77da` e ripetuto il caso live con risultato coerente. `node --check assets/site.js` e `git diff --check` superati.
+- Verificati nella tabella i quattro ASIN Amazon.com con tag `robvac93-20` e `rel="sponsored nofollow noopener"`; la tabella entra a 1280 px senza overflow orizzontale. La homepage e il confronto espongono disclosure accanto ai link.
+- Da tastiera, il primo Tab porta allo skip link con focus visibile; Invio porta a `#main`. Console browser senza errori nel controllo. I prodotti e il confronto sono contenuti staticamente nell'HTML; aggiunto un avviso e collegamenti di ripiego per il finder senza JavaScript, ma la modalità JS disabilitato non è stata eseguita nel browser.
+- SEO live: controllati titoli, descrizioni, canonical, anteprime Open Graph e Twitter; immagine social presente con alt che la identifica come generata. `robots.txt` consente la scansione e indica la sitemap; `sitemap.xml` elenca le quattro pagine pubbliche.
+- Il 404 annidato restituisce HTTP 404. Prima non caricava CSS e il link home puntava alla cartella inesistente; dopo il commit `b7b0aed` CSS e link tornano alla root. L’hero carica dal WebP locale da 122.310 byte, 1600×1067; attributi intrinseci e dimensioni reali ora coincidono. Non sono stati misurati Core Web Vitals o prestazioni con Lighthouse.
+- Limiti: il browser disponibile è rimasto a 1280×720 e non consente di impostare un viewport 390×844; non sono state ripetute le prove mobile né una prova su dispositivo fisico. La verifica senza JavaScript è limitata alla presenza dei contenuti e del fallback nell'HTML. Step parziale finché non si completano questi controlli.
