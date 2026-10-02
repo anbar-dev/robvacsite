@@ -24,7 +24,7 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 | 4 | Budget e mercato chiaramente definiti | 3 | Implementato; verifiche statiche superate |
 | 5 | Raccomandazioni motivate e compatibili con i vincoli | 1, 3, 4 | Implementato; scenari logici verificati |
 | 6 | Schede prodotto utili a decidere | 3, 4 | Implementato; fonti e limiti esplicitati |
-| 7 | Confronto concreto e leggibile su mobile | 3, 6 | Da fare |
+| 7 | Confronto concreto e leggibile su mobile | 3, 6 | Implementato; verifica responsive completata |
 | 8 | Link Amazon verso prodotti e varianti precisi | 3 | Da fare |
 | 9 | Immagini e dettagli grafici più informativi | 2, 3, 6 | Da fare |
 | 10 | Autore, contatti e metodologia credibili | 3, 6 | Da fare |
@@ -210,3 +210,12 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 - Consumer Reports inserisce il L40 Ultra Gen 2 nel proprio programma di test di laboratorio, ma la pagina pubblica non mostra punteggio o verdetto senza membership: il sito dichiara esplicitamente questa limitazione e non inferisce un risultato.
 - Aggiornata la metodologia per distinguere prove esterne, claim dei produttori e analisi di DustMigo; chiarito che protocolli e percentuali non sono confrontabili direttamente fra editori. Le routine di cura sono descritte come attività ricorrenti, senza inventare intervalli o promesse di manutenzione.
 - Verifiche: fonti aperte e affermazioni confrontate con le pagine dei test; `git diff --check` senza errori. La verifica visiva responsive resta nello step 11.
+
+### Step 7 — Migliorare il confronto
+
+- Sostituite le celle generiche con differenze concrete su spazzole per peli, altezza del robot, gestione di mop e tappeti, sensori, mansioni residue, dimensioni delle basi e dotazione/opzioni. Le misure riportano unità imperiali e metriche; per Qrevo S5V è indicata la provenienza delle dimensioni della base dalla panoramica ufficiale di serie.
+- Resi espliciti i limiti dei test sui cavi, ciò che il dock non fa (incluso il mancato lavaggio ad acqua calda del Qrevo) e le attività manuali su acqua e pulizia. Chiarite le opzioni TriCut/dispenser Dreame e la variante idraulica Saros separata e regionale.
+- Aggiunti un suggerimento di scorrimento prima della tabella, nomi completi dei modelli, caption accessibile e intestazioni di riga/colonna. Su viewport stretti la tabella scorre in entrambe le direzioni nel proprio riquadro; la colonna dei criteri e l'intestazione dei modelli restano visibili durante lo scorrimento.
+- Aggiornata la metodologia con le fonti ufficiali che supportano sollevamento del mop e dimensioni delle basi; mantenute le attribuzioni dei test indipendenti già documentate nello step 6.
+- Verifica visuale con viewport 390×844 e 1280×900: su mobile il contenitore della tabella scorre orizzontalmente e verticalmente, i nomi/criteri restano riconoscibili e la pagina non sviluppa overflow orizzontale; su desktop la tabella entra nel layout e il suggerimento mobile è nascosto. Controllata la console, senza errori o avvisi. È una verifica in browser con viewport ridimensionati, non una prova su dispositivi fisici.
+- Verifiche statiche: `git diff --check` senza errori. Il passo successivo è lo step 8: verificare le destinazioni Amazon per modello e variante.
