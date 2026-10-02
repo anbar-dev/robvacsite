@@ -18,17 +18,17 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 
 | Step | Risultato | Dipende da | Stato |
 | --- | --- | --- | --- |
-| 1 | Questionario con scelte leggibili e risposte complete | — | Implementato; verifica visuale bloccata |
-| 2 | Accesso immediato al finder dalla homepage | — | Implementato; verifica visuale limitata |
+| 1 | Questionario con scelte leggibili e risposte complete | — | Implementato; verificato in browser desktop e mobile |
+| 2 | Accesso immediato al finder dalla homepage | — | Implementato; accesso verificato desktop e mobile |
 | 3 | Specifiche e varianti dei prodotti verificate | — | Verificato e corretto |
 | 4 | Budget e mercato chiaramente definiti | 3 | Implementato; verifiche statiche superate |
 | 5 | Raccomandazioni motivate e compatibili con i vincoli | 1, 3, 4 | Implementato; scenari logici verificati |
 | 6 | Schede prodotto utili a decidere | 3, 4 | Implementato; fonti e limiti esplicitati |
 | 7 | Confronto concreto e leggibile su mobile | 3, 6 | Implementato; verifica responsive completata |
 | 8 | Link Amazon verso prodotti e varianti precisi | 3 | Implementato; quattro ASIN verificati |
-| 9 | Immagini e dettagli grafici più informativi | 2, 3, 6 | Parziale; foto autentiche in attesa di licenza/permesso |
+| 9 | Immagini e dettagli grafici più informativi | 2, 3, 6 | Implementato; foto Amazon autorizzate dall'utente, layout verificato desktop e mobile |
 | 10 | Autore, contatti e metodologia credibili | 3, 6 | Parziale; canale e criteri esplicitati, autore non nominato |
-| 11 | Verifica completa del percorso d'acquisto e del sito pubblicato | 1–10 | Parziale; audit desktop e tecnico, viewport mobile e test senza JS da riprendere |
+| 11 | Verifica completa del percorso d'acquisto e del sito pubblicato | 1–10 | Audit desktop e mobile completato; modalità senza JavaScript non verificata in browser |
 | 12 | Misurazione essenziale, se utile | 11 | Opzionale, da valutare |
 
 ### Step 1 — Correggere le interazioni del questionario
@@ -255,3 +255,13 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 - SEO live: controllati titoli, descrizioni, canonical, anteprime Open Graph e Twitter; immagine social presente con alt che la identifica come generata. `robots.txt` consente la scansione e indica la sitemap; `sitemap.xml` elenca le quattro pagine pubbliche.
 - Il 404 annidato restituisce HTTP 404. Prima non caricava CSS e il link home puntava alla cartella inesistente; dopo il commit `b7b0aed` CSS e link tornano alla root. L’hero carica dal WebP locale da 122.310 byte, 1600×1067; attributi intrinseci e dimensioni reali ora coincidono. Non sono stati misurati Core Web Vitals o prestazioni con Lighthouse.
 - Limiti: il browser disponibile è rimasto a 1280×720 e non consente di impostare un viewport 390×844; non sono state ripetute le prove mobile né una prova su dispositivo fisico. La verifica senza JavaScript è limitata alla presenza dei contenuti e del fallback nell'HTML. Step parziale finché non si completano questi controlli.
+
+### Revisione dopo l'aggiunta delle fotografie — 2 ottobre 2026
+
+- L'utente ha autorizzato l'uso delle immagini prodotto Amazon. Le fotografie delle quattro schede corrispondono agli ASIN già collegati e sono caricate dal CDN Amazon nella homepage, nel finder e nel confronto.
+- La visita della homepage pubblicata ha individuato immagini più alte dei riquadri, sovrapposte a titoli e descrizioni. Rimosso il dimensionamento implicito della griglia nei riquadri; le foto ora restano interamente contenute, con proporzioni conservate. Aggiornate anche le dimensioni intrinseche nell'HTML alle dimensioni effettive dei file.
+- Nel confronto mobile la colonna delle etichette occupava quasi metà dello schermo e tagliava la colonna del modello. Ridotta a 100 px e adattata la larghezza dei modelli al viewport; verificato lo scorrimento laterale con le etichette ferme. I link Amazon nel confronto mobile hanno ora un'area cliccabile alta almeno 44 px.
+- Aggiornata la metodologia che descriveva ancora schemi grafici; la privacy ora spiega il caricamento delle foto dai server Amazon e chiarisce che le risposte del finder non sono incluse nelle richieste delle immagini.
+- Verifiche locali in browser: tutte le quattro foto caricano e restano contenute a 1280 x 720 e 390 x 844, senza overflow orizzontale della pagina. Il confronto conserva una colonna completa anche a 360 x 800; lo scorrimento a Qrevo mantiene la colonna delle etichette fissa.
+- Finder: invio vuoto con feedback completo; tappeti + peli + lavaggio mop entro 900 USD restituisce Dreame; apertura misurata 3,5 in restituisce Saros; apertura 3,0 in o fascia 500 USD non producono link Amazon incompatibili. Il caso pavimenti duri + lavaggio mop entro 900 USD sulla versione pubblicata restituisce Qrevo con Dreame come alternativa.
+- Console browser senza errori nei percorsi provati; sintassi JavaScript e diff controllati senza errori. Questa revisione valuta contenuti e flussi esistenti e non rinnova la verifica delle specifiche o dei prezzi delle fonti esterne. Modalità senza JavaScript, dispositivo fisico e Core Web Vitals non verificati.
