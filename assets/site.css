@@ -188,6 +188,24 @@ h1 em, h2 em { font-family: var(--serif); font-weight: 400; letter-spacing: -.04
 .tradeoff-card > span { color: #65716c; font-size: 9px; font-weight: 700; letter-spacing: .12em; }
 .tradeoff-card h2 { margin: 7px 0; font-size: 19px; letter-spacing: -.035em; }
 .tradeoff-card p { margin: 0; color: #515c59; font-size: 13px; line-height: 1.6; }
+.decision-guide { margin-top: 56px; padding-top: 30px; border-top: 1px solid #cfd6d2; }
+.decision-intro { max-width: 760px; margin-bottom: 25px; }
+.decision-intro h2 { margin: 8px 0 10px; font-size: clamp(27px, 3.5vw, 38px); line-height: 1.13; letter-spacing: -.045em; }
+.decision-intro p { max-width: 700px; margin: 0; color: #515c59; font-size: 13px; line-height: 1.65; }
+.decision-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: stretch; gap: 22px; }
+.decision-card { min-width: 0; padding: 20px; border: 1px solid #d7dcd8; background: #f8faf8; scroll-margin-top: 24px; }
+.decision-heading { padding-bottom: 13px; border-bottom: 1px solid #d7dcd8; }
+.decision-heading span { color: #596660; font-size: 9px; font-weight: 700; letter-spacing: .12em; }
+.decision-heading h3 { margin: 5px 0 0; font-size: 22px; line-height: 1.15; letter-spacing: -.04em; }
+.decision-list { display: grid; gap: 13px; margin: 16px 0; }
+.decision-list > div { display: grid; grid-template-columns: 122px minmax(0, 1fr); gap: 12px; }
+.decision-list dt { color: #2c3935; font-size: 10px; font-weight: 700; line-height: 1.5; }
+.decision-list dd { margin: 0; color: #4c5753; font-size: 11px; line-height: 1.6; }
+.decision-list a, .test-note a { font-weight: 700; }
+.test-note { padding: 13px 14px; border-left: 3px solid var(--teal); background: #fff; }
+.test-note strong { color: #283330; font-size: 10px; }
+.test-note p { margin: 4px 0 0; color: #4c5753; font-size: 10px; line-height: 1.6; }
+.decision-footnote { margin: 13px 0 0; color: #68736f; font-size: 10px; line-height: 1.5; }
 .compare-note { margin-top: 15px; color: #5e6865; font-size: 11px; }
 .prose-layout { display: grid; grid-template-columns: 185px 1fr; align-items: start; gap: 60px; }
 .contents { position: sticky; top: 20px; padding: 14px 16px; border-radius: 2px; background: #f4f6f4; }
@@ -282,6 +300,10 @@ h1 em, h2 em { font-family: var(--serif); font-weight: 400; letter-spacing: -.04
   .page-hero h1 { font-size: 40px; }
   .page-hero p { font-size: 14px; }
   .tradeoff-panel { grid-template-columns: 1fr; }
+  .decision-guide { margin-top: 40px; padding-top: 24px; }
+  .decision-grid { grid-template-columns: 1fr; gap: 14px; }
+  .decision-card { padding: 16px; }
+  .decision-list > div { grid-template-columns: 104px minmax(0, 1fr); gap: 9px; }
   .prose-layout { grid-template-columns: 1fr; gap: 22px; }
   .contents { position: static; display: grid; grid-template-columns: 1fr 1fr; gap: 0 12px; }
   .contents strong { grid-column: 1 / -1; }

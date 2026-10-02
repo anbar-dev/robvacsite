@@ -23,7 +23,7 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 | 3 | Specifiche e varianti dei prodotti verificate | — | Verificato e corretto |
 | 4 | Budget e mercato chiaramente definiti | 3 | Implementato; verifiche statiche superate |
 | 5 | Raccomandazioni motivate e compatibili con i vincoli | 1, 3, 4 | Implementato; scenari logici verificati |
-| 6 | Schede prodotto utili a decidere | 3, 4 | Da fare |
+| 6 | Schede prodotto utili a decidere | 3, 4 | Implementato; fonti e limiti esplicitati |
 | 7 | Confronto concreto e leggibile su mobile | 3, 6 | Da fare |
 | 8 | Link Amazon verso prodotti e varianti precisi | 3 | Da fare |
 | 9 | Immagini e dettagli grafici più informativi | 2, 3, 6 | Da fare |
@@ -201,3 +201,12 @@ Aiutare un lettore a scegliere un robot compatibile con budget, casa e priorità
 - I casi senza candidati spiegano quale vincolo ha escluso la shortlist; il finder non alza il budget né suggerisce di ignorare la misura. L'opzione cavi/clutter aumenta la priorità dei sistemi di riconoscimento, ma avverte che nessun modello garantisce di evitare ogni filo.
 - Scenari verificati con la funzione effettiva di selezione: budget $500 → nessun match; peli su tappeti → Q10/Dreame in cima; lavaggio frequente → Qrevo/Dreame; cavi → Saros in cima; gap misurato 3,5 in → solo Saros; gap 3,2 in → nessun match; budget $600 + lavaggio nel dock → nessun match; parità su uso semplice → Q10 e Qrevo mostrati come pari merito.
 - Verifiche: `node --check assets/site.js`, `git diff --check` e gli scenari sopra senza errori. Il controllo visuale desktop/mobile resta da fare nello step 11; in questa sessione non è stata ripetuta la verifica nel browser.
+
+### Step 6 — Approfondire le schede nelle pagine esistenti
+
+- Aggiunte nella pagina di confronto quattro note decisionali: destinatario, motivi per scegliere/scartare, manutenzione concreta, alternativa e criterio per capire se vale la spesa superiore.
+- Per il Q10 S5+ e il Qrevo S5V citati test di Vacuum Wars sul modello esatto (acquisto dichiarato dalla redazione): i risultati mostrano rispettivamente una buona raccolta di sporco su tappeto/peli e un limite netto nell’evitare ostacoli. Il Qrevo ha ottenuto buoni risultati nei test su tappeto, peli e lavaggio, ma soltanto 6/24 ostacoli evitati nel protocollo pubblicato.
+- Per il Saros 10R citato il test pratico di Marcus Schwarten su Notebookcheck: buona rilevazione di cavi e calze, ma mancata rilevazione di un laccio piatto e alcune riserve su navigazione e macchie secche. È dichiarato che il campione è stato fornito dal produttore; la pubblicazione dichiara assenza di influenza del produttore.
+- Consumer Reports inserisce il L40 Ultra Gen 2 nel proprio programma di test di laboratorio, ma la pagina pubblica non mostra punteggio o verdetto senza membership: il sito dichiara esplicitamente questa limitazione e non inferisce un risultato.
+- Aggiornata la metodologia per distinguere prove esterne, claim dei produttori e analisi di DustMigo; chiarito che protocolli e percentuali non sono confrontabili direttamente fra editori. Le routine di cura sono descritte come attività ricorrenti, senza inventare intervalli o promesse di manutenzione.
+- Verifiche: fonti aperte e affermazioni confrontate con le pagine dei test; `git diff --check` senza errori. La verifica visiva responsive resta nello step 11.
