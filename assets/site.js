@@ -74,7 +74,7 @@ if(finder){
   const steps=[...finder.querySelectorAll('.finder-step')];
   const feedback=finder.querySelector('#finder-feedback');
   const result=finder.querySelector('#finder-result');
-  const clearanceModeInputs=[...finder.querySelectorAll('input[name="clearance-mode"]')];
+  const clearanceModeInputs=[...finder.querySelectorAll('input[name="clearanceMode"]')];
   const clearanceDetails=finder.querySelector('#clearance-details');
   const clearanceInput=finder.querySelector('#clearance-input');
   let submissionAttempted=false;
