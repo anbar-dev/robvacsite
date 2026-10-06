@@ -63,7 +63,7 @@ Build, verify and push the source **and generated public files**. The existing b
 
 GitHub Pages' default Jekyll processing [excludes underscore-prefixed directories](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll), so `_site-src` stays out of the published site. Do not add `.nojekyll` to this branch/root workflow without also excluding source files through a separate deployment build.
 
-The initial implementation has not been deployed. Preserve the domain configuration, then confirm live canonical URLs, images and production Analytics after the normal publication process.
+The site is published at `https://dustmigo.com/`. Preserve the domain configuration, and after each publication verify the live canonical URL, product images, and production Analytics.
 
 ## Verification and editorial plan
 
