@@ -1,6 +1,6 @@
 # DustMigo: proposta per le pagine ricambi
 
-Proposta del 6 ottobre 2026, aggiornata dopo l'implementazione iniziale. Stato: indice e prima pagina realizzati e verificati localmente; pubblicazione online ancora da eseguire.
+Proposta del 6 ottobre 2026, aggiornata dopo l'implementazione iniziale. Stato: indice e prima pagina pubblicati su GitHub Pages il 6 ottobre 2026; la pagina Qrevo live risponde HTTP 200.
 
 ## Implementazione iniziale
 
