@@ -1,0 +1,16 @@
+{
+  "name": "DustMigo",
+  "origin": "https://dustmigo.com",
+  "analyticsId": "G-ZF7L8PV8EV",
+  "analyticsHosts": ["dustmigo.com", "www.dustmigo.com"],
+  "affiliateTag": "robvac93-20",
+  "assetVersion": "20261006-parts-2",
+  "socialImage": "/assets/dustmigo-robot-vacuum-editorial.webp",
+  "socialImageAlt": "AI-generated illustration of a generic robot vacuum; it is not a reviewed model.",
+  "navigation": [
+    {"label": "Find your fit", "href": "/#finder"},
+    {"label": "Compare picks", "href": "/compare.html"},
+    {"label": "Replacement parts", "href": "/parts/"},
+    {"label": "How we choose", "href": "/how-we-choose.html"}
+  ]
+}

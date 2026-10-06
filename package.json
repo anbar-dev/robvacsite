@@ -1,0 +1,11 @@
+{
+  "name": "dustmigo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node _site-src/build.mjs",
+    "check": "node _site-src/build.mjs --check && node _site-src/verify.mjs",
+    "dev": "node _site-src/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

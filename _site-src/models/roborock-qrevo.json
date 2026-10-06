@@ -1,0 +1,122 @@
+{
+  "status": "published",
+  "slug": "roborock-qrevo",
+  "name": "Roborock Qrevo",
+  "brand": "Roborock",
+  "variant": "Original / 1st generation",
+  "title": "Roborock Qrevo Replacement Parts: Filters, Bags & Brushes | DustMigo",
+  "description": "Find replacement filters, dust bags, brushes, mop pads and a maintenance kit for the original Roborock Qrevo. Photos, pack sizes and exact-model fit checks.",
+  "scope": "Original Qrevo only (Q Revo / 2R3W in some listings). Check the exact model in your app or on the robot.",
+  "checkedDate": "2026-10-06",
+  "checkedLabel": "October 6, 2026",
+  "warning": "Qrevo S, Pro, MaxV, Master, Curv, Edge and S5V are different models. A bag or mop cloth may be shared; that does not make their filters, rollers or complete kits interchangeable.",
+  "robot": {
+    "asin": "B0BVVWN64G",
+    "amazonTitle": "roborock Q Revo Robot Vacuum and Mop, Auto-Drying, Auto Mop Washing, Dual Spinning Mops, Auto Mop Lifting, Self-Refilling, Self-Emptying, Reactive Tech Obstacle Avoidance, 5500Pa Suction, White",
+    "image": "https://m.media-amazon.com/images/I/617eQCE4snL._AC_SX569_.jpg",
+    "imageAlt": "White original Roborock Q Revo robot vacuum with its multifunctional dock",
+    "description": "The linked Amazon listing shows the original Q Revo in white with its multifunctional dock. Use the product name and dock photo to confirm which generation this parts guide covers; check the selected color and configuration on Amazon.",
+    "sourceIds": ["robot-listing", "robot-official"],
+    "listingCheckedDate": "2026-10-06"
+  },
+  "parts": [
+    {
+      "id": "filters", "label": "Replacement filters", "searchLabel": "replacement filters", "buttonLabel": "filters", "brand": "Neutop", "type": "Third-party",
+      "pack": "8 filters", "asin": "B0CJX2M9KF",
+      "amazonTitle": "HEPA Filters Compatible with Roborock Q Revo/2R3W, 8-Pack",
+      "image": "https://m.media-amazon.com/images/I/61xoRpmGifL._AC_SX522_.jpg",
+      "imageAlt": "Neutop eight-pack of rectangular filters for the original Roborock Qrevo",
+      "fit": "Seller lists original Q Revo / 2R3W.",
+      "buyWhen": "The filter is damaged or stays clogged after cleaning and drying.",
+      "check": "This listing explicitly excludes Qrevo S, Pro and S5V, among other variants. These are dustbin filters, not dock cleaning-tray filters.",
+      "sourceIds": ["filters-listing"], "listingCheckedDate": "2026-10-06"
+    },
+    {
+      "id": "dust-bags", "label": "Dock dust bags", "searchLabel": "dust bags", "buttonLabel": "bags", "brand": "roborock", "type": "Original",
+      "pack": "6 bags · 2.7 L each", "asin": "B0C5JJ6X21",
+      "amazonTitle": "roborock 6 Packs Disposable Dust Bags for Saros 10R, Saros Z70, Saros 20, Qrevo Edge 3 Pro, QV 35A, Qrevo CurvX, Qrevo Curv 2 Flow, Qrevo S Pro, Qrevo 2 Pro, Saros 20 Sonic, S8 Max Ultra & RDS",
+      "image": "https://m.media-amazon.com/images/I/61+EUhJwcML._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "imageAlt": "Roborock disposable dock dust bags with cardboard collars",
+      "fit": "Q Revo is included in the listing’s compatibility details; Roborock also lists a Q Revo six-pack.",
+      "buyWhen": "The dock bag is full, damaged, or due for replacement.",
+      "check": "Amazon’s title highlights newer models. Check that the selected six-pack still lists Q Revo and 2.7 L bags in its details.",
+      "sourceIds": ["bags-listing", "bags-official"], "listingCheckedDate": "2026-10-06"
+    },
+    {
+      "id": "main-brush", "label": "Rubber main brushes", "searchLabel": "replacement main brushes", "buttonLabel": "rollers", "brand": "PELLYDA", "type": "Third-party",
+      "pack": "3 roller brushes", "asin": "B0FG2M5ZPP",
+      "amazonTitle": "Replacement Roller Brushes, Rubber Main Brush Replacement Parts for roborock Q Revo Series, S7, S7+, S7 MaxV, S7 MaxV Plus, S7 Max Ultra, T7S, T7S Plus, QV 35A, Q7 Series Robot Vacuum.",
+      "image": "https://m.media-amazon.com/images/I/61R62cNquaL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "imageAlt": "PELLYDA full-width rubber replacement roller brushes",
+      "fit": "Seller explicitly includes Q Revo.",
+      "buyWhen": "The rubber fins or end fittings are worn or damaged. Remove wrapped hair before buying a replacement.",
+      "check": "Choose the original model’s single full-width roller. Qrevo S5V, Curv and Edge use a different DuoDivide design.",
+      "sourceIds": ["brush-listing", "brush-official", "duodivide-official"], "listingCheckedDate": "2026-10-06"
+    },
+    {
+      "id": "side-brush", "label": "Side brushes", "searchLabel": "replacement side brushes", "buttonLabel": "side brushes", "brand": "Soniicmomo", "type": "Third-party",
+      "pack": "6 side brushes + screws", "asin": "B0F62V7QK9",
+      "amazonTitle": "Side Brushes Replacement Compatible with Roborock Q Revo/Qrevo S/Qrevo Pro/Qrevo Master/S8/S8+/ S8 Pro Ultra/Q5/Q7/Q7Max/Q8 Max/S7/S7 Max Ultra/S7 MaxV/S6/S5/S4/E2/E3/E4/E5 Robot Vacuum",
+      "image": "https://m.media-amazon.com/images/I/513+quy54lL._AC_SY450_.jpg",
+      "imageAlt": "Six black replacement side brushes for Roborock robot vacuums",
+      "fit": "Seller includes original Q Revo in the supported-model list.",
+      "buyWhen": "The brush arms are worn, bent or broken and no longer sweep the edge properly.",
+      "check": "Compare the screw fitting and brush shape with your existing part. This is a screw-mounted side brush, not a main roller.",
+      "sourceIds": ["side-listing"], "listingCheckedDate": "2026-10-06"
+    },
+    {
+      "id": "mop-pads", "label": "Spinning mop pads", "searchLabel": "replacement mop pads", "buttonLabel": "mop pads", "brand": "Rrochio", "type": "Third-party",
+      "pack": "6 cloths · 3 pairs", "asin": "B0DDPLB6SK",
+      "amazonTitle": "6Pcs Microfiber Mop Cloth Pad for Roborock Q Revo,Qrevo S,Qrevo Pro,Qrevo Master,Qrevo MaxV,QV35A,QV 35S,Qrevo S5V,Qrevo Edge S5A,Qrevo Curv,Saros 10R Robot Vacuum, Washable Mopping Cloth Accessories",
+      "image": "https://m.media-amazon.com/images/I/71i8EnHEHbL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "imageAlt": "Six round microfiber cloth pads for the Roborock Qrevo spinning mops",
+      "fit": "Seller explicitly lists original Q Revo.",
+      "buyWhen": "The cloths are worn, torn or no longer attach firmly after cleaning.",
+      "check": "The pack contains cloth pads only. Plastic mop mounts and drive components are separate parts.",
+      "sourceIds": ["mop-listing"], "listingCheckedDate": "2026-10-06"
+    },
+    {
+      "id": "maintenance-kit", "label": "Multi-part maintenance kit", "searchLabel": "replacement parts kit", "buttonLabel": "kit", "brand": "Bluearks", "type": "Third-party",
+      "pack": "2 rollers · 4 filters · 6 pads · 6 side brushes · 6 bags", "asin": "B0CGRBXM8M",
+      "amazonTitle": "26Pcs Replacement Parts for Roborock Qrevo【Only Fits 1st Gen】",
+      "image": "https://m.media-amazon.com/images/I/91AuNiaFqsL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "imageAlt": "Bluearks original Qrevo maintenance kit with rollers, filters, mop cloths, side brushes and dust bags",
+      "fit": "Seller specifies 1st-generation Qrevo / 2R3W only.",
+      "buyWhen": "Several consumables need replacing together, or you want spares for routine upkeep.",
+      "check": "This kit excludes Qrevo S, Pro, Plus, MaxV and QV35A. A screwdriver is also listed; compare the selected pack’s contents before buying.",
+      "sourceIds": ["kit-listing"], "listingCheckedDate": "2026-10-06"
+    }
+  ],
+  "compatibility": [
+    {"part": "Filter / complete kit", "detail": "Use a listing that explicitly names original Qrevo or 2R3W. The filter and kit above exclude several newer Qrevo variants."},
+    {"part": "Main roller", "detail": "Original Qrevo uses one full-width rubber roller. A DuoDivide roller set is a different assembly."},
+    {"part": "Bags / cloth pads", "detail": "These can cover more than one model, but check each listing separately. Shared bags do not prove shared filters."}
+  ],
+  "care": [
+    {"part": "Main brush", "clean": "Every 2 weeks", "replace": "6–12 months"},
+    {"part": "Side brush", "clean": "Monthly", "replace": "3–6 months"},
+    {"part": "Washable filter", "clean": "Every 2 weeks", "replace": "6–12 months"},
+    {"part": "Mop cloths", "clean": "As needed", "replace": "1–3 months"},
+    {"part": "Dust bag", "clean": "Disposable", "replace": "As needed"}
+  ],
+  "careTip": "Let a rinsed washable filter dry for 24 hours before reinstalling it. Remove hair from roller ends before assuming the brush needs replacing. Switch off the robot before servicing it.",
+  "questions": [
+    {"question": "Will a Qrevo S or S5V kit fit the original Qrevo?", "answer": "Do not assume it will. The filter and complete kit linked here specifically target the original model, while newer models can use different filters or rollers. Check compatibility for every component in a kit."},
+    {"question": "Should I buy a kit or one replacement part?", "answer": "Choose the single part if that is all you need. A kit is useful when several consumables are due or you want spares; compare quantities and the live price rather than assuming every kit is cheaper."},
+    {"question": "Are these genuine Roborock parts?", "answer": "The dust-bag pack is Roborock branded. The other five listings are third-party replacements and are labeled separately. Listing compatibility is not a DustMigo fit, durability or filtration test."}
+  ],
+  "sources": [
+    {"id": "robot-listing", "label": "Roborock Q Revo original robot listing", "url": "https://www.amazon.com/dp/B0BVVWN64G"},
+    {"id": "robot-official", "label": "Roborock — Qrevo support and manuals", "url": "https://help.roborock.com/us/product/qrevo"},
+    {"id": "manual", "label": "Roborock Qrevo manual — routine maintenance, English pp. 9–10", "url": "https://cdn.awsusor0.fds.api.mi-img.com/support/manuals/Roborock_Qrevo_CE_EN+FR+DE+IT+ES+PL+NO+SE_Manual.pdf"},
+    {"id": "bags-official", "label": "Roborock — Q Revo dust bags, 6-pack", "url": "https://us.roborock.com/products/roborock-dust-bag-6pcs-for-q-revo"},
+    {"id": "brush-official", "label": "Roborock — full-width S7/Qrevo main brush", "url": "https://us.roborock.com/products/s7-main-brush"},
+    {"id": "duodivide-official", "label": "Roborock — DuoDivide brush compatibility (different assembly)", "url": "https://us.roborock.com/products/main-brush-for-roborock-qrevo-curv-and-qrevo-edge"},
+    {"id": "filters-listing", "label": "Neutop filter listing", "url": "https://www.amazon.com/dp/B0CJX2M9KF"},
+    {"id": "bags-listing", "label": "Roborock dust-bag listing", "url": "https://www.amazon.com/dp/B0C5JJ6X21"},
+    {"id": "brush-listing", "label": "PELLYDA roller listing", "url": "https://www.amazon.com/dp/B0FG2M5ZPP"},
+    {"id": "side-listing", "label": "Soniicmomo side-brush listing", "url": "https://www.amazon.com/dp/B0F62V7QK9"},
+    {"id": "mop-listing", "label": "Rrochio mop-cloth listing", "url": "https://www.amazon.com/dp/B0DDPLB6SK"},
+    {"id": "kit-listing", "label": "Bluearks original-Qrevo kit listing", "url": "https://www.amazon.com/dp/B0CGRBXM8M"}
+  ]
+}

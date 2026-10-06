@@ -1,0 +1,13 @@
+<!-- Google Analytics: shared by every page; local previews do not send production traffic. -->
+<script>
+  if ({{analyticsHosts}}.includes(window.location.hostname)) {
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    window.gtag('js', new Date());
+    window.gtag('config', '{{analyticsId}}');
+    var googleTag = document.createElement('script');
+    googleTag.async = true;
+    googleTag.src = 'https://www.googletagmanager.com/gtag/js?id={{analyticsId}}';
+    document.head.appendChild(googleTag);
+  }
+</script>

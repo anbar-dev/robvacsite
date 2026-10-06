@@ -1,0 +1,52 @@
+[
+  {
+    "output": "index.html",
+    "url": "/",
+    "source": "pages/home.html",
+    "title": "DustMigo — Find your robot vacuum fit",
+    "description": "Find a robot vacuum that fits your floors, pets, clutter and tolerance for maintenance. A focused, research-based shortlist with clear trade-offs.",
+    "preloadHero": true,
+    "noindex": false,
+    "footerNote": "Product details checked October 2, 2026. Verify model variant and availability before purchase."
+  },
+  {
+    "output": "compare.html",
+    "url": "/compare.html",
+    "source": "pages/compare.html",
+    "title": "Robot vacuum comparison — DustMigo",
+    "description": "Compare four robot vacuums by pet hair, carpet, mopping, clutter, dock maintenance and their practical trade-offs.",
+    "preloadHero": false,
+    "noindex": false,
+    "footerNote": "Product details checked October 2, 2026. Verify model variant and availability before purchase."
+  },
+  {
+    "output": "how-we-choose.html",
+    "url": "/how-we-choose.html",
+    "source": "pages/how-we-choose.html",
+    "title": "How we choose — DustMigo",
+    "description": "How DustMigo picks robot vacuums, checks manufacturer specs, explains trade-offs, and discloses Amazon affiliate links.",
+    "preloadHero": false,
+    "noindex": false,
+    "footerNote": "Product details checked October 2, 2026. Verify model variant and availability before purchase."
+  },
+  {
+    "output": "privacy.html",
+    "url": "/privacy.html",
+    "source": "pages/privacy.html",
+    "title": "Privacy — DustMigo",
+    "description": "DustMigo privacy notes: Google Analytics measurement, product links, and finder answers processed only in your browser.",
+    "preloadHero": false,
+    "noindex": false,
+    "footerNote": "Privacy notes updated October 6, 2026."
+  },
+  {
+    "output": "404.html",
+    "url": "/404.html",
+    "source": "pages/404.html",
+    "title": "Page not found — DustMigo",
+    "description": "Find your way back to DustMigo robot vacuum guides and replacement parts.",
+    "preloadHero": false,
+    "noindex": true,
+    "footerNote": "Product details checked October 2, 2026. Verify model variant and availability before purchase."
+  }
+]
