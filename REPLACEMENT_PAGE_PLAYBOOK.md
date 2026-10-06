@@ -20,7 +20,7 @@ Usa `_site-src/models/roborock-qrevo.json` come esempio del formato, non come te
 - Note di compatibilità, intervalli di manutenzione con fonti del produttore, FAQ pratiche e nota su come sono stati verificati i ricambi.
 - La disclosure affiliata una sola volta a fine pagina nel footer condiviso; nessuna ripetizione sotto pulsanti o immagini.
 
-Scrivi in inglese semplice per il pubblico USA. Dai precedenza alla scelta rapida del pezzo e alla compatibilità. Evita introduzioni generiche, affermazioni senza fonte, pagine sottili o duplicati. Se il modello non ha abbastanza ricambi verificabili, non forzare una guida pubblica.
+Scrivi in inglese semplice per il pubblico USA, dando precedenza alla scelta rapida del pezzo e alla compatibilità. Evita introduzioni generiche, affermazioni senza fonte, pagine sottili o duplicati. Se il modello non ha abbastanza ricambi verificabili, non forzare una guida pubblica.
 
 ## Navigazione, Analytics e generazione
 
