@@ -1,0 +1,209 @@
+{
+  "status": "published",
+  "slug": "roborock-s8-pro-ultra",
+  "name": "Roborock S8 Pro Ultra",
+  "brand": "Roborock",
+  "variant": "U.S. S8 Pro Ultra robot (S81USP) with Empty Wash Fill Dock (EWFD07LRR/EWFD08LRR)",
+  "title": "Roborock S8 Pro Ultra Replacement Parts: Filters, Dual Brushes & Dock Bags | DustMigo",
+  "description": "Find Roborock S8 Pro Ultra replacement filters, dual main brushes, side brushes, VibraRise mop pads, dock bags and dock cleaning brushes. Check robot and dock fit before ordering.",
+  "scope": "For the U.S. Roborock S8 Pro Ultra bundle: S8 Pro Ultra robot model S81USP and Empty Wash Fill Dock models EWFD07LRR/EWFD08LRR. The cards below identify robot-mounted parts and Ultra dock parts separately.",
+  "checkedDate": "2026-10-07",
+  "checkedLabel": "October 7, 2026",
+  "warning": "S8 and S8+ are different configurations, and S8 Max Ultra and S8 MaxV Ultra are separate models. Do not assume their rollers, filters, mop parts or dock accessories fit the S8 Pro Ultra. The disposable bags and small high-speed cleaning brushes below are for its Empty Wash Fill Dock.",
+  "robot": {
+    "asin": "B0BVB5PTDK",
+    "amazonTitle": "roborock S8 Pro Ultra Robot Vacuum and Mop, Auto Drying, Auto Mop Washing, Self Emptying, Self Refilling, Liftable Dual Brush & Sonic Mop, 6000Pa Suction, Obstacle Avoidance(RockDock Ultra Series)",
+    "image": "https://m.media-amazon.com/images/I/61b-693nj5L._AC_SX679_.jpg",
+    "imageAlt": "Roborock S8 Pro Ultra robot vacuum and RockDock Ultra from the Amazon listing",
+    "description": "The Amazon listing identifies the S8 Pro Ultra robot-and-dock bundle. Amazon showed the item as currently unavailable on October 7, 2026; check the exact model and current offer before considering a replacement robot.",
+    "sourceIds": ["robot-listing", "official-manual"],
+    "listingCheckedDate": "2026-10-07",
+    "sellerAtCheck": "No featured offer; Amazon showed the item as currently unavailable."
+  },
+  "parts": [
+    {
+      "id": "robot-filter",
+      "asin": "B08XZHW5ZQ",
+      "label": "Washable robot-bin filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "replacement filters",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "Two white washable robot filters in the selected Filter-A option.",
+      "fit": "The Roborock Amazon listing explicitly names the S8 Pro Ultra in its compatible-model list.",
+      "buyWhen": "Roborock recommends replacing the washable robot filter every 6–12 months, or sooner if it is damaged or remains clogged after cleaning.",
+      "check": "This is the air filter in the robot dustbin, not the separate water filter in the dock. Select the two-filter white Filter-A option. After rinsing, let the filter air-dry for at least 24 hours before reinstalling it.",
+      "image": "https://m.media-amazon.com/images/I/613nv0SAibL._AC_SX679_.jpg",
+      "imageAlt": "Two white Roborock washable robot-bin filters from the S8 Pro Ultra-compatible Amazon listing",
+      "amazonTitle": "Roborock Washable Filter for Roborock S8 Pro Ultra / S8+ / S8 / S7 Max Ultra / S7 / S7+ / S7 MaxV / S7 MaxV Plus / S7MaxV Ultra Robot Vacuum Cleaners (2Pcs White)",
+      "sourceIds": ["filter-listing", "official-manual", "official-series"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "Roborock Technology Co. Ltd; ships from Amazon."
+    },
+    {
+      "id": "dual-main-brushes",
+      "asin": "B0F8NKQXQQ",
+      "label": "Dual robot main-brush replacements",
+      "searchLabel": "replacement dual main brushes",
+      "buttonLabel": "dual main brushes",
+      "type": "Third-party",
+      "brand": "PELLYDA",
+      "pack": "Two sets of dual main-brush replacements in the selected “Main Brush Replacement for roborock S8” option.",
+      "fit": "The PELLYDA Amazon listing explicitly includes Roborock S8 Pro Ultra in the selected S8 dual-brush option.",
+      "buyWhen": "Roborock recommends cleaning the main brushes every two weeks and replacing them every 6–12 months, or sooner if a brush or end fitting is damaged.",
+      "check": "S8 Pro Ultra uses two short rollers as a set, not one full-width roller. Choose the S8 option, compare both brush ends with the originals, and treat this as a third-party fit claim; we have not physically fit-tested it.",
+      "image": "https://m.media-amazon.com/images/I/61TrcZMHoDL._AC_SX679_.jpg",
+      "imageAlt": "PELLYDA two-roller main-brush replacement set from the Amazon listing naming S8 Pro Ultra",
+      "amazonTitle": "Dual Main Brush Replacement, Roller Brushes Replacement Parts for roborock S8, S8+, S8 Pro Ultra, Q8 max, Q8 max+, Q5 Pro, Q5 Pro+ Robot Vacuum Cleaner.",
+      "sourceIds": ["main-brush-listing", "official-manual", "official-series"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "DIANXIANG US; ships from Amazon."
+    },
+    {
+      "id": "side-brushes",
+      "asin": "B0BVQC5P6W",
+      "label": "Black robot side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "side brushes",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "Two black Roborock robot side brushes.",
+      "fit": "Roborock's Amazon listing title and compatibility details explicitly include S8 Pro Ultra.",
+      "buyWhen": "Roborock recommends cleaning the side brush monthly and replacing it every 3–6 months, or sooner if bent or damaged.",
+      "check": "This is the screw-mounted brush on the robot underside. Compare its shape and screw fitting with your existing part; it is separate from the two main rollers and the dock's cleaning brush.",
+      "image": "https://m.media-amazon.com/images/I/41954aVFRAL._SX522_.jpg",
+      "imageAlt": "Two black Roborock robot side brushes from the Amazon listing naming S8 Pro Ultra",
+      "amazonTitle": "roborock Side Brushes Replacement (2 Pieces) for S8 Pro Ultra, S7 Max Ultra, Qrevo, Roborock Qrevo Slim, Series of S7 MaxV/S7/Q7Max/Q8 Max/S8/Q7/Q5/S6/S5/S4/E5/E4/E3/E2 Robot Vacuum Cleaner, Black",
+      "sourceIds": ["side-brush-listing", "official-manual"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "Roborock Technology Co. Ltd; ships from Amazon."
+    },
+    {
+      "id": "mop-cloths",
+      "asin": "B0CHJVC7ZW",
+      "label": "VibraRise 2.0 mop cloths",
+      "searchLabel": "replacement mop pads",
+      "buttonLabel": "mop pads",
+      "type": "Third-party",
+      "brand": "KGC",
+      "pack": "Six gray washable microfiber mop pads in the selected six-piece option.",
+      "fit": "The KGC Amazon listing says these dual-sonic pads fit the S8 Pro Ultra only. Roborock's manual confirms this model's VibraRise 2.0 mop system; the seller's fit claim has not been physically tested by DustMigo.",
+      "buyWhen": "Clean the mop cloth after each use. Roborock recommends replacing it every 3–6 months, or sooner if worn or no longer attaches securely.",
+      "check": "This is a third-party cloth-only pack; it does not include the mop mount. Confirm the gray VibraRise 2.0 pads match your original attachment surface. The replacement interval printed in the seller listing differs from Roborock's manual, so follow Roborock's 3–6 month guidance and inspect wear.",
+      "image": "https://m.media-amazon.com/images/I/915SJDbot7L._AC_SX679_.jpg",
+      "imageAlt": "Six gray KGC VibraRise 2.0 mop pads from the Amazon listing for S8 Pro Ultra",
+      "amazonTitle": "KGC 6-Pack Mop Pads for Roborock S8 Pro Ultra, Dual Sonic Microfiber | Upgraded VibraRise 2.0, Washable and Reusable, Strong Absorbent, Removes Stains and Dust, For Daily Floor Cleaning",
+      "sourceIds": ["mop-listing", "official-manual"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "holon supplier; ships from Amazon."
+    },
+    {
+      "id": "dock-bags",
+      "asin": "B09S3RK92B",
+      "label": "Empty Wash Fill Dock dust bags",
+      "searchLabel": "replacement dock dust bags",
+      "buttonLabel": "dock dust bags",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "Six original disposable dust bags; Amazon lists each bag at 2.5 liters. The selected option is “2-Dust Bag.”",
+      "fit": "Roborock's Amazon listing explicitly names S8 Pro Ultra. Its official U.S. store lists the same six-pack for this model.",
+      "buyWhen": "Replace the disposable bag when it is full, as directed in the S8 Pro Ultra manual.",
+      "check": "These bags are for the S8 Pro Ultra Empty Wash Fill Dock (EWFD07LRR/EWFD08LRR), not the robot dustbin or a different auto-empty dock. Confirm the selected six-pack and 2.5 L capacity before ordering; install a bag before the dock auto-empties.",
+      "image": "https://m.media-amazon.com/images/I/619PrGRA0SL._AC_SX679_.jpg",
+      "imageAlt": "Original Roborock disposable dock dust bags from the Amazon listing naming S8 Pro Ultra",
+      "amazonTitle": "Roborock 6-Pack Disposable Dust Bags for Robot Vacuum Cleaner S8 Pro Ultra, S7 Max Ultra, S7 MaxV Ultra, S8+, Q5 Max+, Q5 DuoRoller+, Q5 Pro+, Q7 Max+, Q8 Max+, Q5 Max+, Q5+, Q10 S5+, Q10 X5+, Q7 M5+",
+      "sourceIds": ["bag-listing", "official-bag", "official-manual"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "Roborock Technology Co. Ltd; ships from Amazon."
+    },
+    {
+      "id": "dock-cleaning-brushes",
+      "asin": "B0BX278HKX",
+      "label": "Ultra dock high-speed cleaning brushes",
+      "searchLabel": "replacement dock cleaning brushes",
+      "buttonLabel": "dock cleaning brushes",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "Two Roborock high-speed cleaning brushes for the Empty Wash Fill Dock.",
+      "fit": "The Roborock Amazon listing explicitly names S8 Pro Ultra and describes the brushes as parts for mop washing and dock self-cleaning.",
+      "buyWhen": "Roborock recommends cleaning the dock maintenance brush as needed and replacing it every 6–12 months, or sooner if damaged.",
+      "check": "This small high-speed brush rotates in the dock's mop-washing tray; it is not either of the two floor rollers under the robot. Check the brush and holder against your dock part before ordering.",
+      "image": "https://m.media-amazon.com/images/I/61cCgBwen0L._SX522_.jpg",
+      "imageAlt": "Two original Roborock high-speed dock cleaning brushes from the S8 Pro Ultra-compatible Amazon listing",
+      "amazonTitle": "roborock High-Speed Cleaning Brush for Saros 10/S8 MaxV Ultra/S8 Max Ultra/S8 Pro Ultra/S7 Max Ultra/S7 MaxV Ultra for Mop Washing and Dock Self-Cleaning (2pcs Included), Robot Vacuum Accessories",
+      "sourceIds": ["dock-brush-listing", "official-manual"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "Roborock Technology Co. Ltd; ships from Amazon."
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "S8 Pro Ultra vs. S8 and S8+",
+      "detail": "S8 Pro Ultra is a distinct S8-series configuration with the Empty Wash Fill Dock and VibraRise 2.0. Check each component separately; the S8 Pro Ultra dual main-brush assembly is not the single full-width roller used by earlier Roborock models."
+    },
+    {
+      "part": "S8 Pro Ultra vs. S8 Max Ultra and S8 MaxV Ultra",
+      "detail": "These are separate robot models. A listing naming S8 Pro Ultra can support a specific shared consumable, such as the black side brushes or dock brush, but does not establish compatibility for filters, rollers or mop parts across all S8 models."
+    },
+    {
+      "part": "Robot filter vs. dock water filter",
+      "detail": "The washable white filter sits in the robot dustbin. The dock's water filter is a separate part that the manual says to remove and rinse as needed; it does not give a scheduled replacement interval."
+    },
+    {
+      "part": "Robot rollers vs. dock cleaning brush",
+      "detail": "The two main rollers underneath the robot pick up floor debris. The smaller high-speed brush in the Empty Wash Fill Dock cleans the mop in the washing tray. They are different parts."
+    },
+    {
+      "part": "S8 Pro Ultra dock bags",
+      "detail": "The listed six-pack is a 2.5 L disposable dust-bag pack that names S8 Pro Ultra. Confirm your dock model is EWFD07LRR or EWFD08LRR; a bag listing alone does not establish compatibility with another station."
+    }
+  ],
+  "care": [
+    {"part": "Washable robot-bin filter", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Dual robot main brushes", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Robot side brush", "clean": "Monthly", "replace": "Every 3–6 months"},
+    {"part": "VibraRise 2.0 mop cloth", "clean": "After each use", "replace": "Every 3–6 months"},
+    {"part": "Dock high-speed cleaning brush", "clean": "As needed", "replace": "Every 6–12 months"},
+    {"part": "Dock disposable dust bag", "clean": "Disposable", "replace": "When full"},
+    {"part": "Dock water filter", "clean": "As needed", "replace": "No scheduled replacement interval in the manual"}
+  ],
+  "careTip": "Rinse the robot's washable filter with clean water and leave it to dry for at least 24 hours before reinstalling. Clear hair from both main-brush ends during routine cleaning. Keep a disposable bag installed when the dock auto-empties; rinse its separate water filter and clean the dock brush as needed.",
+  "questions": [
+    {
+      "question": "Which replacement filter fits the Roborock S8 Pro Ultra?",
+      "answer": "The linked original Roborock two-pack explicitly lists S8 Pro Ultra. Choose the white Filter-A option. It is the robot-bin air filter, not the dock water filter."
+    },
+    {
+      "question": "Does the S8 Pro Ultra use one main brush or two?",
+      "answer": "It uses two main rollers as a set. The linked third-party listing has a selected S8 option and explicitly names S8 Pro Ultra; compare the brush ends before ordering."
+    },
+    {
+      "question": "Which dust bags fit the Roborock S8 Pro Ultra dock?",
+      "answer": "The linked original Roborock six-pack is listed as 2.5 L bags and explicitly names S8 Pro Ultra. Confirm the dock is EWFD07LRR or EWFD08LRR and install a bag before auto-emptying."
+    },
+    {
+      "question": "How often should I replace Roborock S8 Pro Ultra filters, brushes and mop cloths?",
+      "answer": "Roborock recommends replacing the robot filter, main brushes and dock high-speed brush every 6–12 months, and the side brush and mop cloth every 3–6 months. Clean the filter and main brushes every two weeks, the side brush monthly and the mop cloth after each use. Replace damaged parts sooner."
+    },
+    {
+      "question": "Are the Roborock S8 Pro Ultra replacement parts on this page genuine?",
+      "answer": "The filter, side brushes, dock bags and dock cleaning brushes are Roborock-branded listings sold by Roborock Technology Co. Ltd when checked. The dual main-brush set is PELLYDA and the mop pads are KGC, both third-party listings. We have not physically fit-tested third-party parts."
+    },
+    {
+      "question": "Can I buy the original S8 Pro Ultra robot from Amazon?",
+      "answer": "The linked Amazon listing matched the S8 Pro Ultra robot-and-dock bundle, but showed the item as currently unavailable on October 7, 2026. Check the listing for a current offer; availability can change."
+    }
+  ],
+  "sources": [
+    {"id": "robot-listing", "label": "Amazon.com — Roborock S8 Pro Ultra robot and RockDock Ultra listing checked October 7, 2026", "url": "https://www.amazon.com/dp/B0BVB5PTDK"},
+    {"id": "official-manual", "label": "Roborock S8 Pro Ultra U.S. user manual — model numbers, replacement intervals and dock maintenance", "url": "https://support.roborock.com/hc/en-us/article_attachments/17820920870809"},
+    {"id": "official-series", "label": "Roborock U.S. — S8 series, DuoRoller/VibraRise configuration and washable filter compatibility", "url": "https://us.roborock.com/products/roborock-s8"},
+    {"id": "official-bag", "label": "Roborock U.S. — original six-pack dock bags listing S8 Pro Ultra compatibility", "url": "https://us.roborock.com/products/dust-bag-6-pcs-for-s7-maxv-ultra-q5-auto-empty-dock"},
+    {"id": "filter-listing", "label": "Amazon.com — original Roborock Filter-A two-pack washable robot filter checked October 7, 2026", "url": "https://www.amazon.com/dp/B08XZHW5ZQ"},
+    {"id": "main-brush-listing", "label": "Amazon.com — PELLYDA dual main-brush replacement, selected S8 option, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0F8NKQXQQ"},
+    {"id": "side-brush-listing", "label": "Amazon.com — original black two-piece Roborock side-brush listing checked October 7, 2026", "url": "https://www.amazon.com/dp/B0BVQC5P6W"},
+    {"id": "mop-listing", "label": "Amazon.com — KGC six-pack gray VibraRise 2.0-compatible mop pads checked October 7, 2026", "url": "https://www.amazon.com/dp/B0CHJVC7ZW"},
+    {"id": "bag-listing", "label": "Amazon.com — original Roborock six-pack 2.5 L S8 Pro Ultra dock bags checked October 7, 2026", "url": "https://www.amazon.com/dp/B09S3RK92B"},
+    {"id": "dock-brush-listing", "label": "Amazon.com — original two-piece Roborock high-speed dock-cleaning brush checked October 7, 2026", "url": "https://www.amazon.com/dp/B0BX278HKX"}
+  ]
+}
