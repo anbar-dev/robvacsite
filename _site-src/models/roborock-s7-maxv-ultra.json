@@ -1,0 +1,202 @@
+{
+  "status": "published",
+  "slug": "roborock-s7-maxv-ultra",
+  "name": "Roborock S7 MaxV Ultra",
+  "brand": "Roborock",
+  "variant": "U.S. S7 MaxV robot (S270RR) with Empty Wash Fill Dock (EWFD01LRR/EWFD02LRR)",
+  "title": "Roborock S7 MaxV Ultra Replacement Parts: Filters, Brushes & Dock Bags | DustMigo",
+  "description": "Find verified Roborock S7 MaxV Ultra replacement filters, main and dock brushes, mop cloths, and 2.5 L dust bags. Check robot versus Ultra dock fit before ordering.",
+  "scope": "For the U.S. Roborock S7 MaxV Ultra bundle: S7 MaxV robot model S270RR and Empty Wash Fill Dock models EWFD01LRR/EWFD02LRR. Choose robot-mounted parts or Ultra dock parts below.",
+  "checkedDate": "2026-10-07",
+  "checkedLabel": "October 7, 2026",
+  "warning": "S7 MaxV Plus uses an Auto-Empty Dock and different bags; S7 Max Ultra is a separate model. The 2.5 L bags and spinning cleaning brush below are for the S7 MaxV Ultra Empty Wash Fill Dock. Check robot parts separately.",
+  "robot": {
+    "asin": "B09NM549V7",
+    "amazonTitle": "roborock S7 MaxV Ultra Robot Vacuum and Mop, Auto Mop Washing, Self-Emptying, Self-Refilling, ReactiveAI 2.0 Obstacle Avoidance, 5100Pa Suction, App Control, Works with Alexa(RockDock Ultra Series)",
+    "image": "https://m.media-amazon.com/images/I/71DkV-xnzOL._AC_SX679_.jpg",
+    "imageAlt": "Black Roborock S7 MaxV Ultra robot vacuum and Empty Wash Fill Dock",
+    "description": "The Amazon listing names the S7 MaxV Ultra robot-and-dock bundle. Amazon showed the item as currently unavailable on October 7, 2026; check the exact model and current offer before considering a replacement robot.",
+    "sourceIds": ["robot-listing", "official-model"],
+    "listingCheckedDate": "2026-10-07",
+    "sellerAtCheck": "No offer; Amazon listed the item as currently unavailable."
+  },
+  "parts": [
+    {
+      "id": "robot-filter",
+      "asin": "B08XZHW5ZQ",
+      "label": "Washable robot-bin filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "replacement filters",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "Two white washable filters in the selected Filter-A option.",
+      "fit": "Roborock's Amazon listing explicitly names the S7MaxV Ultra in its compatible-model list.",
+      "buyWhen": "Roborock recommends replacing the washable robot filter every 6–12 months, or sooner if it is damaged or remains clogged after cleaning.",
+      "check": "This fits the robot dustbin, not the Ultra dock's separate water filter. The selected Amazon variation is Filter-A, a two-filter white pack. After rinsing, let the filter air-dry for at least 24 hours before reinstalling.",
+      "image": "https://m.media-amazon.com/images/I/613nv0SAibL._AC_SX679_.jpg",
+      "imageAlt": "Two white Roborock washable robot-bin filters from the S7 MaxV Ultra-compatible Amazon listing",
+      "amazonTitle": "Roborock Washable Filter for Roborock S8 Pro Ultra / S8+ / S8 / S7 Max Ultra / S7 / S7+ / S7 MaxV / S7 MaxV Plus / S7MaxV Ultra Robot Vacuum Cleaners (2Pcs White)",
+      "sourceIds": ["filter-listing", "official-manual"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "Roborock Technology Co. Ltd; ships from Amazon."
+    },
+    {
+      "id": "main-brush",
+      "asin": "B0DK134KW7",
+      "label": "Rubber robot main brush",
+      "searchLabel": "replacement main brush",
+      "buttonLabel": "main brush",
+      "type": "Third-party",
+      "brand": "Rrochio",
+      "pack": "One rubber main brush in the selected “S7 Main Brush1” option.",
+      "fit": "The Amazon title and compatibility bullet both explicitly include Roborock S7 MaxV Ultra.",
+      "buyWhen": "Roborock recommends cleaning the main brush every two weeks and replacing it every 6–12 months, or sooner if the brush is damaged.",
+      "check": "This Rrochio brush is a third-party robot roller, sold by MaiZG and shipped by Amazon when checked. Confirm the “S7 Main Brush1” option and compare the roller ends with your original brush; this is not the spinning cleaning brush in the dock.",
+      "image": "https://m.media-amazon.com/images/I/418JPXm4e4L._AC_SX679_.jpg",
+      "imageAlt": "Rrochio rubber main roller brush from the Amazon listing that names S7 MaxV Ultra compatibility",
+      "amazonTitle": "Rubber Main Brush for Roborock Q Revo Series,S7 Max Ultra,S7,S7+,S7 MaxV,S7 MaxV Plus,S7 MaxV Ultra,Q7 Max,Q7 Max+,Q5,Q5+ Robot Vacuum,Replacement Part Rubber Main Roller Brush",
+      "sourceIds": ["main-brush-listing", "official-manual"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "MaiZG; ships from Amazon."
+    },
+    {
+      "id": "side-brushes",
+      "asin": "B0BVQC5P6W",
+      "label": "Black robot side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "side brushes",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "Two black, screw-mounted side brushes in the selected Type B pack.",
+      "fit": "Roborock's Amazon listing covers the S7 MaxV robot family; its U.S. S7 MaxV product page identifies the Ultra configuration as that robot paired with the Empty Wash Fill Dock.",
+      "buyWhen": "Roborock recommends cleaning the side brush monthly and replacing it every 3–6 months, or sooner if bent or damaged.",
+      "check": "Select the black Type B two-piece pack and confirm the screw-mounted brush matches the one on your robot. This is a robot part; the S7 MaxV Ultra dock does not change the side-brush mount.",
+      "image": "https://m.media-amazon.com/images/I/41954aVFRAL._SX522_.jpg",
+      "imageAlt": "Two original black Roborock Type B side brushes from the Amazon listing for the S7 MaxV family",
+      "amazonTitle": "roborock Side Brushes Replacement (2 Pieces) for S8 Pro Ultra, S7 Max Ultra, Qrevo, Roborock Qrevo Slim, Series of S7 MaxV/S7/Q7Max/Q8 Max/S8/Q7/Q5/S6/S5/S4/E5/E4/E3/E2 Robot Vacuum Cleaner, Black",
+      "sourceIds": ["side-brush-listing", "official-model", "official-manual"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "Roborock Technology Co. Ltd; ships from Amazon."
+    },
+    {
+      "id": "mop-cloths",
+      "asin": "B09NNH1GPM",
+      "label": "VibraRise mop cloths",
+      "searchLabel": "replacement mop cloths",
+      "buttonLabel": "mop cloths",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "Two washable Roborock microfiber VibraRise mop cloths.",
+      "fit": "The Amazon listing's compatibility bullet explicitly names S7 MaxV Ultra, and Roborock's U.S. accessory page lists the same model for its S7-series mop cloth.",
+      "buyWhen": "Clean the cloth after each use; Roborock recommends replacement every 3–6 months, or sooner if worn or no longer attaches securely.",
+      "check": "This two-piece cloth pack does not include the plastic mop mount. Check that the gray cloth and attachment slot match the original VibraRise pad; clean and air-dry the cloth after mopping.",
+      "image": "https://m.media-amazon.com/images/I/715kHNo-ckL._AC_SX679_.jpg",
+      "imageAlt": "Two Roborock VibraRise replacement mop cloths from the S7 MaxV Ultra-compatible Amazon listing",
+      "amazonTitle": "Roborock Mop Cloth for S8+ & S8 & S7 MaxV Robot Vacuum (2 Pcs)",
+      "sourceIds": ["mop-listing", "official-accessories", "official-manual"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "Roborock Technology Co. Ltd; ships from Amazon."
+    },
+    {
+      "id": "dock-bags",
+      "asin": "B09S3RK92B",
+      "label": "2.5 L Empty Wash Fill Dock bags",
+      "searchLabel": "replacement dock dust bags",
+      "buttonLabel": "dock dust bags",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "Six original disposable dust bags; Amazon lists each bag at 2.5 L.",
+      "fit": "Roborock's Amazon listing explicitly names S7 MaxV Ultra and its 2.5 L bags. The S7 MaxV Ultra U.S. manual identifies its Empty Wash Fill Dock as model EWFD01LRR or EWFD02LRR.",
+      "buyWhen": "Replace the disposable bag when full. Roborock says the Empty Wash Fill Dock can hold debris for up to seven weeks, depending on use.",
+      "check": "These bags are for the S7 MaxV Ultra Empty Wash Fill Dock, not the Auto-Empty Dock used with S7 MaxV Plus. Confirm the 2.5 L capacity and Ultra dock model before ordering; the bag is separate from the robot-bin filter.",
+      "image": "https://m.media-amazon.com/images/I/619PrGRA0SL._AC_SX679_.jpg",
+      "imageAlt": "Six original 2.5-liter Roborock disposable dust bags from the listing naming S7 MaxV Ultra",
+      "amazonTitle": "Roborock 6-Pack Disposable Dust Bags for Robot Vacuum Cleaner S8 Pro Ultra, S7 Max Ultra, S7 MaxV Ultra, S8+, Q5 Max+, Q5 DuoRoller+, Q5 Pro+, Q7 Max+, Q8 Max+, Q5 Max+, Q5+, Q10 S5+, Q10 X5+, Q7 M5+",
+      "sourceIds": ["bag-listing", "official-model", "official-manual", "official-plus-bags"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "Roborock Technology Co. Ltd; ships from Amazon."
+    },
+    {
+      "id": "dock-brush",
+      "asin": "B0BX278HKX",
+      "label": "Ultra dock mop-washing brushes",
+      "searchLabel": "replacement dock cleaning brush",
+      "buttonLabel": "dock cleaning brushes",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "Two Roborock high-speed cleaning brushes for the Empty Wash Fill Dock.",
+      "fit": "The Amazon listing explicitly names S7 MaxV Ultra and describes these as the brush for mop washing and dock self-cleaning.",
+      "buyWhen": "Roborock recommends cleaning the dock maintenance brush as needed and replacing it every 6–12 months, or sooner if damaged.",
+      "check": "This is the small spinning brush in the Ultra dock's mop-washing tray, not the robot's rubber floor roller. Compare the brush and holder with the original dock part before installing; the manual says to rinse the brush clean as needed.",
+      "image": "https://m.media-amazon.com/images/I/61cCgBwen0L._SX522_.jpg",
+      "imageAlt": "Two Roborock high-speed dock cleaning brushes from the Amazon listing naming S7 MaxV Ultra",
+      "amazonTitle": "roborock High-Speed Cleaning Brush for Saros 10/S8 MaxV Ultra/S8 Max Ultra/S8 Pro Ultra/S7 Max Ultra/S7 MaxV Ultra for Mop Washing and Dock Self-Cleaning (2pcs Included), Robot Vacuum Accessories",
+      "sourceIds": ["dock-brush-listing", "official-manual"],
+      "listingCheckedDate": "2026-10-07",
+      "sellerAtCheck": "Roborock Technology Co. Ltd; ships from Amazon."
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "S7 MaxV Ultra vs. S7 MaxV Plus",
+      "detail": "The Ultra bundle pairs the S7 MaxV robot with the Empty Wash Fill Dock. S7 MaxV Plus uses an Auto-Empty Dock; Roborock says its Auto-Empty Dock bags are not compatible with the S7 MaxV Ultra Empty Wash Fill Dock."
+    },
+    {
+      "part": "Robot filter vs. dock water filter",
+      "detail": "The white washable filter fits the robot dustbin. The Ultra dock has a separate water filter in its cleaning tank; the manual says to remove and wash it as needed and gives no scheduled replacement interval. Do not order a robot air filter for the dock."
+    },
+    {
+      "part": "Robot main brush vs. dock cleaning brush",
+      "detail": "The rubber main brush rolls under the robot to pick up floor debris. The small high-speed brush rotates in the dock's washing tray to clean the mop and move dirty water. They are different parts."
+    },
+    {
+      "part": "S7 MaxV Ultra vs. S7 Max Ultra",
+      "detail": "These are separate models. Roborock's comparison gives the S7 MaxV Ultra a 5,100 Pa S7 MaxV robot and the Empty Wash Fill Dock; don't assume every S7 Max Ultra kit or bag fits. Use the exact component fit stated on each card."
+    }
+  ],
+  "care": [
+    {"part": "Washable robot-bin filter", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Rubber robot main brush", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Robot side brush", "clean": "Monthly", "replace": "Every 3–6 months"},
+    {"part": "VibraRise mop cloth", "clean": "After each use", "replace": "Every 3–6 months"},
+    {"part": "Dock high-speed cleaning brush", "clean": "As needed", "replace": "Every 6–12 months"},
+    {"part": "Dock disposable dust bag", "clean": "Disposable", "replace": "When full"},
+    {"part": "Dock water filter", "clean": "As needed", "replace": "No scheduled replacement interval in the manual"}
+  ],
+  "careTip": "Rinse the robot's washable filter with clean water only and leave it to dry for at least 24 hours. Keep a dust bag installed before the dock auto-empties. Remove and rinse the dock's high-speed brush and water filter as needed; they are separate from the robot filter and main roller.",
+  "questions": [
+    {
+      "question": "Which dust bag fits the Roborock S7 MaxV Ultra dock?",
+      "answer": "The linked original Roborock listing is a six-pack of 2.5 L disposable bags and explicitly names S7 MaxV Ultra. Roborock says the Ultra dock bag can hold debris for up to seven weeks, depending on use. S7 MaxV Plus uses an Auto-Empty Dock and different bags."
+    },
+    {
+      "question": "Does the S7 MaxV Ultra have two filters?",
+      "answer": "It has a washable air filter in the robot dustbin and a separate water filter in the dock's cleaning tank. The Amazon filter card is for the robot. Roborock's manual tells you to wash the dock water filter as needed and lists no scheduled replacement interval."
+    },
+    {
+      "question": "How often should I replace Roborock S7 MaxV Ultra filters and brushes?",
+      "answer": "Roborock recommends 6–12 months for the robot filter, main brush and dock high-speed brush, and 3–6 months for the side brush and VibraRise cloth. Clean the robot filter and main brush every two weeks, the side brush monthly, and the cloth after each use. Replace sooner if a part is damaged."
+    },
+    {
+      "question": "Are all linked Roborock S7 MaxV Ultra replacement parts genuine?",
+      "answer": "The filter, side brushes, mop cloth, dock bags and dock cleaning brushes are Roborock-branded listings sold by Roborock Technology Co. Ltd when checked. The rubber robot main brush is a Rrochio third-party part sold by MaiZG. We have not physically fit-tested third-party parts."
+    },
+    {
+      "question": "Can I buy the original S7 MaxV Ultra robot from the Amazon listing?",
+      "answer": "The Amazon page matched the Roborock S7 MaxV Ultra bundle, but it showed the item as currently unavailable on October 7, 2026. Check the current listing before ordering; availability may change."
+    }
+  ],
+  "sources": [
+    {"id": "robot-listing", "label": "Amazon.com — Roborock S7 MaxV Ultra robot and Empty Wash Fill Dock listing checked October 7, 2026", "url": "https://www.amazon.com/dp/B09NM549V7"},
+    {"id": "official-model", "label": "Roborock US — S7 MaxV Ultra, S7 MaxV Plus and S7 MaxV configurations", "url": "https://us.roborock.com/pages/roborock-s7-maxv"},
+    {"id": "official-manual", "label": "Roborock S7 MaxV Ultra U.S. user manual — model numbers, care intervals and Empty Wash Fill Dock maintenance", "url": "https://support.roborock.com/hc/en-us/article_attachments/6287880640281"},
+    {"id": "official-accessories", "label": "Roborock US — S7-series accessories and S7 MaxV mop-cloth compatibility", "url": "https://us.roborock.com/collections/accessories"},
+    {"id": "official-plus-bags", "label": "Roborock US — S7+ Auto-Empty Dock bags; not compatible with S7 MaxV Ultra Empty Wash Fill Dock", "url": "https://us.roborock.com/products/roborock-dust-bag-for-s7-auto-empty-dock-12-pack"},
+    {"id": "filter-listing", "label": "Amazon.com — Roborock Filter-A two-pack washable robot filter, checked October 7, 2026", "url": "https://www.amazon.com/dp/B08XZHW5ZQ"},
+    {"id": "main-brush-listing", "label": "Amazon.com — Rrochio S7 MaxV Ultra single rubber main brush, selected S7 Main Brush1 option, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0DK134KW7"},
+    {"id": "side-brush-listing", "label": "Amazon.com — Roborock black Type B two-piece side-brush pack, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0BVQC5P6W"},
+    {"id": "mop-listing", "label": "Amazon.com — Roborock two-piece mop-cloth listing with S7 MaxV Ultra compatibility, checked October 7, 2026", "url": "https://www.amazon.com/dp/B09NNH1GPM"},
+    {"id": "bag-listing", "label": "Amazon.com — Roborock six-pack 2.5 L S7 MaxV Ultra dock bags, checked October 7, 2026", "url": "https://www.amazon.com/dp/B09S3RK92B"},
+    {"id": "dock-brush-listing", "label": "Amazon.com — Roborock two-piece high-speed dock-cleaning brush for S7 MaxV Ultra, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0BX278HKX"}
+  ]
+}
