@@ -1,0 +1,117 @@
+{
+  "status": "published",
+  "slug": "eufy-robovac-11s-max",
+  "name": "eufy RoboVac 11S MAX",
+  "brand": "eufy",
+  "variant": "Original U.S. 11S MAX robot · model T2126",
+  "title": "eufy RoboVac 11S MAX Replacement Filters & Brush | DustMigo",
+  "description": "Find eufy RoboVac 11S MAX replacement filters and a rolling brush. Compare the T2126 3-in-1 filter, genuine part numbers, pack contents and exact-model fit before ordering.",
+  "scope": "This guide covers robot-mounted consumables for the U.S. eufy RoboVac 11S MAX (model T2126). It does not cover the standard RoboVac 11S (T2108) or self-empty dock bags; the 11S MAX uses a charging base, not an auto-empty station.",
+  "checkedDate": "2026-10-07",
+  "checkedLabel": "October 7, 2026",
+  "warning": "Check the robot label for T2126 / 11S MAX. The standard 11S (T2108) has a different filter assembly; this guide's 3-in-1 filter is eufy part T29151N2. Match the part number and selected model on the listing before checkout.",
+  "robot": {
+    "asin": "B07R295MLS",
+    "amazonTitle": "eufy 11S MAX Robot Vacuum Cleaner, Super Thin, Quiet | Self-Charging, Easy to use, Cleans Hard Floors to Medium-Pile Carpets, Black",
+    "image": "https://m.media-amazon.com/images/I/7162dbcZW3L._AC_SL1500_.jpg",
+    "imageAlt": "Black eufy RoboVac 11S MAX robot vacuum from the Amazon listing",
+    "description": "Amazon identifies this black 11S MAX listing as model AK-T2126. Confirm the selected 11S MAX model and included charging base on the live listing; the 15C MAX and standard 11S are separate models.",
+    "sourceIds": ["robot-listing", "official-model", "model-support"],
+    "listingCheckedDate": "2026-10-07"
+  },
+  "parts": [
+    {
+      "id": "filters",
+      "asin": "B07W6WF7BS",
+      "label": "Unibody filter sets",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "filters",
+      "type": "Original",
+      "brand": "eufy",
+      "pack": "2 sets of genuine eufy unibody filters (part T29151N2), according to the Amazon product details.",
+      "fit": "The Amazon listing names RoboVac 11S Max, and eufy lists this T29151N2 filter set for the 11S MAX. The owner’s manual identifies the MAX’s 3-in-1 filter.",
+      "buyWhen": "eufy recommends replacing the filter every 2 months, depending on use. Replace sooner if it is damaged or remains clogged after cleaning.",
+      "check": "This is the 11S MAX 3-in-1 filter, not the standard 11S (T2108) high-performance, foam and pre-filter assembly. eufy describes T29151N2 as non-washable; clean it dry and follow the listing’s instructions.",
+      "image": "https://m.media-amazon.com/images/I/61tkvG5VqML._AC_SL1500_.jpg",
+      "imageAlt": "Genuine eufy 11S Max unibody replacement filter set shown on its Amazon listing",
+      "amazonTitle": "eufy Replacement Filter, for 11S Max,15C Max,G10, G30,G30 Edge, G30 Hybrid",
+      "sourceIds": ["filter-listing", "filter-official", "model-support", "owner-manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "rolling-brush",
+      "asin": "B07CWRQK6M",
+      "label": "Rolling brush",
+      "searchLabel": "replacement rolling brush",
+      "buttonLabel": "rolling brush",
+      "type": "Original",
+      "brand": "eufy",
+      "pack": "1 genuine eufy rolling brush (model AK-T2907031).",
+      "fit": "The Amazon listing’s model details and eufy product page identify the T2907031 brush for the 11S MAX; eufy’s compatibility panel also names the 11S Max.",
+      "buyWhen": "The manual recommends replacing the rolling brush every 6–12 months, depending on use. Remove wrapped hair and debris first; replace it if the roller or end fittings are worn or damaged.",
+      "check": "This listing is for one brush only. The brush guard is a separate component; inspect it and match its fit separately if it also needs replacement.",
+      "image": "https://m.media-amazon.com/images/I/51SZ0L7swwL._AC_SL1500_.jpg",
+      "imageAlt": "Single genuine eufy replacement rolling brush from the Amazon listing",
+      "amazonTitle": "eufy Replacement Roller Brush | for 11S series,15C,15C MAX,25C,30,30C,30C MAX, 35C, 25C Max, G10 Hybrid,G30,G30 Edge, G30 Hybrid, G30 Verge, G20",
+      "sourceIds": ["rolling-brush-listing", "rolling-brush-official", "owner-manual"],
+      "listingCheckedDate": "2026-10-07"
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "Filter",
+      "detail": "The 11S MAX (T2126) uses one 3-in-1 unibody filter. The standard 11S (T2108) manual section shows a separate high-performance filter, foam filter and pre-filter. Do not choose a filter by the shared “11S” name alone."
+    },
+    {
+      "part": "Rolling brush",
+      "detail": "eufy’s T2907031 rolling brush listing includes the 11S MAX. The Amazon card is the single-brush offer; its brush guard is not included."
+    },
+    {
+      "part": "Side brush and brush guard",
+      "detail": "The manual lists both as replaceable robot parts. eufy’s T29161N2 Max-series kit is listed for the 11S MAX and includes four side brushes and one brush guard. A standalone Amazon side-brush page had no featured offer when checked, so it is not presented as a buy card."
+    },
+    {
+      "part": "Dock bags",
+      "detail": "The 11S MAX has a charging base, not a self-emptying dock, so there is no dock dust bag to replace."
+    }
+  ],
+  "care": [
+    {"part": "Filter", "clean": "Weekly", "replace": "Every 2 months"},
+    {"part": "Rolling brush", "clean": "Weekly", "replace": "Every 6–12 months"},
+    {"part": "Side brush", "clean": "Monthly", "replace": "Every 3–6 months, or when visibly worn"},
+    {"part": "Brush guard", "clean": "Monthly", "replace": "Every 3–6 months, or when its silicone strip is visibly worn"}
+  ],
+  "careTip": "Turn the robot off before servicing it. Clean the filter with a vacuum or cleaning brush rather than washing it, and let any part that gets wet dry completely before use. Remove hair from the rolling brush before replacing it.",
+  "questions": [
+    {
+      "question": "Which replacement filter fits the RoboVac 11S MAX?",
+      "answer": "For model T2126, choose eufy’s T29151N2 unibody 3-in-1 filter. The standard 11S (T2108) uses a different three-piece filter assembly, so a generic listing that only says “11S” is not enough to confirm fit."
+    },
+    {
+      "question": "Can I wash the 11S MAX replacement filter?",
+      "answer": "eufy describes T29151N2 as non-washable. Clean dust from it with a vacuum or cleaning brush, and follow the current manufacturer instructions if the filter becomes wet."
+    },
+    {
+      "question": "Does the eufy 11S MAX use dock dust bags?",
+      "answer": "No. Its charging base does not empty the robot’s dust collector into a disposable bag. The model’s consumables include the robot filter and brushes instead."
+    },
+    {
+      "question": "Where can I find 11S MAX side brushes and a brush guard?",
+      "answer": "eufy lists a Max-series maintenance kit, T29161N2, for the 11S MAX. The manufacturer describes that kit as including four side brushes and a brush guard. Check the current eufy kit contents and exact model before buying."
+    }
+  ],
+  "sources": [
+    {"id": "robot-listing", "label": "Amazon — eufy RoboVac 11S MAX, black, model AK-T2126", "url": "https://www.amazon.com/dp/B07R295MLS"},
+    {"id": "official-model", "label": "eufy — RoboVac 11S MAX (T2126)", "url": "https://www.eufy.com/products/t2126113?fliter_category=mini-robot-vacuum"},
+    {"id": "model-support", "label": "eufy support — RoboVac 11S MAX product page and manual downloads", "url": "https://service.eufy.com/product-description/a085g000000Nm4TAAS/robovac-11s-max"},
+    {"id": "owner-manual", "label": "eufy RoboVac 11S / 11S Max / 15C Max owner’s manual — filter diagrams and maintenance table, pp. 8–10", "url": "https://m.media-amazon.com/images/I/A1j63Gtw%2BaL.pdf"},
+    {"id": "filter-listing", "label": "Amazon — eufy T29151N2 unibody replacement filter listing", "url": "https://www.amazon.com/dp/B07W6WF7BS"},
+    {"id": "filter-official", "label": "eufy — T29151N2 replacement filter set", "url": "https://www.eufy.com/products/t29151n2"},
+    {"id": "rolling-brush-listing", "label": "Amazon — eufy T2907031 replacement rolling brush listing", "url": "https://www.amazon.com/dp/B07CWRQK6M"},
+    {"id": "rolling-brush-official", "label": "eufy — T2907031 replacement rolling brush", "url": "https://www.eufy.com/products/t2907031"},
+    {"id": "standalone-sidebrush-listing", "label": "Amazon — eufy T2905 replacement side brush listing, checked with no featured offer", "url": "https://www.amazon.com/dp/B07CWSS5GZ"},
+    {"id": "side-brush-support", "label": "eufy support — ordering RoboVac side brushes, including 11S MAX", "url": "https://service.eufy.com/article-description/How-to-order-Side-Brushes-for-my-RoboVac"},
+    {"id": "max-kit-listing", "label": "Amazon — eufy Max-series replacement kit listing", "url": "https://www.amazon.com/dp/B07W5VZRRW"},
+    {"id": "max-kit-official", "label": "eufy — T29161N2 Max-series replacement kit", "url": "https://www.eufy.com/us/products/t29161n2"}
+  ]
+}
