@@ -1,0 +1,259 @@
+{
+  "status": "published",
+  "slug": "eufy-l60-ses",
+  "name": "eufy L60 SES (T2277)",
+  "brand": "eufy",
+  "variant": "L60 with Self-Empty Station / T2277",
+  "title": "eufy L60 SES Replacement Parts: Filters, Brushes & Bags | DustMigo",
+  "description": "Find eufy L60 SES (T2277) replacement filters, dust bags, roller brushes and side brushes. Check exact model fit and distinguish the L60 with Self-Empty Station from L60 and L60 Hybrid models.",
+  "scope": "Replacement parts for the eufy L60 SES (T2277), also called L60 with Self-Empty Station. This guide covers the standard L60 robot and its self-empty dock, with separate fit notes for the filter, station bag and brushes.",
+  "checkedDate": "2026-10-07",
+  "checkedLabel": "October 7, 2026",
+  "warning": "Check the model label on the robot: this page covers L60 SES / T2277. The standard L60 (T2267), L60 Hybrid (T2268) and L60 Hybrid SES (T2278) have similar names, but the roller and some other parts differ.",
+  "robot": {
+    "asin": "B0CDB831GV",
+    "amazonTitle": "eufy L60 Robot Vacuum with Self Empty Station, Hair Detangling Technology, Up to 60 Days Hands Free Cleaning, 5,000 Pa Suction, Remove Hair, Dust",
+    "image": "https://m.media-amazon.com/images/I/61xDCHthTbL._AC_SL1500_.jpg",
+    "imageAlt": "eufy L60 robot vacuum with its Self-Empty Station",
+    "description": "The checked Amazon listing identifies the L60 with Self-Empty Station, not the L60 Hybrid. Confirm the model name and station in the selected listing before ordering a replacement robot.",
+    "sourceIds": [
+      "robot-listing",
+      "robot-official",
+      "model-support"
+    ],
+    "listingCheckedDate": "2026-10-07"
+  },
+  "parts": [
+    {
+      "id": "filters",
+      "asin": "B0DK517YZJ",
+      "label": "Replacement filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "replacement filters",
+      "type": "Third-party",
+      "brand": "COWINORY",
+      "pack": "Six third-party filter sets with foam filters, according to the Amazon listing.",
+      "fit": "The seller explicitly lists eufy L60 SES, alongside L50, L50 SES, L60 and L60 Hybrid.",
+      "buyWhen": "The filter is damaged or remains clogged after cleaning and fully drying. eufy recommends replacing its original washable filter every three months.",
+      "check": "This COWINORY set is not eufy OEM; the seller describes it as a HEPA replacement and advises a 1–2 month interval. eufy's original washable filter is part T29C7121. Compare the shape and follow the selected replacement's own care instructions.",
+      "image": "https://m.media-amazon.com/images/I/81YIVR6-c9L._AC_SL1500_.jpg",
+      "imageAlt": "Six COWINORY replacement filter sets for eufy L60 series robot vacuums",
+      "amazonTitle": "(6 Pack) L60 HEPA Efficiency Filters Compatible with Eufy L50, L50 SES, L60, L60 Hybrid, L60 SES Series Robot Vacuum, Robot Vacuum Replacement Parts, with Foam Filter 6 Sets",
+      "sourceIds": [
+        "filters-listing",
+        "filter-official",
+        "manual"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "roller-brush",
+      "asin": "B0DJRD1YKT",
+      "label": "Main roller brushes",
+      "searchLabel": "replacement roller brushes",
+      "buttonLabel": "replacement roller brushes",
+      "type": "Third-party",
+      "brand": "BRUVISH",
+      "pack": "Two third-party multi-surface roller brushes.",
+      "fit": "The seller names eufy L60 SES in its compatibility list. eufy's original roller for L60 SES is part T29E61A1.",
+      "buyWhen": "The roller is worn or damaged, or hair and debris keep wrapping around it after weekly cleaning. The T2277 manual gives a 6–12 month replacement interval.",
+      "check": "This listing is not eufy OEM and does not list L60 Hybrid SES. Do not substitute the standard L60 roller (T29G2111); compare the end fittings with the removed T2277 roller.",
+      "image": "https://m.media-amazon.com/images/I/81AsNGq+8qL._AC_SL1500_.jpg",
+      "imageAlt": "Two BRUVISH replacement main roller brushes for eufy L60-series robot vacuums",
+      "amazonTitle": "(2 Pack) L60 L50 Replacement Roller Brushes Compatible With eufy L60, L60 Hybrid, L60 SES, L50 SES, L50 Series Robot Vacuum, Main Brush Accessories Kit, Multi-Surface Brush",
+      "sourceIds": [
+        "roller-listing",
+        "roller-official",
+        "ses-roller-official",
+        "standard-roller-official",
+        "manual"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "side-brushes",
+      "asin": "B0DJM525X1",
+      "label": "Side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "replacement side brushes",
+      "type": "Third-party",
+      "brand": "BRUVISH",
+      "pack": "Ten side brushes (five pairs), according to the Amazon listing.",
+      "fit": "The seller explicitly lists L60 SES. eufy's original side-brush part T29D11A1 also lists L60 SES; this model uses one side brush.",
+      "buyWhen": "The brush arms are visibly worn, bent or broken, or the brush no longer sweeps edges effectively. eufy recommends replacement every 3–6 months or when visibly worn.",
+      "check": "This is a third-party 10-piece pack, not ten complete two-brush replacements. Match the screw fitting and brush shape to the single brush on your robot.",
+      "image": "https://m.media-amazon.com/images/I/5110ZARx0iL._AC_SL1500_.jpg",
+      "imageAlt": "BRUVISH replacement side brushes listed for eufy L60 SES and related models",
+      "amazonTitle": "(10 Pack) L60 L50 Replacement Side Brush Compatible With eufy Omni C20, L60, L60 Hybrid, L60 SES, L50 SES, L50 Series Robot Vacuum, Edge-Sweeping Brushes, Corner Brush Accessories Kit 10 Pieces",
+      "sourceIds": [
+        "side-listing",
+        "side-official",
+        "manual"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "dust-bags",
+      "asin": "B0CPJKLY1M",
+      "label": "Self-Empty Station dust bags",
+      "searchLabel": "replacement dust bags",
+      "buttonLabel": "replacement dust bags",
+      "type": "Third-party",
+      "brand": "CHIKIXSON",
+      "pack": "Ten disposable 2.5 L station bags.",
+      "fit": "The seller names the L60 SES Self-Empty Station. eufy's original six-bag part T29C6121 is also listed for L60 with Self-Empty Station.",
+      "buyWhen": "The station bag is full, damaged or the station indicates that it needs replacing. Household use changes how quickly it fills.",
+      "check": "These bags fit the Self-Empty Station, not the robot's dust box. The third-party listing also names L50 SES; check the bag collar and station fit before ordering. Standard L60 models without the station do not use these bags.",
+      "image": "https://m.media-amazon.com/images/I/71EdTNOIlCL._AC_SL1500_.jpg",
+      "imageAlt": "Ten CHIKIXSON replacement dust bags listed for eufy L60 SES and L50 SES stations",
+      "amazonTitle": "L60 Replacement Dust bags for eufy L50 SES, L60 SES Self-Empty Station, 10 Pack",
+      "sourceIds": [
+        "bags-listing",
+        "bags-official",
+        "robot-official"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "L60 SES vs. standard L60 roller",
+      "detail": "The L60 SES (T2277) uses eufy roller T29E61A1. The standard L60 (T2267) uses a different roller, T29G2111. Check the model sticker and roller end fittings; a shared filter or side brush does not mean the rollers are interchangeable."
+    },
+    {
+      "part": "Filter and side brush",
+      "detail": "eufy's accessory listings include both L60 and L60 SES for the washable filter T29C7121 and side brush T29D11A1. These shared fits do not extend to the main roller or station bags."
+    },
+    {
+      "part": "L60 SES vs. L60 Hybrid SES",
+      "detail": "The Hybrid SES is T2278 and adds a mopping module. eufy lists its T29E61A1 roller for both SES versions, but the linked Amazon roller listing names L60 SES and not L60 Hybrid SES. Check each Amazon listing for the exact variant before ordering."
+    },
+    {
+      "part": "Robot filter vs. station bag",
+      "detail": "The washable filter sits in the robot's dust box. A disposable dust bag sits inside the Self-Empty Station. The standard L60 without that station does not use a dock bag."
+    }
+  ],
+  "care": [
+    {
+      "part": "Robot dust box",
+      "clean": "After each use",
+      "replace": "No interval listed"
+    },
+    {
+      "part": "Filter (eufy original)",
+      "clean": "Weekly; air-dry completely",
+      "replace": "Every 3 months"
+    },
+    {
+      "part": "Side brush",
+      "clean": "Monthly",
+      "replace": "Every 3–6 months or when visibly worn"
+    },
+    {
+      "part": "Brush guard",
+      "clean": "Monthly or when visibly worn",
+      "replace": "Every 3–6 months or when visibly worn"
+    },
+    {
+      "part": "Rolling brush",
+      "clean": "Weekly",
+      "replace": "Every 6–12 months"
+    }
+  ],
+  "careTip": "The manual's schedule is a starting point; hair, dust, carpets and cleaning frequency can change wear. Its washable-filter instructions apply to eufy's original filter, not automatically to third-party replacements. The station bag is disposable; replace it when full or when the station indicates it needs attention.",
+  "questions": [
+    {
+      "question": "How do I tell an eufy L60 SES from an L60 Hybrid SES?",
+      "answer": "Check the model label: L60 SES is T2277, while L60 Hybrid SES is T2278 and has a mopping module. This page is for T2277. Some official parts are shared, but verify each listing rather than relying on the L60 name alone."
+    },
+    {
+      "question": "Does the L60 SES use the same roller as the standard L60?",
+      "answer": "No. eufy lists roller T29E61A1 for L60 SES and T29G2111 for standard L60. The Amazon listing above explicitly includes L60 SES, but compare its end fittings with your T2277 roller before ordering."
+    },
+    {
+      "question": "Can I wash the replacement filter in this guide?",
+      "answer": "The linked COWINORY filter is a third-party product; its Amazon listing advises replacing it every 1–2 months and does not establish that it is washable. eufy's original filter T29C7121 is washable. Follow the care directions for the exact filter you buy."
+    },
+    {
+      "question": "Are these genuine eufy replacement parts?",
+      "answer": "The four Amazon replacement-part listings here are third-party products, not eufy OEM parts. eufy's corresponding original part numbers are T29C7121 (filter), T29E61A1 (SES roller), T29D11A1 (side brush) and T29C6121 (station dust bags)."
+    }
+  ],
+  "sources": [
+    {
+      "id": "robot-listing",
+      "label": "Amazon.com — eufy L60 with Self-Empty Station robot listing",
+      "url": "https://www.amazon.com/dp/B0CDB831GV"
+    },
+    {
+      "id": "robot-official",
+      "label": "eufy — L60 with Self-Empty Station product page and specifications",
+      "url": "https://release.eufy.com/products/t2277111?variant=42812301017274"
+    },
+    {
+      "id": "model-support",
+      "label": "eufy support — L60 SES User Guide and support videos (T2277)",
+      "url": "https://service.eufy.com/product-description/a085g00000GiufvAAB"
+    },
+    {
+      "id": "hybrid-support",
+      "label": "eufy support — L60 Hybrid SES User Guide and mop guidance (T2278)",
+      "url": "https://service.eufy.com/product-description/a085g00000Gj2stAAB/eufy-clean-l60-hybrid-ses"
+    },
+    {
+      "id": "manual",
+      "label": "eufy L60 SES (T2277) user guide — cleaning and replacement schedule",
+      "url": "https://m.media-amazon.com/images/I/A1HX1g%2BRJsL.pdf"
+    },
+    {
+      "id": "filter-official",
+      "label": "eufy US — washable L50/L60/L60 SES filter, part T29C7121",
+      "url": "https://www.eufy.com/collections/clean-accessories"
+    },
+    {
+      "id": "side-official",
+      "label": "eufy US — replacement side brush compatibility, part T29D11A1",
+      "url": "https://www.eufy.com/us/products/t29d11a1"
+    },
+    {
+      "id": "roller-official",
+      "label": "eufy US — L60 SES and Hybrid SES roller and brush guard listings",
+      "url": "https://www.eufy.com/collections/brush-brush-guard"
+    },
+    {
+      "id": "ses-roller-official",
+      "label": "eufy — original L60 SES roller T29E61A1 and compatible SES models",
+      "url": "https://www.eufy.com/uk/products/t29e61a1?fliter_category=robovac-accessory"
+    },
+    {
+      "id": "standard-roller-official",
+      "label": "eufy — original L60/L60 Hybrid roller T29G2111 for T2267/T2268",
+      "url": "https://www.eufy.com/uk/products/t29g2111?fliter_category=accessory"
+    },
+    {
+      "id": "bags-official",
+      "label": "eufy US — six dust bags for L50/L60 Self-Empty Stations, part T29C6121",
+      "url": "https://us.eufy.com/collections/accessory-for-robot-with-self-empty-station"
+    },
+    {
+      "id": "filters-listing",
+      "label": "COWINORY third-party filter listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B0DK517YZJ"
+    },
+    {
+      "id": "roller-listing",
+      "label": "BRUVISH third-party roller listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B0DJRD1YKT"
+    },
+    {
+      "id": "side-listing",
+      "label": "BRUVISH third-party side-brush listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B0DJM525X1"
+    },
+    {
+      "id": "bags-listing",
+      "label": "CHIKIXSON third-party dust-bag listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B0CPJKLY1M"
+    }
+  ]
+}
