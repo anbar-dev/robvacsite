@@ -1,0 +1,243 @@
+{
+  "status": "published",
+  "slug": "irobot-roomba-i7-plus",
+  "name": "iRobot Roomba i7+",
+  "brand": "iRobot",
+  "variant": "i7+ vacuum with Clean Base",
+  "title": "iRobot Roomba i7+ Replacement Parts: Filters, Brushes & Clean Base Bags | DustMigo",
+  "description": "Find genuine Roomba i7+ replacement filters, dual rubber brushes, edge-sweeping brushes and Clean Base bags. Check the exact fit, pack contents and care intervals before ordering.",
+  "scope": "Choose a replacement filter, roller brush kit, side brush or Clean Base bag for the iRobot Roomba i7+. Parts for the robot and bags for its self-emptying dock are listed separately.",
+  "checkedDate": "2026-10-07",
+  "checkedLabel": "October 7, 2026",
+  "warning": "This guide covers the vacuum-only Roomba i7+ with Clean Base. A standard Roomba i7 may use the same robot consumables, but it does not need a Clean Base bag unless you have that dock. The Combo j7+ and Combo j9+ are different models; iRobot excludes them from its standard e/i/j refill kit.",
+  "robot": {
+    "asin": "B07GNPDMRP",
+    "amazonTitle": "iRobot Roomba i7+ (705) Robot Vacuum with Automatic Dirt Disposal, Wi-Fi Connected, Works with Alexa, Ideal for Pet Hair, Carpets, Hard Floors",
+    "image": "https://m.media-amazon.com/images/I/61i8b1-5kcL._AC_SL1500_.jpg",
+    "imageAlt": "iRobot Roomba i7+ robot vacuum with its automatic dirt disposal Clean Base",
+    "description": "This Amazon listing is for the Roomba i7+ with automatic dirt disposal. Amazon marked this exact listing unavailable on October 7, 2026; availability can change. Check the model and Clean Base configuration if you choose another listing.",
+    "sourceIds": [
+      "robot-listing",
+      "official-refill-kit",
+      "official-bags"
+    ],
+    "listingCheckedDate": "2026-10-07"
+  },
+  "parts": [
+    {
+      "id": "filters",
+      "asin": "B07H78FQ6R",
+      "label": "High-efficiency filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "replacement filters",
+      "type": "Original",
+      "brand": "iRobot",
+      "pack": "Three genuine iRobot 4639161 high-efficiency filters.",
+      "fit": "iRobot lists this e/i/j-series filter for Roomba i-series vacuums, including the i7+.",
+      "buyWhen": "iRobot recommends replacing the i-series filter every 2 months, or sooner if it is damaged or airflow stays restricted after cleaning.",
+      "check": "This filter is not washable. Tap debris off and keep it dry. This listing does not establish compatibility with Combo j7+ or Combo j9+.",
+      "image": "https://m.media-amazon.com/images/I/719lY-LZeKL._AC_SL1500_.jpg",
+      "imageAlt": "Three genuine iRobot 4639161 high-efficiency replacement filters for Roomba e, i and j series",
+      "amazonTitle": "iRobot Authentic Replacement Parts - 3-pack High-Efficiency Filter for Roomba e, i & j Series, and Roomba Combo i5 and j5 Series",
+      "sourceIds": [
+        "filter-listing",
+        "care-i-series",
+        "filter-care",
+        "official-refill-kit"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "roller-brush-kit",
+      "asin": "B09CV3QGF2",
+      "label": "Dual rubber roller brush refill kit",
+      "searchLabel": "replacement roller brushes",
+      "buttonLabel": "roller brush refill kit",
+      "type": "Original",
+      "brand": "iRobot",
+      "pack": "Genuine iRobot kit with one set of dual multi-surface rubber brushes, three filters and three edge-sweeping brushes.",
+      "fit": "iRobot's e/i/j refill kit includes the Roomba i7+. The robot uses a matched pair of dual rubber brushes.",
+      "buyWhen": "iRobot recommends replacing the dual multi-surface brushes every 6–12 months. Clean wrapped hair and debris weekly, or twice weekly in homes with pets.",
+      "check": "This is a multi-part kit, not a roller-only pack. iRobot excludes Combo j7+ and Combo j9+ from this standard refill kit; confirm the selected Amazon pack contents before ordering.",
+      "image": "https://m.media-amazon.com/images/I/61BiZ7I54bL._AC_SL1500_.jpg",
+      "imageAlt": "Genuine iRobot Roomba e, i and j series refill kit with dual rubber brushes, filters and edge-sweeping brushes",
+      "amazonTitle": "iRobot Authentic Replacement Parts - Replenishment Kit for Roomba e, i, and j Series and Roomba Combo i5 and j5 Series, Not Compatible with Combo j7+ or Combo j9+",
+      "sourceIds": [
+        "refill-kit-listing",
+        "care-i-series",
+        "brush-care",
+        "official-refill-kit"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "side-brushes",
+      "asin": "B09BDJ4FKK",
+      "label": "Edge-sweeping side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "side brushes",
+      "type": "Original",
+      "brand": "iRobot",
+      "pack": "Three genuine iRobot 4757625 edge-sweeping brushes.",
+      "fit": "iRobot lists part 4757625 for Roomba i-series robots, including the i7+.",
+      "buyWhen": "Clean the edge-sweeping brush monthly. Replace it if the bristles or hub are bent, missing or damaged; iRobot does not give a fixed replacement interval.",
+      "check": "This is the small screw-mounted brush that sweeps along edges, not either of the two main rubber rollers. Check that the mounting screw is included in the selected pack.",
+      "image": "https://m.media-amazon.com/images/I/41Spg1YONiL._AC_SL1000_.jpg",
+      "imageAlt": "Three genuine iRobot 4757625 replacement edge-sweeping side brushes for Roomba i, e and j series",
+      "amazonTitle": "Edge-Sweeping Brush 3 Pack for Roomba Combo and Roomba i, e and j Series and Roomba Combo 10 Max Robots",
+      "sourceIds": [
+        "side-brush-listing",
+        "care-i-series",
+        "official-side-brush"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "clean-base-bags",
+      "asin": "B07HJS45XQ",
+      "label": "Clean Base dirt-disposal bags",
+      "searchLabel": "Clean Base replacement bags",
+      "buttonLabel": "Clean Base bags",
+      "type": "Original",
+      "brand": "iRobot",
+      "pack": "Three genuine iRobot 4640235 disposable dirt-disposal bags.",
+      "fit": "The Amazon listing and iRobot's 4640235 product page include Clean Base models such as the Roomba i7+.",
+      "buyWhen": "Replace the disposable bag when the Clean Base indicator or app prompts you, or when the bag is full.",
+      "check": "The bag fits in the Clean Base dock, not inside the robot. A standard Roomba i7 owner only needs these if a Clean Base is installed.",
+      "image": "https://m.media-amazon.com/images/I/61ONk+aeUnL._AC_SL1500_.jpg",
+      "imageAlt": "Three genuine iRobot 4640235 dirt-disposal bags for Roomba Clean Base models including i7+",
+      "amazonTitle": "iRobot Authentic Replacement Parts - 3 Count (Pack of 1) Dirt Disposal Bags Compatible with Roomba Clean Base Models i1+, i3+, i4+, i5+, i7+, i8+, Combo j8+, j9+",
+      "sourceIds": [
+        "bags-listing",
+        "official-bags",
+        "clean-base-care"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "Roomba i7 and i7+",
+      "detail": "The i7 and i7+ share i-series robot consumables covered by iRobot's e/i/j refill kit. The plus package includes a Clean Base; only buy dock bags if your setup has that base."
+    },
+    {
+      "part": "Robot parts vs. Clean Base bags",
+      "detail": "Filters, dual rubber brushes and edge-sweeping brushes install on the robot. Dirt-disposal bags install in the Clean Base dock. A matching bag does not establish fit for any robot part."
+    },
+    {
+      "part": "Roomba Combo models",
+      "detail": "Combo j7+ and Combo j9+ are separate vacuum-and-mop robots. iRobot explicitly excludes them from its standard e/i/j refill kit; do not infer compatibility from shared series wording or a shared dock bag."
+    },
+    {
+      "part": "Genuine parts",
+      "detail": "The four linked consumable listings are iRobot-branded parts. The refill-kit listing bundles rollers, filters and side brushes; the other cards provide individual filter, side-brush and Clean Base bag options."
+    }
+  ],
+  "care": [
+    {
+      "part": "High-efficiency filter",
+      "clean": "Weekly; twice weekly in homes with pets",
+      "replace": "Every 2 months"
+    },
+    {
+      "part": "Dual multi-surface rubber brushes",
+      "clean": "Weekly; twice weekly in homes with pets",
+      "replace": "Every 6–12 months"
+    },
+    {
+      "part": "Edge-sweeping brush",
+      "clean": "Monthly",
+      "replace": "No fixed interval; replace when worn or damaged"
+    },
+    {
+      "part": "Clean Base bag",
+      "clean": "Disposable; keep the dock evacuation path clear",
+      "replace": "When prompted by the base or app"
+    }
+  ],
+  "careTip": "Roomba e/i/j filters are not washable: tap off debris and keep them dry. Before replacing the dual rubber brushes, remove wrapped hair from the rollers and their end caps. If the Clean Base signals a bag problem, check that the bag is present and seated correctly before replacing it.",
+  "questions": [
+    {
+      "question": "Do Roomba i7 and i7+ use the same replacement parts?",
+      "answer": "The robot consumables in iRobot's e/i/j refill kit cover i-series models including i7+. The i7+ package also includes a Clean Base, so it uses a disposable dock bag; a standard i7 only needs one if you bought that dock separately."
+    },
+    {
+      "question": "Will this Roomba i7+ kit fit Combo j7+ or Combo j9+?",
+      "answer": "No. iRobot explicitly says its standard e/i/j replenishment kit is not compatible with Combo j7+ or Combo j9+. Use a Combo-specific listing and verify each item rather than relying on the shared j-series name."
+    },
+    {
+      "question": "How often should I replace Roomba i7+ filters and brushes?",
+      "answer": "iRobot recommends replacing the filter every 2 months and the dual rubber brushes every 6–12 months. Clean the filter weekly and the brushes weekly, or twice weekly in a home with pets. Clean the edge brush monthly and replace it when worn or damaged."
+    },
+    {
+      "question": "Are these genuine iRobot replacement parts?",
+      "answer": "Yes. The filter, roller-brush refill kit, side brushes and Clean Base bags are iRobot-branded listings. Compare the part number and selected pack on Amazon before ordering because listing details and variations can change."
+    },
+    {
+      "question": "Is the original Roomba i7+ robot listing available?",
+      "answer": "The exact Amazon listing shown here was marked unavailable when checked on October 7, 2026. Amazon availability can change, so confirm the model and Clean Base configuration on the live listing or a current replacement listing."
+    }
+  ],
+  "sources": [
+    {
+      "id": "robot-listing",
+      "label": "Amazon.com — iRobot Roomba i7+ robot vacuum with automatic dirt disposal",
+      "url": "https://www.amazon.com/dp/B07GNPDMRP"
+    },
+    {
+      "id": "care-i-series",
+      "label": "iRobot Support — i-series cleaning and replacement intervals",
+      "url": "https://homesupport.irobot.com/articles/en_US/Knowledge/2454"
+    },
+    {
+      "id": "filter-care",
+      "label": "iRobot Support — e/i/j series bin and non-washable filter care",
+      "url": "https://homesupport.irobot.com/articles/en_US/Knowledge/2449"
+    },
+    {
+      "id": "brush-care",
+      "label": "iRobot Support — cleaning and replacing Roomba multi-surface brushes",
+      "url": "https://homesupport.irobot.com/articles/en_US/Knowledge/2451"
+    },
+    {
+      "id": "clean-base-care",
+      "label": "iRobot Support — Clean Base bag replacement and dock maintenance",
+      "url": "https://homesupport.irobot.com/articles/en_US/Knowledge/19533"
+    },
+    {
+      "id": "official-refill-kit",
+      "label": "iRobot — e/i/j replenishment kit contents and Combo j7+/j9+ exclusions",
+      "url": "https://www.irobot.com/en_US/roomba-j-and-i-series-self-emptying-robot-vacuum-refill-kit/J7plus_AB.html"
+    },
+    {
+      "id": "official-side-brush",
+      "label": "iRobot — 4757625 three-pack edge-sweeping brush for i/e/j series",
+      "url": "https://www.irobot.com/en_US/edge-sweeping-brush-3-pack-for-roomba-combo-and-roomba-i%2C-e-and-j-series-and-roomba-combo-10-max/4757625.html"
+    },
+    {
+      "id": "official-bags",
+      "label": "iRobot — 4640235 Clean Base dirt-disposal bags and replacement instructions",
+      "url": "https://www.irobot.com/en_US/replacement-dirt-disposal-bags%2c-3-pack/4640235.html?cgid=us"
+    },
+    {
+      "id": "filter-listing",
+      "label": "Amazon.com — iRobot 4639161 three-pack filter listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B07H78FQ6R"
+    },
+    {
+      "id": "refill-kit-listing",
+      "label": "Amazon.com — iRobot e/i/j replenishment kit listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B09CV3QGF2"
+    },
+    {
+      "id": "side-brush-listing",
+      "label": "Amazon.com — iRobot 4757625 three-pack side-brush listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B09BDJ4FKK"
+    },
+    {
+      "id": "bags-listing",
+      "label": "Amazon.com — iRobot 4640235 three-pack Clean Base bag listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B07HJS45XQ"
+    }
+  ]
+}
