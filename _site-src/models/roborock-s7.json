@@ -1,0 +1,127 @@
+{
+  "status": "published",
+  "slug": "roborock-s7",
+  "name": "Roborock S7",
+  "brand": "Roborock",
+  "variant": "Original S7 vacuum-and-mop robot; the S7+ package adds an auto-empty dock",
+  "title": "Roborock S7 Replacement Parts: Filters, Brushes & Mop Cloth Guide | DustMigo",
+  "description": "Shop verified Roborock S7 replacement filters, main roller brushes and side brushes. Compare exact pack contents and model fit, see manufacturer care intervals, and find the official VibraRise mop-cloth reference.",
+  "scope": "For the original Roborock S7 robot vacuum and mop. This guide links verified Amazon listings for its washable filter and brushes; the official S7-compatible VibraRise mop cloth is linked in the buying notes.",
+  "checkedDate": "2026-10-07",
+  "checkedLabel": "October 7, 2026",
+  "warning": "This guide covers the original S7 robot. S7+ adds an optional auto-empty dock; the standard S7 does not use disposable dock bags. S7 MaxV, S7 Max Ultra and S7 Pro Ultra are separate variants, so do not assume their complete kits or dock parts fit. The selected White - 04 variation of the Amazon S7 robot listing was unavailable when checked; offers and variants can change.",
+  "robot": {
+    "asin": "B08VHZJ6R2",
+    "amazonTitle": "roborock S7 Robot Vacuum and Mop, 2500PA Suction & Sonic Mopping, Robotic Vacuum Cleaner with Multi-Level Mapping, Works with Alexa, Mop Floors and Vacuum Carpets in One Clean, Perfect for Pet Hair",
+    "image": "https://m.media-amazon.com/images/I/61xhyLxWYzL._AC_SL1500_.jpg",
+    "imageAlt": "White Roborock S7 robot vacuum and mop",
+    "description": "This Amazon listing names the original Roborock S7 robot vacuum and mop. Its selected White - 04 variation was unavailable on October 7, 2026; confirm the model and current variation on Amazon because offers can change.",
+    "sourceIds": ["robot-listing", "official-s7"],
+    "listingCheckedDate": "2026-10-07"
+  },
+  "parts": [
+    {
+      "id": "filters",
+      "asin": "B08XZHW5ZQ",
+      "label": "Washable robot-bin filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "replacement filters",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "Two white washable filters in the selected Filter-A variation.",
+      "fit": "Roborock's Amazon listing explicitly names the original S7 among its compatible models.",
+      "buyWhen": "Roborock says to replace the washable filter every 6–12 months, or sooner if it is damaged or remains clogged after cleaning.",
+      "check": "This filter fits the robot dustbin, not an optional dock. Rinse it gently and let it air-dry for at least 24 hours before reinstalling; check that the selected option is Filter-A, the two-piece white pack.",
+      "image": "https://m.media-amazon.com/images/I/613nv0SAibL._AC_SL1500_.jpg",
+      "imageAlt": "Two genuine Roborock washable white filters for the S7 and listed S-series models",
+      "amazonTitle": "Roborock Washable Filter for Roborock S8 Pro Ultra / S8+ / S8 / S7 Max Ultra / S7 / S7+ / S7 MaxV / S7 MaxV Plus / S7MaxV Ultra Robot Vacuum Cleaners (2Pcs White)",
+      "sourceIds": ["filter-listing", "official-manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "main-brush",
+      "asin": "B0FG2M5ZPP",
+      "label": "Rubber main roller brushes",
+      "searchLabel": "replacement main brushes",
+      "buttonLabel": "main brush",
+      "type": "Third-party",
+      "brand": "PELLYDA",
+      "pack": "Three rubber rollers; the selected option is “Main Brush Replacement for roborock S7.”",
+      "fit": "The selected Amazon variation names the Roborock S7; the listing also names several related models.",
+      "buyWhen": "Roborock recommends replacing the main brush every 6–12 months. Remove wrapped hair and debris every two weeks, or more often if needed.",
+      "check": "This is a third-party full-width rubber roller for the original S7. The S7 uses one main roller; do not substitute a DuoDivide set for a newer model. Confirm the S7 option and three-piece pack on Amazon.",
+      "image": "https://m.media-amazon.com/images/I/61R62cNquaL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "imageAlt": "Three PELLYDA rubber main-roller brushes from the Roborock S7-compatible Amazon listing",
+      "amazonTitle": "Replacement Roller Brushes, Rubber Main Brush Replacement Parts for roborock Q Revo Series, S7, S7+, S7 MaxV, S7 MaxV Plus, S7 Max Ultra, T7S, T7S Plus, QV 35A, Q7 Series Robot Vacuum.",
+      "sourceIds": ["main-brush-listing", "official-manual", "official-s7"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "side-brushes",
+      "asin": "B0BVQC5P6W",
+      "label": "Edge-sweeping side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "side brushes",
+      "type": "Original",
+      "brand": "Roborock",
+      "pack": "One selected Type B pack containing two black side brushes; Amazon labels the variation “Pack of 1.”",
+      "fit": "Roborock's listing explicitly names the S7 in its compatible-model list. The selected Type B pack contains two brushes.",
+      "buyWhen": "Roborock recommends replacing the side brush every 3–6 months. Clean it monthly and replace it sooner if bent or damaged.",
+      "check": "This small screw-mounted brush sweeps along edges; it is not the main roller. Confirm Type B and the two-brush contents in the listing before ordering.",
+      "image": "https://m.media-amazon.com/images/I/41954aVFRAL._SL1080_.jpg",
+      "imageAlt": "Two black Roborock Type B side brushes in the selected S7-compatible Amazon pack",
+      "amazonTitle": "roborock Side Brushes Replacement (2 Pieces) for S8 Pro Ultra, S7 Max Ultra, Qrevo, Roborock Qrevo Slim, Series of S7 MaxV/S7/Q7Max/Q8 Max/S8/Q7/Q5/S6/S5/S4/E5/E4/E3/E2 Robot Vacuum Cleaner, Black",
+      "sourceIds": ["side-brush-listing", "official-manual", "official-accessories"],
+      "listingCheckedDate": "2026-10-07"
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "Original S7 vs. S7+",
+      "detail": "The S7+ package adds an auto-empty dock to the S7 robot. These three cards cover robot-mounted consumables. Do not buy disposable dock bags unless your setup has a compatible auto-empty dock."
+    },
+    {
+      "part": "S7 vs. S7 MaxV, S7 Max Ultra and S7 Pro Ultra",
+      "detail": "Some Amazon listings group several S7 names together, but that does not prove that every filter, brush or dock part is shared. Each linked listing above names the original S7, and the selected pack is described on its card."
+    },
+    {
+      "part": "VibraRise mop cloth",
+      "detail": "Roborock's official two-piece mop-cloth page lists the S7 as compatible. Use that product page to check the cloth if you need one; this guide does not link an Amazon mop-cloth card because a same-listing Amazon photo could not be verified."
+    }
+  ],
+  "care": [
+    {"part": "Washable robot-bin filter", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Rubber main roller", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Side brush", "clean": "Monthly", "replace": "Every 3–6 months"},
+    {"part": "VibraRise mop cloth", "clean": "After each use", "replace": "Every 3–6 months"}
+  ],
+  "careTip": "A washable filter needs at least 24 hours to air-dry after rinsing. Clear hair from both ends of the roller before replacing it, and remove and wash the VibraRise cloth after mopping. Wear and use can change replacement timing.",
+  "questions": [
+    {
+      "question": "How often should I replace Roborock S7 filters and brushes?",
+      "answer": "Roborock recommends replacing the washable filter and main roller every 6–12 months, and the side brush every 3–6 months. Clean the filter and roller every two weeks and the side brush monthly. Replace a part sooner if it is damaged or no longer works properly."
+    },
+    {
+      "question": "Which Roborock S7 mop cloth fits?",
+      "answer": "Roborock's official two-piece replacement cloth page names the S7. Open the Roborock mop-cloth source below and confirm the product details; this guide does not present an Amazon cloth card without a verified same-listing photo."
+    },
+    {
+      "question": "Does the standard Roborock S7 use dust bags?",
+      "answer": "No. The standard S7 uses its robot dustbin. The S7+ bundle includes an auto-empty dock; buy dock bags only if you have that compatible dock, and check the dock model separately."
+    },
+    {
+      "question": "Are the linked Roborock S7 replacement parts all genuine?",
+      "answer": "The washable filters and side brushes are Roborock-branded Amazon listings. The three-roller PELLYDA brush is a third-party replacement. The cards identify each listing's brand and pack; confirm the selected variation before ordering."
+    }
+  ],
+  "sources": [
+    {"id": "robot-listing", "label": "Amazon.com — original Roborock S7 robot vacuum and mop, white listing checked October 7, 2026", "url": "https://www.amazon.com/dp/B08VHZJ6R2"},
+    {"id": "official-s7", "label": "Roborock — original S7 product specifications", "url": "https://us.roborock.com/pages/roborock-s7"},
+    {"id": "official-manual", "label": "Roborock S7 user manual — maintenance schedule, filter care and replacement intervals", "url": "https://support.roborock.com/hc/en-us/article_attachments/900008254623"},
+    {"id": "official-accessories", "label": "Roborock US — accessories listing Roborock replacement side brushes for S series", "url": "https://us.roborock.com/collections/accessories"},
+    {"id": "official-mop-cloth", "label": "Roborock — two-piece VibraRise mop cloth listing S7 compatibility", "url": "https://us.roborock.com/products/mop-cloth-2-for-s7-s7-maxv-series/1000"},
+    {"id": "filter-listing", "label": "Amazon.com — Roborock washable filter, selected Filter-A two-pack checked October 7, 2026", "url": "https://www.amazon.com/dp/B08XZHW5ZQ"},
+    {"id": "main-brush-listing", "label": "Amazon.com — PELLYDA replacement roller listing, selected S7 three-pack checked October 7, 2026", "url": "https://www.amazon.com/dp/B0FG2M5ZPP"},
+    {"id": "side-brush-listing", "label": "Amazon.com — Roborock Type B side brushes, selected two-brush pack checked October 7, 2026", "url": "https://www.amazon.com/dp/B0BVQC5P6W"}
+  ]
+}
