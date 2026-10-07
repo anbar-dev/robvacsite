@@ -15,7 +15,7 @@ Segnali espliciti osservati: eufy presenta X10 Pro Omni come bestseller; Roboroc
 | 1 | Roborock Qrevo originale | Primo modello | Filtro della prima generazione; rullo singolo; differenze con Qrevo S e S5V |
 | 2 | eufy X10 Pro Omni | Primo gruppo | Guida pubblicata il 6 ottobre 2026; verificati kit, filtri, mop e sacchetti. Solo i mop cloths condivisi con X9 sono confermati |
 | 3 | eufy L60 con Self-Empty Station | Primo gruppo | Guida pubblicata il 7 ottobre 2026; distinta la T2277 da L60 e L60 Hybrid; verificati filtro, rullo, spazzola laterale e sacchetti SES |
-| 4 | iRobot Roomba j7+ | Primo gruppo | Pezzi robot j7 rispetto ai sacchetti della Clean Base; distinguere Combo |
+| 4 | iRobot Roomba j7+ | Primo gruppo | Guida pubblicata il 7 ottobre 2026; filtri, rulli, spazzola laterale e sacchetti Clean Base verificati. Distinta Combo j7+ |
 | 5 | Roborock Qrevo S5V | Primo gruppo | Rullo DuoDivide e ricambi esatti; è già presente nella shortlist DustMigo |
 | 6 | Roborock Q5 Pro+ | Primo gruppo | Due rulli e dock; evitare equivalenze con Q5 originale |
 | 7 | Dreame L10s Ultra originale | Primo gruppo | Ricambi della generazione originale rispetto a Gen 2 e Pro |

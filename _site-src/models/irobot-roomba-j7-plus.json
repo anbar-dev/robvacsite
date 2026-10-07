@@ -1,0 +1,244 @@
+{
+  "status": "published",
+  "slug": "irobot-roomba-j7-plus",
+  "name": "iRobot Roomba j7+",
+  "brand": "iRobot",
+  "variant": "j7+ (7550) vacuum with Clean Base",
+  "title": "iRobot Roomba j7+ Replacement Parts: Filters, Brushes & Clean Base Bags | DustMigo",
+  "description": "Find Roomba j7+ replacement filters, rubber roller brushes, side brushes and Clean Base bags. Compare exact fit, pack sizes and care intervals before ordering.",
+  "scope": "Choose the j7+ replacement filter, rubber rollers, side brush or Clean Base bag you need. These Amazon listings name the j7+; check your model label and the selected pack before ordering.",
+  "checkedDate": "2026-10-07",
+  "checkedLabel": "October 7, 2026",
+  "warning": "This guide is for the vacuum-only Roomba j7+ (7550) with Clean Base. The standard j7 (7150) has no Clean Base unless bought separately. Roomba Combo j7+ (C755020) is a different vacuum-and-mop model; do not assume its filter or roller compatibility from this guide.",
+  "robot": {
+    "asin": "B094NYHTMF",
+    "amazonTitle": "iRobot Roomba j7+ (7550) Self-Emptying Robot Vacuum – Uses PrecisionVision Navigation to Identify & Avoid Objects Like Socks, Shoes, & Pet Waste, Smart Mapping, Self-Empty for Up to 60 Days",
+    "image": "https://m.media-amazon.com/images/I/71NwZ7H+zEL._AC_SL1500_.jpg",
+    "imageAlt": "iRobot Roomba j7+ model 7550 self-emptying robot vacuum with Clean Base",
+    "description": "The Amazon listing names the vacuum-only Roomba j7+ (7550) and shows its self-emptying Clean Base. Confirm the model number and the included dock on the listing before ordering a replacement robot.",
+    "sourceIds": [
+      "robot-listing",
+      "robot-official"
+    ],
+    "listingCheckedDate": "2026-10-07"
+  },
+  "parts": [
+    {
+      "id": "filters",
+      "asin": "B09XPJSDGZ",
+      "label": "High-efficiency filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "replacement filters",
+      "type": "Third-party",
+      "brand": "EAGLEGGO",
+      "pack": "Three third-party 4639161 high-efficiency filters, according to the Amazon listing.",
+      "fit": "The seller lists Roomba j7+ model 7550 among the compatible e, i and j series vacuums.",
+      "buyWhen": "iRobot recommends replacing the j-series filter every 2 months. Replace it sooner if damaged or if cleaning it does not restore pickup.",
+      "check": "This is not an iRobot filter. The listing names j7+ (7550); it does not establish fit for Combo j7+. The filter is not washable—keep it away from water.",
+      "image": "https://m.media-amazon.com/images/I/614+gzxgSpL._AC_SL1200_.jpg",
+      "imageAlt": "Three EAGLEGGO 4639161 replacement filters listed for Roomba j7+ and other e, i and j series vacuums",
+      "amazonTitle": "4639161 High-Efficiency Filter Replacement for i-Robot Roomba E I J，3 Pack",
+      "sourceIds": [
+        "filter-listing",
+        "care-j-series",
+        "filter-care",
+        "official-refill-kit"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "roller-brushes",
+      "asin": "B0DPLC16L9",
+      "label": "Dual rubber roller brushes",
+      "searchLabel": "replacement rubber roller brushes",
+      "buttonLabel": "replacement roller brushes",
+      "type": "Third-party",
+      "brand": "Pivxsnkew",
+      "pack": "Two sets of third-party dual rubber roller brushes.",
+      "fit": "The seller lists Roomba j7 and j7+ in the compatible E, I and J series.",
+      "buyWhen": "iRobot recommends replacing j-series brushes every 6–12 months. Remove wrapped hair and debris weekly before replacing worn or damaged rollers.",
+      "check": "This is not an iRobot brush set. Its listing also names Combo i5 and j5, but that does not mean it fits the separate Combo j7+ model. Compare the end fittings with your removed pair.",
+      "image": "https://m.media-amazon.com/images/I/71FtLLSXzcL._AC_SL1500_.jpg",
+      "imageAlt": "Two sets of Pivxsnkew replacement dual rubber roller brushes listed for the Roomba j7 and j7+",
+      "amazonTitle": "2 Set Replacement Brushes Compatible for iRobot Roomba E & I & J Series e5 e6 e7 i1 i1+ i2 i3 i3+ i4 i4+ i6 i6+i7 i7+ i8 i8+ j6+ j7 j7+,Combo i5 i5+j5 j5+ Vacuum Cleaner",
+      "sourceIds": [
+        "roller-listing",
+        "care-j-series",
+        "official-refill-kit",
+        "combo-parts"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "side-brushes",
+      "asin": "B0C2KKBD6P",
+      "label": "Edge-sweeping side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "replacement side brushes",
+      "type": "Third-party",
+      "brand": "neutop",
+      "pack": "Nine third-party edge-sweeping brushes with screws, according to the Amazon listing.",
+      "fit": "The seller lists Roomba j7+ among its compatible j-series models.",
+      "buyWhen": "Replace a brush when its arms are bent, missing or no longer sweep edges effectively. iRobot's j-series chart calls for monthly cleaning but gives no fixed replacement interval.",
+      "check": "This is not an iRobot brush. Match the screw mount and brush shape to your original; seller compatibility claims have not been fit-tested by DustMigo.",
+      "image": "https://m.media-amazon.com/images/I/51SJrTFFTkL._AC_SL1000_.jpg",
+      "imageAlt": "Nine neutop replacement edge-sweeping brushes with screws listed for Roomba j7+ and other e, i and j series robots",
+      "amazonTitle": "Edge Sweeping Brushes for iRobot Roomba e/i/j Series, 9-Pack",
+      "sourceIds": [
+        "side-listing",
+        "care-j-series",
+        "j-series-maintenance"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "clean-base-bags",
+      "asin": "B0C6KFHF82",
+      "label": "Clean Base dirt-disposal bags",
+      "searchLabel": "Clean Base replacement bags",
+      "buttonLabel": "Clean Base bags",
+      "type": "Third-party",
+      "brand": "VBN",
+      "pack": "Twelve third-party Clean Base bags in the selected Amazon pack, plus a cleaning brush and screwdriver.",
+      "fit": "The seller's compatibility details name Roomba j7+ and all Clean Base models.",
+      "buyWhen": "Replace the bag when the Clean Base or app prompts you. Household debris and cleaning frequency affect how quickly it fills.",
+      "check": "These bags go inside the Clean Base dock, not in the robot's dust bin. The j7+ includes a Clean Base; a standard j7 needs the optional dock. This is not an iRobot bag.",
+      "image": "https://m.media-amazon.com/images/I/713iKexjD4L._AC_SL1500_.jpg",
+      "imageAlt": "Twelve VBN replacement dirt-disposal bags listed for the Roomba j7+ and Clean Base models",
+      "amazonTitle": "VBN 12 Pack Vacuum Bags for Roomba i/j/s & 100-700 Combo Dirt Disposal Bags",
+      "sourceIds": [
+        "bags-listing",
+        "clean-base-care",
+        "official-bags",
+        "robot-official"
+      ],
+      "listingCheckedDate": "2026-10-07"
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "j7 vs. j7+",
+      "detail": "iRobot's j-series care chart and its e/i/j replenishment-kit listing cover the j7 and j7+ robot parts. The plus sign identifies the self-emptying package: Clean Base bags are only needed when a Clean Base is installed."
+    },
+    {
+      "part": "Robot parts vs. Clean Base bags",
+      "detail": "Filters, rubber rollers and the edge-sweeping brush are robot consumables. The disposable bag belongs inside the Clean Base dock. iRobot says its bags fit Clean Base models; a j7 owner without that dock does not need a bag."
+    },
+    {
+      "part": "Roomba Combo j7+",
+      "detail": "Combo j7+ (C755020) is a separate vacuum-and-mop model. iRobot states that the standard e/i/j replenishment kit is not compatible with Combo j7+; verify every accessory against the Combo-specific listing. The side-brush and bag sellers may list Combo models, but that does not prove their filters or rollers fit."
+    },
+    {
+      "part": "Third-party parts",
+      "detail": "All four replacement consumable listings on this page are third-party products. Compatibility statements come from the Amazon sellers and have not been independently fit-tested by DustMigo."
+    }
+  ],
+  "care": [
+    {
+      "part": "High-efficiency filter",
+      "clean": "Weekly; twice weekly in homes with pets",
+      "replace": "Every 2 months"
+    },
+    {
+      "part": "Dual multi-surface brushes",
+      "clean": "Weekly; twice weekly in homes with pets",
+      "replace": "Every 6–12 months"
+    },
+    {
+      "part": "Edge-sweeping brush",
+      "clean": "Monthly",
+      "replace": "No fixed interval listed; replace when worn or damaged"
+    },
+    {
+      "part": "Clean Base bag",
+      "clean": "No routine cleaning; keep the evacuation path clear",
+      "replace": "When prompted by the Clean Base or app"
+    }
+  ],
+  "careTip": "iRobot says j-series filters are not washable: tap debris off and keep the filter dry. Clean the main brushes weekly, or twice weekly in homes with pets. The Clean Base/app prompt is the replacement cue for a full bag; a red light can also mean the bag is missing or not seated correctly.",
+  "questions": [
+    {
+      "question": "Do the same replacement parts fit Roomba j7 and j7+?",
+      "answer": "iRobot's j-series chart and standard e/i/j refill kit cover the j7 and j7+ robot parts. The important package difference is the Clean Base: j7+ includes it, while j7 does not unless the dock was purchased separately. Only buy bags if your setup has that base."
+    },
+    {
+      "question": "Can I use these j7+ parts on Roomba Combo j7+?",
+      "answer": "Do not use this guide for Combo j7+ as a whole. iRobot says its standard e/i/j replenishment kit is not compatible with Combo j7+. Some individual sellers list a shared side brush or dock bag, but that does not establish fit for the filter or rollers."
+    },
+    {
+      "question": "How often should I replace the Roomba j7+ filter and brushes?",
+      "answer": "iRobot's j-series chart recommends replacing the filter every 2 months and the dual brushes every 6–12 months. It gives no fixed replacement interval for the edge-sweeping brush; clean it monthly and replace it when worn or damaged."
+    },
+    {
+      "question": "Are these genuine iRobot replacement parts?",
+      "answer": "No. The four linked consumable products are third-party listings from EAGLEGGO, Pivxsnkew, neutop and VBN. Their sellers list Roomba j7+ compatibility; DustMigo has not independently tested fit or performance. The original j7+ robot listing is shown separately below."
+    }
+  ],
+  "sources": [
+    {
+      "id": "robot-listing",
+      "label": "Amazon.com — iRobot Roomba j7+ (7550) Self-Emptying Robot Vacuum",
+      "url": "https://www.amazon.com/dp/B094NYHTMF"
+    },
+    {
+      "id": "robot-official",
+      "label": "iRobot — Roomba j7+ model J755020 and Clean Base specifications",
+      "url": "https://www.irobot.com/en_US/roomba-j7plus-self-emptying-robot-vacuum/J755020.html"
+    },
+    {
+      "id": "care-j-series",
+      "label": "iRobot Support — Roomba j Series care frequencies and replacement intervals",
+      "url": "https://homesupport.irobot.com/articles/en_US/Knowledge/31042"
+    },
+    {
+      "id": "clean-base-care",
+      "label": "iRobot Support — Clean Base bag replacement frequency and maintenance",
+      "url": "https://homesupport.irobot.com/articles/en_US/Knowledge/19533"
+    },
+    {
+      "id": "filter-care",
+      "label": "iRobot Support — cleaning the e, i and j series bin and non-washable filter",
+      "url": "https://homesupport.irobot.com/articles/en_US/Knowledge/2449"
+    },
+    {
+      "id": "j-series-maintenance",
+      "label": "iRobot Support — Roomba j series brush and robot care procedures",
+      "url": "https://homesupport.irobot.com/articles/en_US/Knowledge/31041"
+    },
+    {
+      "id": "official-refill-kit",
+      "label": "iRobot — refill kit parts and compatibility exclusions for j7+ and Combo j7+",
+      "url": "https://www.irobot.com/en_US/roomba-j-and-i-series-self-emptying-robot-vacuum-refill-kit/J7plus_AB.html"
+    },
+    {
+      "id": "official-bags",
+      "label": "iRobot — Clean Base dirt-disposal bags and replacement instructions",
+      "url": "https://www.irobot.com/en_US/replacement-dirt-disposal-bags%2c-3-pack/4640235.html?cgid=us"
+    },
+    {
+      "id": "filter-listing",
+      "label": "Amazon.com — EAGLEGGO three-pack 4639161 filters checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B09XPJSDGZ"
+    },
+    {
+      "id": "roller-listing",
+      "label": "Amazon.com — Pivxsnkew two-set roller brush listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B0DPLC16L9"
+    },
+    {
+      "id": "side-listing",
+      "label": "Amazon.com — neutop nine-pack edge brush listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B0C2KKBD6P"
+    },
+    {
+      "id": "bags-listing",
+      "label": "Amazon.com — VBN twelve-pack Clean Base bag listing checked October 7, 2026",
+      "url": "https://www.amazon.com/dp/B0C6KFHF82"
+    },
+    {
+      "id": "combo-parts",
+      "label": "iRobot — separate Combo j7+ Replenishment Kit and compatibility",
+      "url": "https://www.irobot.com/en_US/replenishment-kit-for-roomba-combo-j-series/4812261.html"
+    }
+  ]
+}
