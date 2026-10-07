@@ -1,0 +1,170 @@
+{
+  "status": "published",
+  "slug": "roborock-qrevo-s5v",
+  "name": "Roborock Qrevo S5V",
+  "brand": "Roborock",
+  "variant": "Qrevo S5V (RRW0PEP) with multifunctional dock",
+  "title": "Roborock Qrevo S5V Replacement Parts: Filters, Brushes & Bags | DustMigo",
+  "description": "Find exact-fit Roborock Qrevo S5V replacement filters, DuoDivide and side brushes, mop pads, and 2.7 L dock bags. Compare pack contents and care intervals before ordering.",
+  "scope": "For the Roborock Qrevo S5V, model RRW0PEP. Choose a replacement filter, DuoDivide brush, side brush, mop cloth or dock dust bag below, then confirm the selected Amazon pack before ordering.",
+  "checkedDate": "2026-10-07",
+  "checkedLabel": "October 7, 2026",
+  "warning": "Qrevo S, Pro, MaxV, Curv and Edge are separate variants. Roborock lists some individual accessories for more than one model, but that does not make complete parts kits interchangeable. Check compatibility for each component.",
+  "robot": {
+    "asin": "B0DSP8J476",
+    "amazonTitle": "roborock Qrevo S5V Robot Vacuum and Mop, FlexiArm Edge Mopping, 12,000Pa, Dual Zero-Tangle System, Smart Obstacle Avoidance, 10mm Mop Lifting, Auto Mop Washing & Drying, Self-Emptying",
+    "image": "https://m.media-amazon.com/images/I/51Br5OrimUL._AC_SL1500_.jpg",
+    "imageAlt": "Black Roborock Qrevo S5V robot vacuum with multifunctional dock",
+    "description": "The Amazon listing names the black Qrevo S5V and model RRW0PEP. Confirm the model label and dock configuration on the listing before ordering a replacement robot.",
+    "sourceIds": ["robot-listing", "robot-official"],
+    "listingCheckedDate": "2026-10-07"
+  },
+  "parts": [
+    {
+      "id": "filters",
+      "asin": "B0GHRXYVKD",
+      "label": "Washable robot-bin filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "replacement filters",
+      "type": "Third-party",
+      "brand": "Domayllay",
+      "pack": "12 third-party washable filters, according to the Amazon listing.",
+      "fit": "The seller explicitly lists Roborock Qrevo S5V among the compatible models. Roborock also lists its washable filter for the S5V.",
+      "buyWhen": "Replace a damaged filter or one that remains clogged after rinsing and fully drying. Roborock's routine-care chart gives a 6–12 month interval.",
+      "check": "This is a third-party robot dustbin filter, not an OEM part or the separate filter in the dock cleaning tray. The seller lists several Qrevo variants; match its shape to the washable filter from your robot. Let a rinsed filter dry for at least 24 hours before reinstalling.",
+      "image": "https://m.media-amazon.com/images/I/71D24qFqZWL._AC_SL1500_.jpg",
+      "imageAlt": "Domayllay 12-pack of washable replacement filters listed for the Roborock Qrevo S5V",
+      "amazonTitle": "12-Pack HEPA Filter Replacement for Roborock Qrevo S5V/QV35A/Edge",
+      "sourceIds": ["filter-listing", "official-accessories", "official-parts", "manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "main-brush",
+      "asin": "B0DJ7THYG1",
+      "label": "DuoDivide main brush",
+      "searchLabel": "replacement DuoDivide main brush",
+      "buttonLabel": "DuoDivide main brush",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "1 Roborock DuoDivide main brush.",
+      "fit": "The Roborock listing explicitly includes Qrevo S5V and identifies the part as the DuoDivide main brush.",
+      "buyWhen": "Roborock recommends cleaning the main brushes every 2 weeks and replacing them every 6–12 months, or sooner if damaged.",
+      "check": "The S5V uses two short parallel rollers with spiral blades. Select the Main_Brush option on Amazon; do not substitute a traditional single full-width roller for the Qrevo S.",
+      "image": "https://m.media-amazon.com/images/I/51CIzVSGD2L._AC_SL1500_.jpg",
+      "imageAlt": "Original Roborock red-and-black DuoDivide main brush listed for Qrevo S5V",
+      "amazonTitle": "roborock Zero-Tangling DuoDivide Main Brush Replacement Qrevo Curv, Qrevo CurvX, Qrevo S5V, Saros 10R, Saros 10, Qrevo Curv 2 Flow, Saros 20, Qrevo Edge 2, Qrevo 2 Pro, Qrevo Edge 3 Pro",
+      "sourceIds": ["main-brush-listing", "official-accessories", "manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "side-brushes",
+      "asin": "B0DJ7SPVHZ",
+      "label": "Zero-tangling side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "side brushes",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "2 original Roborock arc-shaped side brushes.",
+      "fit": "The Roborock Amazon listing names Qrevo S5V in its compatible-model list.",
+      "buyWhen": "Clean monthly. Roborock recommends replacement every 3–6 months, or sooner if the arms are bent, worn or damaged.",
+      "check": "Select the 03_SideBrushes option. This is the arc-shaped anti-tangle brush for the S5V, not a generic straight-arm brush advertised for older Qrevo models.",
+      "image": "https://m.media-amazon.com/images/I/51Kchu+MHSL._AC_SL1500_.jpg",
+      "imageAlt": "Two original Roborock white arc-shaped zero-tangling side brushes listed for Qrevo S5V",
+      "amazonTitle": "roborock Zero-Tangling Side Brushes Replacement (2 Pieces) for Roborock QV 35A, Qrevo S5V, Saros 10R, Q7 M5+, Q10 S5+, Q7 L5, Qrevo Curv, Qrevo CurvX, Qrevo Curv S5X, Qrevo Edge S5A",
+      "sourceIds": ["side-brush-listing", "official-parts", "manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "dust-bags",
+      "label": "2.7 L dock dust bags",
+      "searchLabel": "replacement dock dust bags",
+      "buttonLabel": "dock dust bags",
+      "type": "Third-party",
+      "brand": "Bluearks",
+      "pack": "24 disposable bags · 2.7 L each, according to the Amazon listing.",
+      "asin": "B0FL2DWKNM",
+      "amazonTitle": "24 Pack Qrevo Dust Bags Replacement for Roborock QV 35A/Qrevo S5V/QV35S/Saros 10/10R/Z70/Qrevo/Q Revo/S/Qrevo Pro/Plus/MaxV/Master/Curv/Edge/S5X/Qrevo Edge S5A/S8 MaxV/S8 Max Ultra Robot Vacuum",
+      "image": "https://m.media-amazon.com/images/I/61xW0NI5NIL._AC_SL1243_.jpg",
+      "imageAlt": "Bluearks 24-pack of 2.7-liter replacement dust bags with model compatibility including Roborock Qrevo S5V",
+      "fit": "The Amazon title and Compatible Devices field both include Qrevo S5V. Roborock specifies a 2.7 L E12-rated disposable bag for the S5V dock.",
+      "buyWhen": "Replace the disposable bag when full, damaged or when the dock prompts you. Roborock says the dock's 2.7 L bag can hold debris for up to 7 weeks, depending on use.",
+      "check": "This is a third-party bag, not a Roborock-branded pack. Confirm the listing still shows Qrevo S5V and 2.7 L for the selected pack; the dock's disposable dust bag is different from the washable robot-bin filter.",
+      "sourceIds": ["bags-listing", "robot-official", "official-accessories", "manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "mop-pads",
+      "label": "Round microfiber mop pads",
+      "searchLabel": "replacement mop pads",
+      "buttonLabel": "mop pads",
+      "type": "Third-party",
+      "brand": "Rrochio",
+      "pack": "6 washable microfiber mop cloths, according to the Amazon listing.",
+      "asin": "B0DDPLB6SK",
+      "amazonTitle": "6Pcs Microfiber Mop Cloth Pad for Roborock Q Revo,Qrevo S,Qrevo Pro,Qrevo Master,Qrevo MaxV,QV35A,QV 35S,Qrevo S5V,Qrevo Edge S5A,Qrevo Curv,Saros 10R Robot Vacuum, Washable Mopping Cloth Accessories",
+      "image": "https://m.media-amazon.com/images/I/71i8EnHEHbL._AC_SL1200_.jpg",
+      "imageAlt": "Six third-party microfiber round mop cloths listed for the Roborock Qrevo S5V spinning mop mounts",
+      "fit": "The seller explicitly lists Qrevo S5V. The S5V manual shows removable mop cloths and their care interval.",
+      "buyWhen": "Replace worn or torn cloths, or when they no longer attach securely. Roborock says to clean them as needed and replace every 1–3 months.",
+      "check": "This pack contains cloths only, not the plastic mop mounts or drive parts. It is third-party and is not listed as a Roborock original accessory; confirm the round pad and attachment match your original cloths.",
+      "sourceIds": ["mop-listing", "robot-official", "manual"],
+      "listingCheckedDate": "2026-10-07"
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "Exact robot model",
+      "detail": "Roborock's English Qrevo S5V manual identifies robot model RRW0PEP. Check the app or underside label if your unit says Qrevo S, Pro, MaxV, Curv or Edge instead."
+    },
+    {
+      "part": "DuoDivide main brush",
+      "detail": "The S5V uses two short, parallel rollers with spiral blades. Roborock sells this brush for the S5V; a single full-width Qrevo S roller is a different design."
+    },
+    {
+      "part": "Robot filter vs. dock bag",
+      "detail": "The washable filter fits the robot dustbin. The disposable 2.7 L E12-rated bag fits the multifunctional dock. They are separate parts and cannot be substituted for one another."
+    },
+    {
+      "part": "Shared accessories",
+      "detail": "Roborock lists some individual filters and brush parts for several models, including the S5V, Curv and Edge. That shared listing does not confirm that every part in a multi-model kit fits all of them."
+    }
+  ],
+  "care": [
+    {"part": "DuoDivide main brush", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Side brush", "clean": "Monthly", "replace": "Every 3–6 months"},
+    {"part": "Washable robot filter", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Mop cloths", "clean": "As needed", "replace": "Every 1–3 months"},
+    {"part": "Dock dust bag", "clean": "Disposable", "replace": "As needed"}
+  ],
+  "careTip": "Switch off the robot before maintenance. Rinse the washable filter with clean water only and leave it to air-dry for at least 24 hours before reinstalling. Keep a disposable dust bag installed whenever the dock auto-empties.",
+  "questions": [
+    {
+      "question": "Will a Qrevo S replacement brush fit the Qrevo S5V?",
+      "answer": "Do not assume so. The S5V uses Roborock's DuoDivide split-roller brush. The original Qrevo S uses a different full-width roller. Use a listing that names Qrevo S5V and shows the DuoDivide brush."
+    },
+    {
+      "question": "How often should I replace Qrevo S5V filters and brushes?",
+      "answer": "Roborock recommends replacing the washable robot filter and main brushes every 6–12 months, and the side brush every 3–6 months. Clean the filter and main brush every 2 weeks and the side brush monthly."
+    },
+    {
+      "question": "Which dust bag does the Qrevo S5V dock use?",
+      "answer": "Roborock describes a 2.7 L E12-rated disposable dock bag and says its capacity can cover up to 7 weeks of use. The linked third-party pack is labeled 2.7 L and names Qrevo S5V; check both details on the selected listing."
+    },
+    {
+      "question": "Are these all genuine Roborock parts?",
+      "answer": "The linked DuoDivide main brush and side brushes are Roborock-branded originals. The filters, bags and mop cloths are third-party products; their compatibility comes from their Amazon sellers and has not been fit-tested by DustMigo."
+    }
+  ],
+  "sources": [
+    {"id": "robot-listing", "label": "Amazon.com — Roborock Qrevo S5V Robot Vacuum and Mop (RRW0PEP)", "url": "https://www.amazon.com/dp/B0DSP8J476"},
+    {"id": "robot-official", "label": "Roborock US — Qrevo S5V product and dock specifications", "url": "https://us.roborock.com/products/roborock-qrevo-s5v"},
+    {"id": "manual", "label": "Roborock — Qrevo S5V CE English user manual (model RRW0PEP), routine maintenance", "url": "https://support.roborock.com/hc/fr/articles/46142919738521-Roborock-Qrevo-S5V-CE-EN-FR-User-Manual"},
+    {"id": "official-accessories", "label": "Roborock US — accessories and model compatibility", "url": "https://us.roborock.com/collections/accessories?page=2"},
+    {"id": "official-parts", "label": "Roborock US — accessory compatibility list for the Qrevo S5V", "url": "https://us.roborock.com/pages/roborock-points-program"},
+    {"id": "main-brush-listing", "label": "Amazon.com — Roborock original DuoDivide main brush, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0DJ7THYG1"},
+    {"id": "side-brush-listing", "label": "Amazon.com — Roborock original two-piece side-brush listing, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0DJ7SPVHZ"},
+    {"id": "filter-listing", "label": "Amazon.com — Domayllay 12-pack washable filter listing, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0GHRXYVKD"},
+    {"id": "bags-listing", "label": "Amazon.com — Bluearks 24-pack 2.7 L dust-bag listing, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0FL2DWKNM"},
+    {"id": "mop-listing", "label": "Amazon.com — Rrochio six-pack mop-cloth listing, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0DDPLB6SK"}
+  ]
+}
