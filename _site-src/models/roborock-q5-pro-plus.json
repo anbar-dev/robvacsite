@@ -1,0 +1,175 @@
+{
+  "status": "published",
+  "slug": "roborock-q5-pro-plus",
+  "name": "Roborock Q5 Pro+",
+  "brand": "Roborock",
+  "variant": "Q5 Pro robot with RockDock Plus auto-empty dock",
+  "title": "Roborock Q5 Pro+ Replacement Parts: Filters, Brushes & Dock Bags | DustMigo",
+  "description": "Find Roborock Q5 Pro+ replacement filters, dual roller brushes, side brushes, mop pads and RockDock Plus dust bags. Compare pack contents and check the dock-bag fit before ordering.",
+  "scope": "For the Roborock Q5 Pro+ with RockDock Plus. It uses the Q5 Pro robot platform with DuoRoller main brushes and a removable mop cloth, plus an auto-empty dock with a 2.5 L E12-rated dust bag. Confirm your model and selected pack before ordering.",
+  "checkedDate": "2026-10-07",
+  "checkedLabel": "October 7, 2026",
+  "warning": "Q5 Pro+ is different from Q5+. Roborock shows the Q5+ with a single brush and no mop; the Q5 Pro+ has DuoRoller brushes, a removable mop cloth and RockDock Plus. Do not choose a part just because an Amazon listing says Q5: check that it names Q5 Pro+ and verify dock-bag fit separately.",
+  "robot": {
+    "asin": "B0D9QCLZV4",
+    "amazonTitle": "roborock Q5 Pro+ Robot Vacuum and Mop, Self-Emptying, 5500 Pa Max Suction, DuoRoller Brush, Precise Navigation, Black (Renewed)",
+    "image": "https://m.media-amazon.com/images/I/61EpzcxPZJL._AC_SL1500_.jpg",
+    "imageAlt": "Black renewed Roborock Q5 Pro+ robot vacuum with its auto-empty dock",
+    "description": "This Amazon Renewed listing names the black Roborock Q5 Pro+ and shows the robot with its auto-empty dock. It is a refurbished listing, not a new-product offer; confirm condition, seller and included dock on Amazon.",
+    "sourceIds": ["robot-listing", "official-model"],
+    "listingCheckedDate": "2026-10-07"
+  },
+  "parts": [
+    {
+      "id": "filters",
+      "asin": "B0DP785CZ4",
+      "asin": "B0DP785CZ4",
+      "label": "Washable robot-bin filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "replacement filters",
+      "type": "Third-party",
+      "brand": "Fixbetter",
+      "pack": "6 washable, reusable filters, according to the Amazon listing.",
+      "fit": "The seller explicitly lists the Q5 Pro+. Roborock's Q5 Pro+ manual confirms that the robot dustbin uses a washable filter.",
+      "buyWhen": "Replace a filter that is damaged or stays clogged after cleaning. Roborock's care chart gives a 6–12 month replacement interval.",
+      "check": "This is a third-party robot-bin filter, not a disposable dock bag. Rinse with clean water and let the filter and dustbin dry thoroughly before reinstalling. Compare the frame and latch with your original filter.",
+      "image": "https://m.media-amazon.com/images/I/71NPS7xOsKL._AC_SL1500_.jpg",
+      "imageAlt": "Six Fixbetter washable replacement filters listed for the Roborock Q5 Pro+",
+      "amazonTitle": "Hepa Filter for Roborock Q7 Max/ Q7 Max+/ Q7/ Q7+/ Q8 Max/ Q8 Max+/ Q5 Pro/ Q5 Pro+/ T8 Robot Vacuum Cleaner Replacement Part, Filter Washable and Reusable, Provides Stronger Suction Power",
+      "sourceIds": ["filter-listing", "manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "main-brushes",
+      "asin": "B0F8NKQXQQ",
+      "asin": "B0F8NKQXQQ",
+      "label": "DuoRoller main brush set",
+      "searchLabel": "replacement dual roller brushes",
+      "buttonLabel": "dual roller brushes",
+      "type": "Third-party",
+      "brand": "PELLYDA",
+      "pack": "2 sets of dual main brush replacements, according to the Amazon listing.",
+      "fit": "The seller's compatibility text explicitly includes the Q5 Pro+ and describes dual main rollers for the Q5 Pro series.",
+      "buyWhen": "Clean the main brushes every 2 weeks. Replace damaged or worn rollers; Roborock's routine-care interval is 6–12 months.",
+      "check": "This is not a Roborock original. The selected Amazon variation is labeled for the S8, while the listing text also names Q5 Pro+. Before ordering, confirm the selected option still shows the same two-roller assembly and Q5 Pro+ compatibility.",
+      "image": "https://m.media-amazon.com/images/I/61TrcZMHoDL._AC_SL1500_.jpg",
+      "imageAlt": "Two sets of PELLYDA dual roller replacement brushes listed for the Roborock Q5 Pro+",
+      "amazonTitle": "Dual Main Brush Replacement, Roller Brushes Replacement Parts for roborock S8, S8+, S8 Pro Ultra, Q8 max, Q8 max+, Q5 Pro, Q5 Pro+ Robot Vacuum Cleaner.",
+      "sourceIds": ["main-brush-listing", "official-model", "manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "side-brushes",
+      "asin": "B0F1FY7MN1",
+      "label": "Three-arm side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "side brushes",
+      "type": "Third-party",
+      "brand": "KEYKAO",
+      "pack": "4 black, three-arm side brushes in the selected variation.",
+      "fit": "The Amazon listing's compatible-model text includes Q5 Pro+ and identifies the selected variation as a four-piece black, three-arm brush pack.",
+      "buyWhen": "Clean monthly. Roborock recommends replacement every 3–6 months, or sooner if the arms are bent, loose or damaged.",
+      "check": "This is not an OEM part. Compare the three-arm brush and screw mount with your current brush, and confirm the Amazon variation still says four pieces and lists Q5 Pro+.",
+      "image": "https://m.media-amazon.com/images/I/51PbtgERSaL._AC_SL1500_.jpg",
+      "imageAlt": "Four KEYKAO black three-arm side brushes listed for the Roborock Q5 Pro+",
+      "amazonTitle": "(4 Pack) Side Brushes for Roborock Q5 Max+, S8 MaxV Ultra, Q5 Pro, Q8 Max+, Q Revo, Qrevo Pro, Qrevo S, Qrevo Slim, Qrevo Master, S8 Pro Ultra, S7 MaxV Ultra, Q7 Max, Q7 Max+, Q5 Pro+, S7 & E Series",
+      "sourceIds": ["side-brush-listing", "official-accessories", "manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "mop-cloths",
+      "asin": "B0DD79TG7V",
+      "label": "Flat microfiber mop cloths",
+      "searchLabel": "replacement mop pads",
+      "buttonLabel": "mop cloths",
+      "type": "Third-party",
+      "brand": "SONGRUI",
+      "pack": "4 washable, reusable microfiber mop cloths in the selected variation.",
+      "fit": "The seller explicitly lists Q5 Pro+. Roborock confirms the Q5 Pro+ has a removable mop pad; its official accessories page lists a cloth for the Q5 Pro Series.",
+      "buyWhen": "Wash after each use. Roborock recommends replacing the mop cloth every 3–6 months, or earlier if it is worn or no longer attaches securely.",
+      "check": "This is a third-party cloth-only pack, not a water tank or mop module. Match its flat cloth and attachment slot to the pad already on your Q5 Pro+.",
+      "image": "https://m.media-amazon.com/images/I/71BiOoA641L._AC_SL1500_.jpg",
+      "imageAlt": "Four SONGRUI microfiber mop cloths listed for the Roborock Q5 Pro+",
+      "amazonTitle": "SONGRUI Mop Pads Compatible for Roborock Q5 Pro, Q8 Max, Q7 Max, S5 Max, E4 E5, S5, S6, S6 Pure, S6 MaxV, Q5, Q5 Pro+, Q7, Q7 Max, Q8 Max+ Vacuum Robots 4 Pcs Microfiber Spare Refill Kit",
+      "sourceIds": ["mop-listing", "official-model", "official-accessories", "manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "dock-bags",
+      "asin": "B0F2421HP7",
+      "label": "Dock bags in a full replacement kit",
+      "searchLabel": "replacement dock bags",
+      "buttonLabel": "parts kit with dock bags",
+      "type": "Third-party",
+      "brand": "CHAIN PEAK",
+      "pack": "26 parts: 2 pairs of roller brushes, 6 filters, 6 side brushes, 6 dust bags and 4 mop pads, according to the listing.",
+      "fit": "The seller's Amazon listing explicitly names Q5 Pro+ and shows the pack contains disposable dust bags for the auto-empty dock as well as robot consumables.",
+      "buyWhen": "Replace the disposable dock bag when it is full, damaged or due for replacement. Roborock's manual says to replace it as required.",
+      "check": "This multi-part pack is not OEM, and the Amazon listing does not state the dust-bag capacity. Roborock specifies a 2.5 L E12-rated bag for RockDock Plus; compare the bag collar and dimensions with your installed bag before ordering. The kit also duplicates robot parts and mop cloths.",
+      "image": "https://m.media-amazon.com/images/I/813SVRdztLL._AC_SL1500_.jpg",
+      "imageAlt": "CHAIN PEAK 26-piece Roborock Q5 Pro+ replacement kit with roller brushes, filters, side brushes, dust bags and mop pads",
+      "amazonTitle": "(26 Pack) Q5 Pro Plus Replacement Parts Accessories for Roborock Q5 Pro Plus, Q5 Pro+, Q8 Max, Q8 Max+ Robot Vacuum, 4 Roller Brushes, 6 HEPA Filters, 6 Side Brushes, 6 Dust bags, 4 Mop Pads",
+      "sourceIds": ["dock-kit-listing", "official-model", "manual"],
+      "listingCheckedDate": "2026-10-07"
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "Q5 Pro+ vs. Q5+",
+      "detail": "Roborock's comparison identifies Q5 Pro+ with DuoRoller brushes and a detachable mop; Q5+ has a single brush and no mop. Check the full model name on the robot or in the app before choosing a part."
+    },
+    {
+      "part": "Robot filter vs. dock dust bag",
+      "detail": "The washable filter sits in the robot's dustbin. The disposable 2.5 L E12-rated dust bag sits in the RockDock Plus. They are different parts and cannot replace one another."
+    },
+    {
+      "part": "DuoRoller main brushes",
+      "detail": "The Q5 Pro+ uses two parallel rubber rollers. Select a dual-roller replacement that names Q5 Pro+; do not substitute a single-bristle Q5+ brush."
+    },
+    {
+      "part": "Dock bags inside third-party kits",
+      "detail": "The linked CHAIN PEAK kit lists Q5 Pro+ and includes six dock bags, but does not publish their capacity. Roborock specifies a 2.5 L E12-rated RockDock Plus bag. Check the bag collar and size against your original before buying."
+    },
+    {
+      "part": "Multi-model listings",
+      "detail": "Several third-party listings also name Q8 Max, Q5 Max+ or other models. This guide reports each seller's exact claim; it does not assume every component fits all models in a shared listing."
+    }
+  ],
+  "care": [
+    {"part": "DuoRoller main brushes", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Side brush", "clean": "Monthly", "replace": "Every 3–6 months"},
+    {"part": "Washable robot-bin filter", "clean": "Every week", "replace": "Every 6–12 months"},
+    {"part": "Mop cloth", "clean": "After each use", "replace": "Every 3–6 months"},
+    {"part": "RockDock Plus dust bag", "clean": "Disposable", "replace": "As required"}
+  ],
+  "careTip": "Rinse the washable robot filter with clean water only and let the filter and dustbin dry thoroughly before reinstalling. Remove and wash the mop cloth after use. Keep a dust bag installed whenever the auto-empty dock runs.",
+  "questions": [
+    {
+      "question": "Are Roborock Q5 Pro+ and Q5+ replacement parts the same?",
+      "answer": "Do not assume so. Roborock describes the Q5 Pro+ with DuoRoller brushes and a detachable mop, while its Q5+ comparison shows a single brush and no mop. Match each part to the full model name and the original component."
+    },
+    {
+      "question": "Which filter does the Q5 Pro+ use?",
+      "answer": "The robot has a washable filter inside its dustbin. The RockDock Plus uses a separate disposable dust bag. The filter listing on this page is third-party and names Q5 Pro+; match its frame and latch to your original filter."
+    },
+    {
+      "question": "What size dust bag does the Q5 Pro+ dock use?",
+      "answer": "Roborock specifies a 2.5 L E12-rated dust bag for RockDock Plus and says to replace it as required. The linked third-party kit names Q5 Pro+ but does not state bag capacity, so compare the collar and dimensions with your installed bag."
+    },
+    {
+      "question": "Are these genuine Roborock replacement parts?",
+      "answer": "No. The linked filters, brushes, mop cloths and multi-part kit are third-party products; their Q5 Pro+ compatibility statements come from their Amazon sellers. The robot link is an Amazon Renewed refurbished listing, not a new robot offer."
+    }
+  ],
+  "sources": [
+    {"id": "robot-listing", "label": "Amazon.com — Roborock Q5 Pro+ black robot and auto-empty dock (Renewed), checked October 7, 2026", "url": "https://www.amazon.com/dp/B0D9QCLZV4"},
+    {"id": "official-model", "label": "Roborock US — Q5 Pro Series features, Q5 Pro+ dock and model comparison", "url": "https://us.roborock.com/pages/roborock-q5-pro"},
+    {"id": "manual", "label": "Roborock Support — Q5 Pro+ FCC English manual and routine maintenance chart", "url": "https://support.roborock.com/hc/en-us/articles/25716549275417-Roborock-Q5Pro-FCC-User-Manual"},
+    {"id": "official-accessories", "label": "Roborock US — accessories listing for Q5 Pro Series mop cloth and Q5 Pro+ side brushes", "url": "https://us.roborock.com/collections/accessories"},
+    {"id": "filter-listing", "label": "Amazon.com — Fixbetter six-pack washable Q5 Pro+ filter listing, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0DP785CZ4"},
+    {"id": "main-brush-listing", "label": "Amazon.com — PELLYDA dual main brush replacement listing, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0F8NKQXQQ"},
+    {"id": "side-brush-listing", "label": "Amazon.com — KEYKAO four-piece Q5 Pro+ side-brush listing, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0F1FY7MN1"},
+    {"id": "mop-listing", "label": "Amazon.com — SONGRUI four-piece Q5 Pro+ mop-cloth listing, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0DD79TG7V"},
+    {"id": "dock-kit-listing", "label": "Amazon.com — CHAIN PEAK 26-piece Q5 Pro+ parts kit, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0F2421HP7"}
+  ]
+}
