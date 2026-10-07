@@ -21,7 +21,7 @@ Segnali espliciti osservati: eufy presenta X10 Pro Omni come bestseller; Roboroc
 | 7 | Dreame L10s Ultra originale | Primo gruppo | Guida pubblicata il 7 ottobre 2026; distinti i ricambi originali da Gen 2/Pro Ultra Heat, verificati filtro, rullo, sacchetti, mop pad e kit |
 | 8 | eufy RoboVac 11S MAX | Primo gruppo | Guida pubblicata il 7 ottobre 2026; T2126 distinto dal 11S T2108; verificati filtro T29151N2, rullo T2907031 e robot originale. Il kit Max ufficiale copre spazzole laterali e brush guard; inserzione Amazon standalone delle spazzole senza offerta principale al controllo |
 | 9 | iRobot Roomba i7+ | Secondo gruppo | Guida pubblicata il 7 ottobre 2026; verificati filtro 4639161, kit e/i/j con rulli duali, spazzole 4757625 e sacchetti Clean Base 4640235. Distinte le parti del robot dal dock e segnalata l'indisponibilità temporanea dell'inserzione Amazon del robot |
-| 10 | iRobot Roomba i3+ EVO | Secondo gruppo | Consumabili del robot e Clean Base; kit originali e di terzi |
+| 10 | iRobot Roomba i3+ EVO | Secondo gruppo | Guida pubblicata il 7 ottobre 2026; verificati filtro 4639161, refill kit e/i/j con rulli duali, spazzole 4757625 e sacchetti Clean Base 4640235. Distinta la Combo i3+ e segnalata l'offerta solo usata nel buy box del robot Amazon controllato |
 | 11 | Roborock S7 | Secondo gruppo | Mop piatto VibraRise e dock opzionale; evitare sacchetti per chi non ha il dock |
 | 12 | Roborock S7 MaxV Ultra | Secondo gruppo | Robot MaxV e base Ultra; differenze tra rulli, filtri e manutenzione dock |
 | 13 | Roborock S8 Pro Ultra | Secondo gruppo | Doppio rullo, mop e componenti del dock esatto |
