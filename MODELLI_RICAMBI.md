@@ -18,7 +18,7 @@ Segnali espliciti osservati: eufy presenta X10 Pro Omni come bestseller; Roboroc
 | 4 | iRobot Roomba j7+ | Primo gruppo | Guida pubblicata il 7 ottobre 2026; filtri, rulli, spazzola laterale e sacchetti Clean Base verificati. Distinta Combo j7+ |
 | 5 | Roborock Qrevo S5V | Primo gruppo | Guida pubblicata il 7 ottobre 2026; RRW0PEP, DuoDivide originale, filtro lavabile, sacchetto 2,7 L e panni verificati |
 | 6 | Roborock Q5 Pro+ | Primo gruppo | Guida pubblicata il 7 ottobre 2026; distinti filtro robot lavabile e sacchetto dock 2,5 L; kit Amazon non dichiara la capacità dei sacchetti |
-| 7 | Dreame L10s Ultra originale | Primo gruppo | Ricambi della generazione originale rispetto a Gen 2 e Pro |
+| 7 | Dreame L10s Ultra originale | Primo gruppo | Guida pubblicata il 7 ottobre 2026; distinti i ricambi originali da Gen 2/Pro Ultra Heat, verificati filtro, rullo, sacchetti, mop pad e kit |
 | 8 | eufy RoboVac 11S MAX | Primo gruppo | Codice modello e differenze rispetto a 11S; niente sacchetti dock |
 | 9 | iRobot Roomba i7+ | Secondo gruppo | Filtri e rulli rispetto alle varianti Combo; sacchetti della base |
 | 10 | iRobot Roomba i3+ EVO | Secondo gruppo | Consumabili del robot e Clean Base; kit originali e di terzi |

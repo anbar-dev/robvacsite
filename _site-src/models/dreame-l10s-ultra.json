@@ -1,0 +1,170 @@
+{
+  "status": "published",
+  "slug": "dreame-l10s-ultra",
+  "name": "Dreame L10s Ultra",
+  "brand": "Dreame",
+  "variant": "Original L10s Ultra with auto-empty and mop-wash base",
+  "title": "Dreame L10s Ultra Replacement Parts: Filters, Brushes & Bags | DustMigo",
+  "description": "Find Dreame L10s Ultra replacement filters, a main brush, dust bags and mop pads. Compare verified pack contents and distinguish the original model from Gen 2 and Pro variants.",
+  "scope": "This guide covers the original U.S. Dreame L10s Ultra robot and its auto-empty, mop-wash base. It does not cover the L10s Ultra Gen 2, L10s Pro Ultra Heat or L10s Pro Ultra; their parts and dock accessories can differ.",
+  "checkedDate": "2026-10-07",
+  "checkedLabel": "October 7, 2026",
+  "warning": "Check the exact model name in the Dreamehome app or on the robot. The L10s Ultra Gen 2 and L10s Pro Ultra Heat have separate official accessory listings; a broad seller claim or shared Dreame name does not prove every component fits.",
+  "robot": {
+    "asin": "B0B7J95MHN",
+    "amazonTitle": "dreame L10s Ultra Robot Vacuum and Mop Combo, Auto Mop Cleaning and Drying, Self-Refilling and Self-Emptying Base for 60 Days of Cleaning, 5300Pa Suction and AI Navigation, Compatible with Alexa",
+    "image": "https://m.media-amazon.com/images/I/61fu4m4N-xL._AC_SL1500_.jpg",
+    "imageAlt": "White original Dreame L10s Ultra robot vacuum and its multifunction dock, from the Amazon listing",
+    "description": "This Amazon listing names the original L10s Ultra and shows the white robot with its multifunction base. Offers can vary by U.S. delivery location; confirm the current seller, color and that the auto-empty/mop-wash base is included before ordering.",
+    "sourceIds": ["robot-listing", "official-model"],
+    "listingCheckedDate": "2026-10-07"
+  },
+  "parts": [
+    {
+      "id": "filters",
+      "asin": "B0D8JB3WLK",
+      "label": "Robot-bin filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "filters",
+      "type": "Third-party",
+      "brand": "hkcowinory (seller)",
+      "pack": "5 washable, reusable HEPA-filter replacements, according to the Amazon listing.",
+      "fit": "The seller explicitly names the original Dreame L10s Ultra. Dreame's manual confirms that this robot uses a filter in its dust bin.",
+      "buyWhen": "Dreame's manual gives a 3–6 month replacement period. Replace sooner if the filter is damaged or stays clogged, and check the app's maintenance reminder.",
+      "check": "This is not an OEM filter. The listing also names several other models; match the frame and attachment points to the filter from your original L10s Ultra. If you rinse it, let it dry completely before reinstalling.",
+      "image": "https://m.media-amazon.com/images/I/71u+b2bW6OL._AC_SL1500_.jpg",
+      "imageAlt": "Five third-party replacement dust-bin filters from the Amazon listing for Dreame L10s Ultra",
+      "amazonTitle": "(5 Pack) Premium HEPA Filter Replacement Compatible with Dreame L10s Ultra, L10s Pro, L10 Ultra, Z10 Pro, S10, S10 PRO, S10 PLUS Robot Vacuum, Washable & Reusable",
+      "sourceIds": ["filter-listing", "user-manual", "official-model"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "main-brush",
+      "asin": "B0FC6K172B",
+      "label": "Rubber main brushes",
+      "searchLabel": "replacement main brush",
+      "buttonLabel": "main brushes",
+      "type": "Third-party",
+      "brand": "sonecesiya (seller)",
+      "pack": "2 rubber roller brushes, according to the Amazon listing.",
+      "fit": "The seller lists the L10s Ultra by name, and Dreame's accessory catalog lists its regular rubber brush for the original model.",
+      "buyWhen": "Dreame recommends replacing the main brush every 6–12 months. First remove wrapped hair and debris; replace it if the roller or end fittings are worn or damaged.",
+      "check": "This is a third-party roller, not Dreame's newer TriCut brush. Compare the full-width roller and end fittings with your original part; do not use the model name alone to infer fit for another generation.",
+      "image": "https://m.media-amazon.com/images/I/6196oEJs5uL._AC_SL1500_.jpg",
+      "imageAlt": "Two third-party rubber roller brushes listed for the original Dreame L10s Ultra",
+      "amazonTitle": "2 Pack Roller Brush for Dreame L10s Ultra, D10s Plus, L20 Ultra, L10s Pro Ultra, L10s Pro, X30 Ultra, L10s Pro Gen2, L10s Plus, X40 Ultra, for Xiaomi X10+, X20+ Robot Vacuums, Main Brush Replacement",
+      "sourceIds": ["brush-listing", "official-accessories", "user-manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "dust-bags",
+      "asin": "B0CQTDYMZP",
+      "label": "Auto-empty dock dust bags",
+      "searchLabel": "replacement dust bags",
+      "buttonLabel": "dust bags",
+      "type": "Third-party",
+      "brand": "KGC",
+      "pack": "10 disposable, auto-seal bags; the listing states 3 L capacity.",
+      "fit": "The seller names the original L10s Ultra, and Dreame sells an official L10s Ultra/L20 Ultra bag pack with a 3 L capacity.",
+      "buyWhen": "Dreame's manual lists 6–8 weeks as the replacement period and says the app notifies you when the bag needs changing. Replace earlier if full or damaged.",
+      "check": "Third-party bags are not the official Dreame three-pack. Compare the cardboard collar and slide-in track with the bag in your base. Do not substitute the newer 3.2 L bags listed only for models such as L10s Ultra Gen 2.",
+      "image": "https://m.media-amazon.com/images/I/71iYN+hmYAL._AC_SL1500_.jpg",
+      "imageAlt": "Ten KGC auto-seal replacement dust bags listed for Dreame L10s Ultra and L20 Ultra",
+      "amazonTitle": "KGC 10 Pack Vacuum Bags for Dreame L10s Ultra Robot Vacuum",
+      "sourceIds": ["bag-listing", "official-bags", "user-manual", "official-model"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "mop-pads",
+      "asin": "B0DYDTWJYY",
+      "label": "Round microfiber mop pads",
+      "searchLabel": "replacement mop pads",
+      "buttonLabel": "mop pads",
+      "type": "Third-party",
+      "brand": "Lacvik Global (seller)",
+      "pack": "6 washable microfiber mop pads; the holders are not included.",
+      "fit": "The seller explicitly includes L10s Ultra. Dreame's original product page shows two round mop pads on holders, and its accessories catalog lists regular mop pads for the L Series.",
+      "buyWhen": "Dreame's manual gives a 1–3 month replacement period. Wash the pads after use and replace them sooner if worn, torn or no longer attaching securely.",
+      "check": "This is a third-party cloth-only pack. Compare the round pad's diameter and attachment face with the cloth on your original holder; it does not include mop holders or drive parts.",
+      "image": "https://m.media-amazon.com/images/I/91U3VL5oZ2L._AC_SL1500_.jpg",
+      "imageAlt": "Six round microfiber replacement mop pads listed for Dreame L10s Ultra",
+      "amazonTitle": "6-Pack Mop Pads for Dreame L10S Ultra|L20 Ultra |X40 Ultra|L40 Ultra Vacuum | for Mova P10 Pro| P10|P50 Pro|V50 and More, X50 Ultra|L10S Pro Ultra|L10S Ultra Gen2|L40S Ultra Microfiber Replacement Pads",
+      "sourceIds": ["mop-listing", "official-accessories", "official-model", "user-manual"],
+      "listingCheckedDate": "2026-10-07"
+    },
+    {
+      "id": "accessory-kit",
+      "asin": "B0C5J8WJKG",
+      "label": "24-piece replacement parts kit",
+      "searchLabel": "replacement parts kit",
+      "buttonLabel": "24-piece kit",
+      "type": "Third-party",
+      "brand": "AnDongo (seller)",
+      "pack": "24 pieces: 1 main brush, 4 filters, 6 side brushes, 6 mop pads, 6 dust bags and 1 cleaning brush.",
+      "fit": "The seller explicitly lists the original L10s Ultra and L10 Ultra, and explicitly excludes L10s Pro Ultra Heat and L10s Ultra Gen 2.",
+      "buyWhen": "Choose the kit when several of these consumables are due or you want spares; choose a single-part card when you only need one component.",
+      "check": "This generic kit is sold by AnDongo and fulfilled by Amazon. Check the contents of the selected 24-piece pack; the listing says it is not an original Dreame kit. Its model exclusions are useful because L10s Ultra Gen 2 and Pro Ultra Heat have separate parts.",
+      "image": "https://m.media-amazon.com/images/I/81KoJD7LTJL._AC_SL1500_.jpg",
+      "imageAlt": "24-piece third-party Dreame L10s Ultra kit with a roller, filters, side brushes, mop pads, bags and cleaning brush",
+      "amazonTitle": "24 Pack Replacement Parts for Dreame L10s Ultra / L10 Ultra Robot Vacuum | 1 Main Brush 4 HEPA Filters 6 Sidebrushes 6 Mop Pads 6 Dust Bags 1 Cleaning Brush",
+      "sourceIds": ["kit-listing", "official-model", "official-accessories", "user-manual"],
+      "listingCheckedDate": "2026-10-07"
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "Original L10s Ultra vs. Gen 2 / Pro Ultra Heat",
+      "detail": "Dreame lists the original L10s Ultra, L10s Ultra Gen 2 and L10s Pro Ultra Heat as separate models. The linked 24-piece kit explicitly excludes Gen 2 and Pro Ultra Heat. Check each component listing and your exact model before ordering."
+    },
+    {
+      "part": "Original dock dust bags",
+      "detail": "Dreame's 3 L L10s Ultra/L20 Ultra bags are a different product from the 3.2 L bags listed for later models including L10s Ultra Gen 2. Match the bag collar and dock track; do not rely on capacity or a broad 'Dreame Ultra' claim alone."
+    },
+    {
+      "part": "Robot-bin filter vs. dock dust bag",
+      "detail": "The reusable filter sits in the robot's dust bin. The disposable bag fits inside the base station. They are separate parts, with separate fit checks and replacement intervals."
+    },
+    {
+      "part": "Mop cloth vs. holder",
+      "detail": "The L10s Ultra has two rotating round mop pads attached to holders. The linked six-pack contains cloth pads only; it is not a pair of mop holders or a motorized mop assembly."
+    }
+  ],
+  "care": [
+    {"part": "Rubber main brush", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Side brush", "clean": "Monthly", "replace": "Every 3–6 months"},
+    {"part": "Dust-bin filter", "clean": "Every 2 weeks", "replace": "Every 3–6 months"},
+    {"part": "Mop pads", "clean": "Auto-washed by dock after return", "replace": "Every 1–3 months"},
+    {"part": "Dock dust bag", "clean": "Disposable; app notification", "replace": "Every 6–8 weeks"}
+  ],
+  "careTip": "Rinse the filter with clean water only and let it dry completely before reinstalling it. Remove hair from both ends of the main brush before replacing it. The base washes mop pads automatically; inspect them and clean as needed. The app can notify you when the dock bag is due; actual replacement timing depends on use.",
+  "questions": [
+    {
+      "question": "Do L10s Ultra Gen 2 replacement parts fit the original L10s Ultra?",
+      "answer": "Do not assume they do. Dreame lists these as separate models, and some accessories differ: for example, the original L10s Ultra uses a 3 L dust bag, while Dreame lists 3.2 L bags for later models such as Gen 2. Check every component against the full model name."
+    },
+    {
+      "question": "Which dust bag fits the original Dreame L10s Ultra?",
+      "answer": "Dreame lists an original L10s Ultra/L20 Ultra bag with 3 L capacity. The third-party 10-pack linked here names the original L10s Ultra and also states 3 L. Compare the bag collar and slide-in track with your original before ordering."
+    },
+    {
+      "question": "How often should I replace the L10s Ultra filter and brushes?",
+      "answer": "Dreame's routine-maintenance table gives 3–6 months for the dust-bin filter, 6–12 months for the main brush and 3–6 months for the side brush. Cleaning frequency and wear can change the timing; use the app's reminders and inspect parts regularly."
+    },
+    {
+      "question": "Are these genuine Dreame parts?",
+      "answer": "No. The linked filters, roller, bags, mop pads and 24-piece kit are third-party listings. Dreame's catalog and manual support the model and part type, while fit statements and pack contents for those Amazon products come from their sellers."
+    }
+  ],
+  "sources": [
+    {"id": "robot-listing", "label": "Amazon.com — original Dreame L10s Ultra robot and multifunction base listing, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0B7J95MHN"},
+    {"id": "official-model", "label": "Dreame US — original L10s Ultra product details and included accessories", "url": "https://www.dreametech.com/products/dreamebot-l10s-ultra"},
+    {"id": "user-manual", "label": "Dreame Support — L10s Ultra User Manual, including routine maintenance intervals", "url": "https://dreametech.zendesk.com/hc/en-us/articles/51034561720601-L10s-Ultra-User-Manual"},
+    {"id": "official-accessories", "label": "Dreame US — accessories catalog with L10s Ultra rubber brush, side brush, mop pads and separate model listings", "url": "https://www.dreametech.com/collections/all-accessories"},
+    {"id": "official-bags", "label": "Dreame US — original L10s Ultra/L20 Ultra dust bags, 3-pack and 3 L capacity", "url": "https://www.dreametech.com/products/dust-bags-3-for-dreamebot-l10s-ultra"},
+    {"id": "filter-listing", "label": "Amazon.com — five-pack third-party L10s Ultra dust-bin filters, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0D8JB3WLK"},
+    {"id": "brush-listing", "label": "Amazon.com — two-pack third-party L10s Ultra roller brushes, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0FC6K172B"},
+    {"id": "bag-listing", "label": "Amazon.com — KGC ten-pack L10s Ultra dock bags, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0CQTDYMZP"},
+    {"id": "mop-listing", "label": "Amazon.com — six-pack third-party L10s Ultra round mop pads, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0DYDTWJYY"},
+    {"id": "kit-listing", "label": "Amazon.com — AnDongo 24-piece L10s Ultra/L10 Ultra replacement kit, checked October 7, 2026", "url": "https://www.amazon.com/dp/B0C5J8WJKG"}
+  ]
+}
