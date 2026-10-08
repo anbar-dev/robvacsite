@@ -25,7 +25,7 @@ Segnali espliciti osservati: eufy presenta X10 Pro Omni come bestseller; Roboroc
 | 11 | Roborock S7 | Secondo gruppo | Guida pubblicata il 7 ottobre 2026; verificati filtro lavabile, rullo principale e spazzole laterali. Il panno VibraRise è collegato alla pagina ufficiale Roborock perché non è stata verificata una foto Amazon della stessa inserzione; niente sacchetti per il solo S7 senza dock |
 | 12 | Roborock S7 MaxV Ultra | Secondo gruppo | Guida pubblicata il 7 ottobre 2026; separati robot e dock Ultra, verificati filtro, rulli, panni, sacchetti 2,5 L e spazzola di lavaggio del dock. Distinta S7 MaxV Plus e S7 Max Ultra |
 | 13 | Roborock S8 Pro Ultra | Secondo gruppo | Guida pubblicata il 7 ottobre 2026; verificati filtro, doppio rullo, spazzole laterali, panno VibraRise 2.0, sacchetti 2,5 L e spazzole di lavaggio dock. Ricambi terzi etichettati; robot originale Amazon temporaneamente non disponibile al controllo |
-| 14 | Roborock S8 MaxV Ultra | Secondo gruppo | Distinguere MaxV, Max e Pro Ultra per ciascun pezzo |
+| 14 | Roborock S8 MaxV Ultra | Secondo gruppo | Guida pubblicata il giorno 8 ottobre 2026; distinti MaxV/Max/Pro Ultra; verificati doppio rullo, spazzole laterali, panni Edgewise/VibraRise, sacchetti “1-Dust Bag” e spazzole dock. Il filtro OEM RR-LW0-S8MaxVUltra-P02 è documentato ma non linkato ad Amazon senza verifica della scheda e della foto. |
 | 15 | Roborock Qrevo S | Secondo gruppo | Filtro diverso dalla prima generazione; kit non universali Qrevo |
 | 16 | Roborock Qrevo Pro | Secondo gruppo | Verificare filtro, rullo e supporti mop; non affidarsi solo al nome Qrevo |
 | 17 | Roborock Qrevo Master | Secondo gruppo | Doppio rullo e filtro dedicato; distinguere dagli altri Qrevo |

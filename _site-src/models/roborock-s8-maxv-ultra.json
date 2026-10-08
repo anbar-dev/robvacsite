@@ -1,0 +1,197 @@
+{
+  "status": "published",
+  "slug": "roborock-s8-maxv-ultra",
+  "name": "Roborock S8 MaxV Ultra",
+  "brand": "Roborock",
+  "variant": "U.S. S82USV model with RockDock Ultra",
+  "title": "Roborock S8 MaxV Ultra Replacement Parts: Brushes, Mop Pads & Bags | DustMigo",
+  "description": "Find verified Roborock S8 MaxV Ultra replacement brushes, mop pads, dock dust bags and dock-cleaning brushes. Compare the exact part, pack size and fit before ordering.",
+  "scope": "U.S. Roborock S8 MaxV Ultra (model S82USV) and its RockDock Ultra. Check the dock configuration and bag slot before ordering dock parts.",
+  "checkedDate": "2026-10-08",
+  "checkedLabel": "October 8, 2026",
+  "warning": "S8 MaxV Ultra, S8 Max Ultra and S8 Pro Ultra are different models. The S8 MaxV Ultra has its own washable filter and dual-main-brush set. For every replacement, confirm that the product fit covers S8 MaxV Ultra; compatibility for one shared accessory does not establish a fit for other parts.",
+  "robot": {
+    "asin": "B0CQLQVTDH",
+    "amazonTitle": "roborock S8 MaxV Ultra Robot Vacuum & Sonic Mop, 10000 Pa Suction, Corner to Edge Deep Cleaning, Hot Air Self-Drying, Auto Empty & Refill, Detergent Dispenser, Obstacle Avoidance, White",
+    "image": "https://m.media-amazon.com/images/I/61bwSTLMKiL._AC_SX679_.jpg",
+    "imageAlt": "White Roborock S8 MaxV Ultra robot vacuum and RockDock Ultra from the Amazon listing",
+    "description": "This Amazon listing is for the white S8 MaxV Ultra robot-and-dock configuration. Amazon showed the item as currently unavailable on October 8, 2026; check the exact model and current offer before purchase.",
+    "sourceIds": ["robot-listing", "official-model"],
+    "listingCheckedDate": "2026-10-08",
+    "sellerAtCheck": "Roborock listing; Amazon showed no featured offer."
+  },
+  "parts": [
+    {
+      "id": "dual-main-brushes",
+      "asin": "B0CW32DT8Z",
+      "label": "Dual main roller brushes",
+      "searchLabel": "replacement main brushes",
+      "buttonLabel": "main brushes",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "One Roborock dual-main-brush set with two rollers.",
+      "fit": "The Amazon Roborock listing explicitly names S8 MaxV Ultra and S8 Max Ultra. Roborock identifies this dual-brush pack for those Max models; it is not the S8 Pro Ultra brush set.",
+      "buyWhen": "Roborock recommends replacing the main brushes every 6–12 months, or sooner if they show abnormal wear.",
+      "check": "Confirm the listing is for the S8 MaxV Ultra dual-roller set, not a rubber roller for S8 Pro Ultra or another S8 model. Install both rollers and seat their bearings before replacing the brush cover.",
+      "image": "https://m.media-amazon.com/images/I/61fH3DzdsIL._AC_SX679_.jpg",
+      "imageAlt": "Two Roborock dual main rollers from the S8 MaxV Ultra Amazon replacement listing",
+      "amazonTitle": "roborock Dual Main Brush Replacement for S8 MaxV Ultra, S8 Max Ultra, Robot Vacuum Cleaner, Two Roller Brushes Included, Roller Brush Accessories Kit",
+      "sourceIds": ["main-brush-listing", "official-model", "official-manual"],
+      "listingCheckedDate": "2026-10-08",
+      "sellerAtCheck": "Roborock brand listing; Amazon showed no featured offer."
+    },
+    {
+      "id": "side-brushes",
+      "asin": "B0BVQC5P6W",
+      "label": "Flexible side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "side brushes",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "Two black Roborock side brushes.",
+      "fit": "Roborock's U.S. accessories page lists this black two-piece side-brush product for S8 MaxV Ultra. The Amazon headline lists several overlapping S-series models but omits MaxV Ultra, so use the official fit list and compare the black brush mount before ordering.",
+      "buyWhen": "Roborock recommends replacing the flexible side brush every 3–6 months, or sooner if worn or damaged.",
+      "check": "This is the robot's flexible side brush, not a main roller or a dock brush. Confirm your robot is S8 MaxV Ultra and that the black brush shape and screw mount match.",
+      "image": "https://m.media-amazon.com/images/I/41954aVFRAL._SX522_.jpg",
+      "imageAlt": "Two black Roborock flexible side brushes shown on the Amazon listing",
+      "amazonTitle": "roborock Side Brushes Replacement (2 Pieces) for S8 Pro Ultra, S7 Max Ultra, Qrevo, Roborock Qrevo Slim, Series of S7 MaxV/S7/Q7Max/Q8 Max/S8/Q7/Q5/S6/S5/S4/E5/E4/E3/E2 Robot Vacuum Cleaner, Black",
+      "sourceIds": ["side-brush-listing", "official-side-brushes", "official-manual"],
+      "listingCheckedDate": "2026-10-08",
+      "sellerAtCheck": "Roborock brand listing; Amazon showed no featured offer."
+    },
+    {
+      "id": "mop-cloths",
+      "asin": "B0D2VN5PGQ",
+      "label": "VibraRise and Edgewise mop pads",
+      "searchLabel": "replacement mop pads",
+      "buttonLabel": "mop pads",
+      "type": "Third-party",
+      "brand": "BTRSOLUS",
+      "pack": "Twelve pads: six VibraRise-style cloths and six Edgewise mop pads, as described by the Amazon listing.",
+      "fit": "The Amazon product title names both Roborock S8 MaxV and S8 Max Ultra. This is a third-party mixed pack; Roborock's manual treats the screw-mounted Edgewise cloth and the separate VibraRise cloth as distinct parts.",
+      "buyWhen": "Roborock recommends replacing either mop cloth every 3–6 months. Clean a dirty cloth before use and replace it earlier if worn.",
+      "check": "Check the pad shape and attachment against the correct mop mount before installing. The pack contains two different cloth styles; do not assume an Edgewise pad and VibraRise cloth are interchangeable. Third-party fit has not been physically tested.",
+      "image": "https://m.media-amazon.com/images/I/91D8GxaavuL._AC_SX679_PIbundle-12,TopRight,0,0_SH20_.jpg",
+      "imageAlt": "Twelve third-party Roborock S8 MaxV Ultra mop pads, including VibraRise and Edgewise styles, from the Amazon listing",
+      "amazonTitle": "12 Pack Mop Pads Refills for Roborock S8 MaxV/S8 Max Ultra Robot Vacuum",
+      "sourceIds": ["mop-listing", "official-manual", "official-mop-cloths"],
+      "listingCheckedDate": "2026-10-08",
+      "sellerAtCheck": "BTRSOLUS listing; Amazon showed no featured offer."
+    },
+    {
+      "id": "dock-dust-bags",
+      "asin": "B0C5JJ6X21",
+      "label": "RockDock Ultra disposable dust bags",
+      "searchLabel": "replacement dock dust bags",
+      "buttonLabel": "dust bags",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "Six original disposable dust bags in the Amazon option labeled “1-Dust Bag”; the listing describes 2.7 L bags.",
+      "fit": "The selected Amazon option's product details explicitly name S8 MaxV Ultra. Roborock also lists its six-piece bag product for S8 MaxV Ultra and the Qrevo/Saros dock families.",
+      "buyWhen": "Replace the disposable dock bag regularly or when full; replace a damaged bag before using auto-empty.",
+      "check": "Choose the Amazon variation labeled “1-Dust Bag.” The same parent listing has a separate “2-Dust Bag” variation for different models, including S8 Pro Ultra. Confirm your S8 MaxV Ultra dock's bag collar matches before ordering.",
+      "image": "https://m.media-amazon.com/images/I/61+EUhJwcML._AC_SX679_.jpg",
+      "imageAlt": "Six Roborock disposable dust bags from the Amazon listing with the S8 MaxV Ultra-compatible option selected",
+      "amazonTitle": "roborock 6 Packs Disposable Dust Bags for Saros 10R, Saros Z70, Saros 20, Qrevo Edge 3 Pro, QV 35A, Qrevo CurvX, Qrevo Curv 2 Flow, Qrevo S Pro, Qrevo 2 Pro, Saros 20 Sonic, S8 Max Ultra & RDS",
+      "sourceIds": ["dock-bag-listing", "official-model"],
+      "listingCheckedDate": "2026-10-08",
+      "sellerAtCheck": "Roborock brand listing; Amazon showed no featured offer."
+    },
+    {
+      "id": "dock-cleaning-brushes",
+      "asin": "B0BX278HKX",
+      "label": "High-speed dock-cleaning brushes",
+      "searchLabel": "replacement dock cleaning brush",
+      "buttonLabel": "dock cleaning brushes",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "Two Roborock high-speed maintenance brushes for the mop-washing dock.",
+      "fit": "The Amazon Roborock listing explicitly names S8 MaxV Ultra and describes these as brushes for mop washing and dock self-cleaning.",
+      "buyWhen": "Roborock recommends cleaning the dock brush as needed and replacing it every 6–12 months, or sooner if worn.",
+      "check": "This small brush sits in the dock's mop-washing module. It is not one of the two main rollers underneath the robot. Confirm the package contains two brushes and that the listing names S8 MaxV Ultra.",
+      "image": "https://m.media-amazon.com/images/I/61cCgBwen0L._SX522_.jpg",
+      "imageAlt": "Roborock high-speed dock-cleaning brush from the Amazon listing for the S8 MaxV Ultra",
+      "amazonTitle": "roborock High-Speed Cleaning Brush for Saros 10/S8 MaxV Ultra/S8 Max Ultra/S8 Pro Ultra/S7 Max Ultra/S7 MaxV Ultra for Mop Washing and Dock Self-Cleaning (2pcs Included), Robot Vacuum Accessories",
+      "sourceIds": ["dock-cleaning-brush-listing", "official-dock-brush", "official-manual"],
+      "listingCheckedDate": "2026-10-08",
+      "sellerAtCheck": "Roborock brand listing; Amazon showed no featured offer."
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "S8 MaxV Ultra vs. S8 Max Ultra and S8 Pro Ultra",
+      "detail": "These are separate robots. The S8 MaxV Ultra manual identifies U.S. model S82USV. Its dedicated washable robot filter is Roborock part RR-LW0-S8MaxVUltra-P02, and its Max-series main-brush pack differs from the S8 Pro Ultra pack. Do not choose a part from an 'S8' title alone."
+    },
+    {
+      "part": "Robot-bin filter",
+      "detail": "Roborock lists washable filter part RR-LW0-S8MaxVUltra-P02 for S8 MaxV Ultra and S8 Max Ultra. Search by this part number and verify the exact S8 MaxV Ultra fit before ordering; a generic S8 or S8 Pro Ultra listing alone does not confirm compatibility."
+    },
+    {
+      "part": "Two robot mop cloths",
+      "detail": "The S8 MaxV Ultra uses both a screw-mounted Edgewise mop cloth and a separate VibraRise cloth. The mixed Amazon pack linked above includes both styles, but they attach to different mounts and are not interchangeable."
+    },
+    {
+      "part": "Dock bag variation",
+      "detail": "The linked Amazon parent listing has multiple bag variations. The S8 MaxV Ultra-compatible product detail is under '1-Dust Bag'; the separate '2-Dust Bag' variation is for other models, including S8 Pro Ultra. Verify the selected option and dock bag collar at checkout."
+    },
+    {
+      "part": "Robot rollers vs. dock-cleaning brush",
+      "detail": "The two main rollers underneath the robot collect floor debris. The small high-speed brush in the RockDock Ultra cleans the mop-washing module. These are separate parts and have separate replacement intervals."
+    },
+    {
+      "part": "Dock water filter",
+      "detail": "The water filter in the dock is separate from the washable air filter in the robot dustbin. Roborock says to rinse the dock water filter as needed and does not give it a scheduled replacement interval."
+    }
+  ],
+  "care": [
+    {"part": "Washable robot-bin filter", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Dual robot main brushes", "clean": "Every 2 weeks", "replace": "Every 6–12 months"},
+    {"part": "Flexible side brush", "clean": "Monthly", "replace": "Every 3–6 months"},
+    {"part": "Edgewise mop cloth", "clean": "As required; clean before use", "replace": "Every 3–6 months"},
+    {"part": "VibraRise mop cloth", "clean": "As required; clean before use", "replace": "Every 3–6 months"},
+    {"part": "Dock high-speed maintenance brush", "clean": "As needed", "replace": "Every 6–12 months"},
+    {"part": "Dock disposable dust bag", "clean": "Disposable", "replace": "Regularly or when full"},
+    {"part": "Dock water filter", "clean": "As needed", "replace": "No scheduled replacement interval in the manual"}
+  ],
+  "careTip": "Rinse the washable robot-bin filter with clean water and let it dry for at least 24 hours before reinstalling it. Clean both main rollers every two weeks, clear hair from the flexible side brush monthly, and wash either mop cloth whenever dirty. Keep the separate dock water filter and high-speed maintenance brush clear of debris.",
+  "questions": [
+    {
+      "question": "Which replacement filter fits the Roborock S8 MaxV Ultra?",
+      "answer": "Roborock lists washable filter part RR-LW0-S8MaxVUltra-P02 for S8 MaxV Ultra and S8 Max Ultra. Search by this part number and verify the exact S8 MaxV Ultra fit before ordering; a generic S8 or S8 Pro Ultra listing alone does not confirm compatibility."
+    },
+    {
+      "question": "Are S8 MaxV Ultra and S8 Pro Ultra replacement parts interchangeable?",
+      "answer": "Not in general. Roborock specifies a dedicated filter and main-brush pack for the S8 MaxV Ultra/S8 Max Ultra family. Only buy a shared item, such as the dock-cleaning brush or side brushes, when the product's compatibility evidence names the exact model."
+    },
+    {
+      "question": "Which Roborock S8 MaxV Ultra dust-bag option should I choose?",
+      "answer": "Choose the Amazon variation labeled '1-Dust Bag'; its product details name S8 MaxV Ultra and describe a six-pack of 2.7 L bags. The parent listing's '2-Dust Bag' variation is for different models, including S8 Pro Ultra. Check the dock collar before ordering."
+    },
+    {
+      "question": "Does the S8 MaxV Ultra use one kind of mop pad?",
+      "answer": "No. It has a screw-mounted Edgewise mop cloth and a separate VibraRise cloth. The third-party twelve-piece listing shown here says it includes six of each style; compare each pad with its own mount before use."
+    },
+    {
+      "question": "How often should I replace S8 MaxV Ultra filters, brushes and mop cloths?",
+      "answer": "Roborock recommends replacing the washable robot filter and main brushes every 6–12 months, the flexible side brush every 3–6 months, both mop cloths every 3–6 months, and the dock high-speed maintenance brush every 6–12 months. Clean the filter and main brushes every two weeks, the side brush monthly, and the dock brush as needed. Replace damaged parts sooner."
+    },
+    {
+      "question": "Are these S8 MaxV Ultra replacement parts genuine Roborock products?",
+      "answer": "The main brushes, side brushes, dust bags, dock-cleaning brush and robot link to Roborock-branded Amazon listings. The linked mop-pad pack is third-party and has not been physically fit-tested. Amazon showed no featured offer for the linked listings when checked October 8, 2026, so confirm the current seller and offer on Amazon."
+    }
+  ],
+  "sources": [
+    {"id": "robot-listing", "label": "Amazon.com — white Roborock S8 MaxV Ultra robot-and-dock listing checked October 8, 2026", "url": "https://www.amazon.com/dp/B0CQLQVTDH"},
+    {"id": "official-model", "label": "Roborock U.S. — S8 MaxV Ultra product page and in-box dock/cloth/bag configuration", "url": "https://us.roborock.com/products/roborock-s8-maxv-ultra/insideClient?bvstate=pg%3A3%2Fct%3Ar"},
+    {"id": "official-manual", "label": "Roborock S8 MaxV Ultra U.S. user manual — S82USV model, maintenance intervals and dock parts", "url": "https://support.roborock.com/hc/en-us/article_attachments/48696021303321"},
+    {"id": "official-parts", "label": "Roborock U.S. — official S8 MaxV Ultra accessories, including its washable filter and dual-main-brush pack", "url": "https://us.roborock.com/products/roborock-s8-maxv-ultra/insideClient?bvstate=pg%3A3%2Fct%3Ar"},
+    {"id": "official-side-brushes", "label": "Roborock U.S. accessories — black two-piece side-brush compatibility list includes S8 MaxV Ultra", "url": "https://us.roborock.com/collections/accessories"},
+    {"id": "official-mop-cloths", "label": "Roborock U.S. — separate S8 MaxV Ultra/S8 Max Ultra VibraRise and Edgewise mop cloths", "url": "https://us.roborock.com/products/roborock-mop-cloth-2pcs-for-s8-maxv-ultra-s8-max-ultra"},
+    {"id": "official-dock-brush", "label": "Roborock U.S. — high-speed cleaning brush compatibility includes S8 MaxV Ultra", "url": "https://us.roborock.com/products/roborock-cleaning-brush-2pcs-for-s8-pro-ultra-s7-maxv-ultra"},
+    {"id": "main-brush-listing", "label": "Amazon.com — Roborock dual main-brush listing explicitly naming S8 MaxV Ultra, checked October 8, 2026", "url": "https://www.amazon.com/dp/B0CW32DT8Z"},
+    {"id": "side-brush-listing", "label": "Amazon.com — original black Roborock two-piece side-brush listing checked October 8, 2026", "url": "https://www.amazon.com/dp/B0BVQC5P6W"},
+    {"id": "mop-listing", "label": "Amazon.com — twelve-piece S8 MaxV/S8 Max Ultra third-party mop-pad listing checked October 8, 2026", "url": "https://www.amazon.com/dp/B0D2VN5PGQ"},
+    {"id": "dock-bag-listing", "label": "Amazon.com — Roborock six-piece bag listing, selected 1-Dust Bag variant checked October 8, 2026", "url": "https://www.amazon.com/dp/B0C5JJ6X21"},
+    {"id": "dock-cleaning-brush-listing", "label": "Amazon.com — Roborock two-piece high-speed dock-cleaning-brush listing naming S8 MaxV Ultra, checked October 8, 2026", "url": "https://www.amazon.com/dp/B0BX278HKX"}
+  ]
+}
