@@ -1,0 +1,270 @@
+{
+  "status": "published",
+  "slug": "roborock-qrevo-master",
+  "name": "Roborock Qrevo Master",
+  "brand": "Roborock",
+  "variant": "U.S. QR2PPS robot with EWFD22LRR Empty Wash Fill Dock",
+  "title": "Roborock Qrevo Master Replacement Parts: Filters, DuoRoller Brushes, Mop Pads & Bags | DustMigo",
+  "description": "Find Roborock Qrevo Master replacement filters, DuoRoller brushes, side brushes, mop pads and dock bags. Check model fit and pack sizes before ordering.",
+  "scope": "U.S. Roborock Qrevo Master robot model QR2PPS with EWFD22LRR Empty Wash Fill Dock. Match both model labels before choosing replacement parts.",
+  "checkedDate": "2026-10-09",
+  "checkedLabel": "October 9, 2026",
+  "warning": "Qrevo Master uses the DuoRoller Riser with two full-length rubber rollers and a Master-specific washable filter. Do not substitute the single roller or filter listed for the original Qrevo, Qrevo S, Qrevo Pro or Qrevo MaxV; DuoDivide is a different brush system.",
+  "robot": {
+    "asin": "B0CWR5SHZP",
+    "amazonTitle": "roborock Qrevo Master Robot Vacuum and Mop Combo, 10,000Pa Suction, FlexiArm Design Side Brush & Mop, Auto Mop Washing & Drying, Self-Emptying&Refilling, Dock Self-Cleaning, Obstacle Avoidance, White",
+    "image": "https://m.media-amazon.com/images/I/61uhLcrv7+L._AC_SL1500_.jpg",
+    "imageAlt": "White Roborock Qrevo Master robot and dock from its Amazon listing",
+    "description": "This Amazon listing shows the white U.S. Qrevo Master robot-and-dock configuration. The U.S. manual identifies the robot as QR2PPS and the dock as EWFD22LRR; confirm the selected color and configuration on Amazon. No featured offer appeared in the page snapshot.",
+    "sourceIds": [
+      "robot-listing",
+      "official-manual",
+      "official-model"
+    ],
+    "listingCheckedDate": "2026-10-09",
+    "sellerAtCheck": "No featured offer appeared in the page snapshot; check current buying options."
+  },
+  "parts": [
+    {
+      "id": "duoroller-brushes",
+      "label": "DuoRoller main brush set",
+      "searchLabel": "DuoRoller replacement main brushes",
+      "buttonLabel": "DuoRoller brush set",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "Two full-length rubber main rollers.",
+      "asin": "B0CW32DT8Z",
+      "amazonTitle": "roborock Dual Main Brush Replacement for S8 MaxV Ultra, S8 Max Ultra, Robot Vacuum Cleaner, Two Roller Brushes Included, Roller Brush Accessories Kit",
+      "image": "https://m.media-amazon.com/images/I/61fH3DzdsIL._AC_SL1500_.jpg",
+      "imageAlt": "Two Roborock rubber main rollers from the Amazon dual-brush listing",
+      "fit": "Roborock’s U.S. product page names the Qrevo Master for this brush pack, and the Amazon product details explicitly include Qrevo Master. These are its two DuoRoller-style main rollers, not a single roller or the split-bristle DuoDivide brush used by other models.",
+      "buyWhen": "Roborock recommends cleaning the main brushes every 2 weeks and replacing them every 6–12 months, or sooner if worn or damaged.",
+      "check": "Confirm Qrevo Master in the listing details and that the selected pack contains both rollers. The Amazon snapshot showed no featured offer, so check the current buying options.",
+      "sourceIds": [
+        "brush-listing",
+        "official-accessories",
+        "official-manual",
+        "official-model"
+      ],
+      "listingCheckedDate": "2026-10-09",
+      "sellerAtCheck": "roborock product listing; no featured offer appeared in the Amazon snapshot."
+    },
+    {
+      "id": "filters",
+      "label": "Washable dustbin filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "filters",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "Two washable filters.",
+      "asin": "B0D2QZ3LNW",
+      "amazonTitle": "Roborock 2 Pack Washable Filter for Qrevo Master/Qrevo Slim/Saros Z70 / Qrevo Curv 2 Flow, High-Efficiency Replacement Filters – Compatible with These Models Only",
+      "image": "https://m.media-amazon.com/images/I/61zpW-UlIxL._AC_SL1500_.jpg",
+      "imageAlt": "Two Roborock washable filters from the Amazon listing that names Qrevo Master",
+      "fit": "This Roborock filter listing explicitly limits compatibility to Qrevo Master, Qrevo Slim, Saros Z70 and Qrevo Curv 2 Flow. It is the washable filter inside the robot dustbin, not a disposable bag for the dock.",
+      "buyWhen": "Roborock recommends cleaning the washable filter every 2 weeks and replacing it every 6–12 months, or sooner if damaged or still clogged after cleaning.",
+      "check": "Confirm Qrevo Master in the current listing details. After rinsing, let the filter dry for at least 24 hours before reinstalling. The Amazon snapshot showed no featured offer, so check the live buying options.",
+      "sourceIds": [
+        "filter-listing",
+        "official-filter",
+        "official-manual"
+      ],
+      "listingCheckedDate": "2026-10-09",
+      "sellerAtCheck": "roborock; no featured offer appeared in the Amazon snapshot."
+    },
+    {
+      "id": "side-brushes",
+      "label": "Black side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "side brushes",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "Two black Roborock side brushes.",
+      "asin": "B0BVQC5P6W",
+      "amazonTitle": "roborock Side Brushes Replacement (2 Pieces) for S8 Pro Ultra, S7 Max Ultra, Qrevo, Roborock Qrevo Slim, Series of S7 MaxV/S7/Q7Max/Q8 Max/S8/Q7/Q5/S6/S5/S4/E5/E4/E3/E2 Robot Vacuum Cleaner, Black - Type B",
+      "image": "https://m.media-amazon.com/images/I/41954aVFRAL._SX522_.jpg",
+      "imageAlt": "Two black Roborock side brushes from the Amazon two-piece listing",
+      "fit": "Roborock’s U.S. accessories catalog explicitly lists Qrevo Master for its two-piece black side-brush family. The Amazon listing is Roborock-branded and shows the matching two-piece black brush; compare the screw mount with your existing part.",
+      "buyWhen": "Roborock recommends cleaning the side brush monthly and replacing it every 3–6 months, or sooner if worn or damaged.",
+      "check": "Choose the black two-piece pack and compare its screw mount with your existing brush. The Amazon snapshot showed no featured offer; verify current seller and buying options.",
+      "sourceIds": [
+        "side-brush-listing",
+        "official-accessories",
+        "official-manual"
+      ],
+      "listingCheckedDate": "2026-10-09",
+      "sellerAtCheck": "roborock; no featured offer appeared in the Amazon snapshot."
+    },
+    {
+      "id": "mop-cloths",
+      "label": "Round spinning mop cloths",
+      "searchLabel": "replacement mop pads",
+      "buttonLabel": "mop pads",
+      "type": "Third-party",
+      "brand": "Rrochio",
+      "pack": "Six microfiber mop cloths (three pairs).",
+      "asin": "B0DDPLB6SK",
+      "amazonTitle": "6Pcs Microfiber Mop Cloth Pad for Roborock Q Revo,Qrevo S,Qrevo Pro,Qrevo Master,Qrevo MaxV,QV35A,QV 35S,Qrevo S5V,Qrevo Edge S5A,Qrevo Curv,Saros 10R Robot Vacuum, Washable Mopping Cloth Accessories",
+      "image": "https://m.media-amazon.com/images/I/71i8EnHEHbL._AC_SX679_.jpg",
+      "imageAlt": "Six round microfiber mop cloths from the Amazon listing that names Qrevo Master",
+      "fit": "The Amazon listing names Qrevo Master, and Roborock’s U.S. mop-cloth page lists the model. These are cloths only, not the rotating mounts or drive components. Third-party fit has not been physically tested.",
+      "buyWhen": "Roborock says to clean mop cloths as needed and replace them every 1–3 months, or sooner if worn or damaged.",
+      "check": "Compare the round cloth shape and attachment with your existing pads. Confirm the six-piece option and current seller on Amazon before ordering.",
+      "sourceIds": [
+        "mop-listing",
+        "official-mop-cloths",
+        "official-manual"
+      ],
+      "listingCheckedDate": "2026-10-09",
+      "sellerAtCheck": "Rrochio is the listing brand; seller and offers can change."
+    },
+    {
+      "id": "dust-bags",
+      "label": "Disposable dock dust bags",
+      "searchLabel": "replacement dock dust bags",
+      "buttonLabel": "dock bags",
+      "type": "Third-party",
+      "brand": "LOVECO",
+      "pack": "Fourteen disposable dust bags, plus a cleaning brush and screwdriver.",
+      "asin": "B0DSBLBJ74",
+      "amazonTitle": "LOVECO 14 Pack Dust Bag Replacement Compatible for Roborock S8 MaxV Ultra/Q Revo/Qrevo Curv/Qrevo Master/Qrevo S/Qrevo Pro/Qrevo Slim/S8 Max Ultra",
+      "image": "https://m.media-amazon.com/images/I/71RbrXxUdbL._AC_SL1500_.jpg",
+      "imageAlt": "LOVECO replacement dust bags from the Amazon-linked 14-pack listing",
+      "fit": "The Amazon listing names Qrevo Master in its compatibility details. This is a third-party disposable dock bag, not the washable filter inside the robot; the dock’s fit and seal depend on matching the exact model.",
+      "buyWhen": "Replace the disposable dock bag when the robot or dock indicates that it is full, or sooner if the bag is damaged.",
+      "check": "Confirm Qrevo Master and the 14-bag option in the current listing details. This fit claim is from the third-party seller; verify the bag’s mounting collar against your dock before use.",
+      "sourceIds": [
+        "bag-listing",
+        "official-manual"
+      ],
+      "listingCheckedDate": "2026-10-09",
+      "sellerAtCheck": "LOVECO is the listing brand; seller and offers can change."
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "U.S. robot and dock",
+      "detail": "The U.S. manual identifies robot QR2PPS and dock EWFD22LRR. Match both labels to your machine; different Qrevo docks or regional variants may use different parts."
+    },
+    {
+      "part": "Main brush",
+      "detail": "Qrevo Master uses the DuoRoller Riser with two full-length rubber rollers. It is not the conventional single roller of Qrevo Pro or the DuoDivide brush system used by Qrevo Curv."
+    },
+    {
+      "part": "Washable filter vs. dock bag",
+      "detail": "The robot washable filter is a Master/Slim/Saros Z70/Qrevo Curv 2 Flow-specific part family. A dock dust bag is a separate disposable part; a bag listing alone does not establish filter compatibility."
+    },
+    {
+      "part": "Mop cloths and side brush",
+      "detail": "Roborock lists the Qrevo Master for the two-piece side-brush family and round Qrevo mop cloths. Replace the cloths only; the rotating mounts and drive parts are separate."
+    }
+  ],
+  "care": [
+    {
+      "part": "Main brushes",
+      "clean": "Every 2 weeks",
+      "replace": "6–12 months"
+    },
+    {
+      "part": "Side brush",
+      "clean": "Monthly",
+      "replace": "3–6 months"
+    },
+    {
+      "part": "Washable filter",
+      "clean": "Every 2 weeks",
+      "replace": "6–12 months"
+    },
+    {
+      "part": "Mop cloths",
+      "clean": "As needed",
+      "replace": "1–3 months"
+    },
+    {
+      "part": "Dock dust bag",
+      "clean": "Disposable",
+      "replace": "When full or damaged"
+    }
+  ],
+  "careTip": "Let a rinsed washable filter dry for at least 24 hours before reinstalling it. Switch the robot off before servicing the brushes or mop components.",
+  "questions": [
+    {
+      "question": "How do I identify the U.S. Roborock Qrevo Master?",
+      "answer": "The U.S. manual lists robot model QR2PPS and dock model EWFD22LRR. Check both labels before choosing parts."
+    },
+    {
+      "question": "Does the Qrevo Master use DuoDivide brushes?",
+      "answer": "No. The Qrevo Master uses two full-length rubber rollers in its DuoRoller Riser assembly. DuoDivide is a different split-bristle system used by other models such as Qrevo Curv."
+    },
+    {
+      "question": "Can I use a Qrevo S or Qrevo Pro filter?",
+      "answer": "Do not assume so. Roborock has a separate filter listing for Qrevo Master, Qrevo Slim and Saros Z70; the linked filter listing says it is compatible only with the models it names."
+    },
+    {
+      "question": "Are all the linked parts genuine Roborock?",
+      "answer": "The DuoRoller brush set, washable filter and side brushes are Roborock-branded. The mop cloths and dock bags are third-party products. DustMigo has not physically tested third-party fit or durability."
+    }
+  ],
+  "sources": [
+    {
+      "id": "robot-listing",
+      "label": "Amazon — Roborock Qrevo Master robot and dock listing",
+      "url": "https://www.amazon.com/dp/B0CWR5SHZP"
+    },
+    {
+      "id": "official-manual",
+      "label": "Roborock Qrevo Master U.S. manual — model codes and maintenance",
+      "url": "https://support.roborock.com/hc/en-us/article_attachments/33698338622105"
+    },
+    {
+      "id": "official-model",
+      "label": "Roborock — Qrevo Master U.S. product page and DuoRoller Riser",
+      "url": "https://us.roborock.com/pages/roborock-qrevo-master"
+    },
+    {
+      "id": "official-variant-comparison",
+      "label": "Roborock support — Qrevo Master vs. Qrevo Pro and Qrevo MaxV",
+      "url": "https://support.roborock.com/hc/en-us/articles/33953974919577-What-are-the-difference-among-of-Qrevo-Master-Qrevo-Pro-and-Qrevo-MaxV"
+    },
+    {
+      "id": "official-filter",
+      "label": "Roborock — washable filter two-pack for Qrevo Master, Qrevo Slim and Saros Z70",
+      "url": "https://us.roborock.com/products/roborock-washable-filter-2-pcs-for-roborock-qrevo-master-qrevo-slim-and-saros-z70"
+    },
+    {
+      "id": "official-mop-cloths",
+      "label": "Roborock — round Qrevo mop cloths including Qrevo Master",
+      "url": "https://us.roborock.com/products/roborock-mop-cloth-4pcs-for-qrevo-qrevo-pro-qrevo-s-qrevo-master-qrevo-plus-qrevo-slim"
+    },
+    {
+      "id": "brush-listing",
+      "label": "Amazon — Roborock dual main-brush listing naming Qrevo Master",
+      "url": "https://www.amazon.com/dp/B0CW32DT8Z"
+    },
+    {
+      "id": "filter-listing",
+      "label": "Amazon — Roborock washable filter listing naming Qrevo Master",
+      "url": "https://www.amazon.com/dp/B0D2QZ3LNW"
+    },
+    {
+      "id": "side-brush-listing",
+      "label": "Amazon — Roborock black two-piece side-brush listing",
+      "url": "https://www.amazon.com/dp/B0BVQC5P6W"
+    },
+    {
+      "id": "mop-listing",
+      "label": "Amazon — Rrochio six-piece mop-cloth listing naming Qrevo Master",
+      "url": "https://www.amazon.com/dp/B0DDPLB6SK"
+    },
+    {
+      "id": "bag-listing",
+      "label": "Amazon — LOVECO 14-pack dock-bag listing naming Qrevo Master",
+      "url": "https://www.amazon.com/dp/B0DSBLBJ74"
+    },
+    {
+      "id": "official-accessories",
+      "label": "Roborock U.S. accessories catalog - brush packs and Master compatibility",
+      "url": "https://us.roborock.com/collections/accessories"
+    }
+  ]
+}
