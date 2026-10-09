@@ -1,0 +1,149 @@
+{
+  "status": "published",
+  "slug": "roborock-q5-max-plus",
+  "name": "Roborock Q5 Max+",
+  "brand": "Roborock",
+  "variant": "U.S. Q5 Max+ robot model Q50ULE with Auto-Empty Dock AED06LRR or AED07LRR",
+  "title": "Roborock Q5 Max+ Replacement Parts: Brushes, Filters & Dock Bags | DustMigo",
+  "description": "Find Roborock Q5 Max+ replacement brushes, washable filters and 2.5 L dock bags. Check your Q50ULE robot and dock model before choosing a part.",
+  "scope": "For the U.S. Roborock Q5 Max+ robot, model Q50ULE, with Auto-Empty Dock model AED06LRR or AED07LRR. Match the labels on your robot and dock before choosing parts.",
+  "checkedDate": "2026-10-09",
+  "checkedLabel": "October 9, 2026",
+  "warning": "The Q5 Max+ uses two main rollers and is vacuum-only. Q5+ has a single-bristle brush, Q5 Pro+ adds a detachable mop, and Q10 S5+ has its own brush and VibraRise mop system. Check the exact model in each listing. Dock bags are for the Q5 Max+ Auto-Empty Dock, not the robot's dustbin. The dual-roller kit is third-party; the other linked parts are Roborock-branded.",
+  "robot": {
+    "asin": "B0CWQP4Y4R",
+    "amazonTitle": "roborock Q5 Max+ Robot Vacuum with Self-Empty Dock, Upgraded from Q5+, 5500 Pa Suction, DuoRoller Brush, Hands-Free Cleaning for up to 7 Weeks, PreciSense LiDAR Navigation, App & Voice Control",
+    "image": "https://m.media-amazon.com/images/I/61yYis0jtgL._SL1500_.jpg",
+    "imageAlt": "Roborock Q5 Max+ robot vacuum and self-empty dock shown in its Amazon listing",
+    "description": "This Amazon listing identifies the Q5 Max+ robot and self-empty dock. Roborock's U.S. manual identifies the robot as Q50ULE and the Auto-Empty Dock as AED06LRR or AED07LRR. No featured offer appeared in the Amazon snapshot, so check current buying options.",
+    "sourceIds": ["robot-listing", "official-manual", "official-model"],
+    "listingCheckedDate": "2026-10-09",
+    "sellerAtCheck": "roborock byline; no featured offer appeared in the Amazon snapshot."
+  },
+  "parts": [
+    {
+      "id": "dual-main-brush-kit",
+      "label": "Dual-roller main-brush replacement kit",
+      "searchLabel": "replacement dual roller brush kit",
+      "buttonLabel": "dual-roller brush kit",
+      "type": "Third-party",
+      "brand": "Kiigii",
+      "pack": "One dual roller brush, six side brushes, four filters and two cleaning tools, as stated in the listing.",
+      "asin": "B0DN69QSN7",
+      "amazonTitle": "Replacement Parts for Roborock Q5 Pro / Q5 Pro+(Plus) / Q5 Max+(Plus) | Fits Q8 Max / Q8 Max+(Plus) / Q5 DuoRoller+, 1 Dual Roller Brush, 6 Side Brushes, 4 Filters, 2 Tools",
+      "image": "https://m.media-amazon.com/images/I/71JQE8x551L._AC_SL1500_.jpg",
+      "imageAlt": "Kiigii replacement kit showing a dual main brush, filters, side brushes and tools",
+      "fit": "The Amazon listing explicitly includes Q5 Max+ and describes one dual roller brush. This is a third-party mixed-parts kit, not an original Roborock brush; DustMigo has not physically tested its fit or durability.",
+      "buyWhen": "Roborock recommends checking and cleaning the main brushes every 2 weeks and replacing them every 6–12 months, or sooner if worn or damaged.",
+      "check": "Confirm Q5 Max+ in the selected listing and make sure the kit shows the dual-roller brush. Do not choose a single-roller Q5/Q5+ kit. The kit also includes side brushes and filters; compare those parts with the robot before installing.",
+      "sourceIds": ["main-brush-listing", "official-manual", "official-model"],
+      "listingCheckedDate": "2026-10-09",
+      "sellerAtCheck": "Kiigii is the listing brand; seller and buying options can change."
+    },
+    {
+      "id": "washable-filters",
+      "label": "Washable robot dustbin filters",
+      "searchLabel": "replacement filters",
+      "buttonLabel": "filters",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "Two washable filters.",
+      "asin": "B09TDXXC6T",
+      "amazonTitle": "roborock Washable Filter for Roborock Q7 Max, Q7 Max+, Q8 Max, Q8 Max+, Q5 Pro, Q5 Pro+, Q5 Max+, Q5 DuoRoller+ Robot Vacuum Cleaners (2Pcs), Replacement Washable Filter for Robotic Vacuum",
+      "image": "https://m.media-amazon.com/images/I/61kD-z3znIL._AC_SL1500_.jpg",
+      "imageAlt": "Roborock washable replacement filter from the two-piece Amazon listing naming Q5 Max+",
+      "fit": "The Roborock-branded Amazon listing explicitly names Q5 Max+. These washable filters fit the robot dustbin; they are separate from the disposable bag in the dock.",
+      "buyWhen": "Roborock says to clean the washable filter every week and replace it every 6–12 months, or sooner if damaged or still clogged after cleaning.",
+      "check": "Confirm Q5 Max+ and the two-filter pack in the listing. Rinse with clean water only and let the filter dry completely for at least 24 hours before reinstalling.",
+      "sourceIds": ["filter-listing", "official-manual", "official-model"],
+      "listingCheckedDate": "2026-10-09",
+      "sellerAtCheck": "roborock byline; no featured offer appeared in the Amazon snapshot."
+    },
+    {
+      "id": "side-brushes",
+      "label": "Black side brushes",
+      "searchLabel": "replacement side brushes",
+      "buttonLabel": "side brushes",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "Two Roborock black side brushes.",
+      "asin": "B0BVQC5P6W",
+      "amazonTitle": "roborock Side Brushes Replacement (2 Pieces) for S8 Pro Ultra, S7 Max Ultra, Qrevo, Roborock Qrevo Slim, Series of S7 MaxV/S7/Q7Max/Q8 Max/S8/Q7/Q5/S6/S5/S4/E5/E4/E3/E2 Robot Vacuum Cleaner, Black",
+      "image": "https://m.media-amazon.com/images/I/41954aVFRAL._SL1080_.jpg",
+      "imageAlt": "Two black Roborock side brushes from the Amazon two-piece listing",
+      "fit": "Roborock's U.S. accessories catalog lists this black side-brush family for Q5 Max+. The Amazon listing is Roborock-branded and describes the two-piece black brush set, though its displayed title does not name Q5 Max+ individually.",
+      "buyWhen": "Roborock recommends cleaning the side brush monthly and replacing it every 3–6 months, or sooner if worn or damaged.",
+      "check": "Confirm the black two-piece Roborock brush option and compare its screw mount with the brush on your Q5 Max+. The manufacturer's accessories catalog explicitly lists Q5 Max+ compatibility; the Amazon title itself uses a broader model list.",
+      "sourceIds": ["side-brush-listing", "official-accessories", "official-manual"],
+      "listingCheckedDate": "2026-10-09",
+      "sellerAtCheck": "roborock byline; no featured offer appeared in the Amazon snapshot."
+    },
+    {
+      "id": "dock-dust-bags",
+      "label": "Disposable Auto-Empty Dock dust bags",
+      "searchLabel": "replacement dock dust bags",
+      "buttonLabel": "dock bags",
+      "type": "Original",
+      "brand": "roborock",
+      "pack": "Six disposable 2.5 L dust bags.",
+      "asin": "B09S3RK92B",
+      "amazonTitle": "Roborock 6-Pack Disposable Dust Bags for Robot Vacuum Cleaner S8 Pro Ultra, S7 Max Ultra, S7 MaxV Ultra, S8+, Q5 Max+, Q5 DuoRoller+, Q5 Pro+, Q7 Max+, Q8 Max+, Q5 Max+, Q5+, Q10 S5+, Q10 X5+, Q7 M5+",
+      "image": "https://m.media-amazon.com/images/I/619PrGRA0SL._AC_SL1500_.jpg",
+      "imageAlt": "Roborock disposable dust bags from the six-pack Amazon listing naming Q5 Max+",
+      "fit": "The Roborock-branded Amazon listing explicitly names Q5 Max+ and states 2.5 L bags. Roborock identifies the Q5 Max+ dock bag as a 2.5 L E12-rated bag. These fit the Auto-Empty Dock, not the washable filter slot in the robot.",
+      "buyWhen": "Replace the dock bag when full or as required. Roborock says actual emptying intervals depend on use and environment.",
+      "check": "Confirm Q5 Max+ and the six-bag option, and match your dock label to AED06LRR or AED07LRR. The Q5 Max without the plus sign does not include this Auto-Empty Dock configuration.",
+      "sourceIds": ["bag-listing", "official-model", "official-manual"],
+      "listingCheckedDate": "2026-10-09",
+      "sellerAtCheck": "roborock byline; no featured offer appeared in the Amazon snapshot."
+    }
+  ],
+  "compatibility": [
+    {
+      "part": "U.S. robot and dock",
+      "detail": "Roborock's U.S. manual identifies robot model Q50ULE and Auto-Empty Dock models AED06LRR and AED07LRR. Match the label on your robot and dock before ordering."
+    },
+    {
+      "part": "Main rollers and model variants",
+      "detail": "The Q5 Max+ uses the DuoRoller system with two main rollers. Roborock lists Q5+ with a single-bristle brush and Q5 Pro+ with a detachable mop. Q10 S5+ has a separate brush and VibraRise mop system. The Q5 Max+ bag listing also names Q10 S5+, but shared dock bags do not prove shared robot-part fit. This guide is not for the Q5 Max without the plus sign; check the exact model in every listing."
+    },
+    {
+      "part": "Robot filter and dock bag",
+      "detail": "The washable filter belongs in the robot dustbin. The 2.5 L disposable bag belongs in the Auto-Empty Dock; the bag is not a robot filter."
+    },
+    {
+      "part": "Mopping parts",
+      "detail": "The Q5 Max+ is a vacuum-only model, so this guide does not include mop pads. Q5 Pro+ is a separate model with different listed features and should be checked independently."
+    },
+    {
+      "part": "Original and third-party parts",
+      "detail": "The filter, side brushes, dock bags and robot listing are Roborock-branded. The dual-roller kit is third-party and its fit and durability have not been physically tested by DustMigo."
+    }
+  ],
+  "care": [
+    {"part": "DuoRoller main brushes", "clean": "Every 2 weeks", "replace": "6–12 months"},
+    {"part": "Side brush", "clean": "Monthly", "replace": "3–6 months"},
+    {"part": "Washable robot filter", "clean": "Every week", "replace": "6–12 months"},
+    {"part": "Auto-Empty Dock bag", "clean": "Disposable", "replace": "When full or as required"}
+  ],
+  "careTip": "Switch off the robot before servicing the brushes. Rinse the washable filter with clean water only and let it dry for at least 24 hours before reinstalling. Replace the disposable dock bag when full.",
+  "questions": [
+    {"question": "How do I identify the U.S. Roborock Q5 Max+?", "answer": "The U.S. manual lists robot model Q50ULE and Auto-Empty Dock model AED06LRR or AED07LRR. Check both labels, especially if you are ordering dock bags."},
+    {"question": "Does the Q5 Max+ use one main brush or two?", "answer": "It uses Roborock's DuoRoller system with two main rollers. Choose a listing that explicitly identifies Q5 Max+ and a dual-roller brush; single-roller Q5/Q5+ kits are a different fit."},
+    {"question": "Are Q5 Max+ replacement filters the same as dock bags?", "answer": "No. The washable filter sits in the robot dustbin. Disposable 2.5 L bags sit inside the Auto-Empty Dock."},
+    {"question": "Does the Q5 Max+ need mop pads?", "answer": "No. The Q5 Max+ is a vacuum-only model. Q5 Pro+ is a separate model, so check its own parts and compatibility before ordering."},
+    {"question": "Which linked items are original Roborock parts?", "answer": "The washable filters, black side brushes and dock bags are Roborock-branded listings. The dual-roller brush kit is third-party and has not been physically tested by DustMigo."}
+  ],
+  "sources": [
+    {"id": "official-manual", "label": "Roborock Q5 Max+ U.S. manual — model codes and maintenance schedule", "url": "https://support.roborock.com/hc/en-us/article_attachments/46737310697113"},
+    {"id": "official-model", "label": "Roborock U.S. — Q5 Max+ product details and compatible parts", "url": "https://us.roborock.com/products/roborock-q5-max-plus"},
+    {"id": "official-accessories", "label": "Roborock U.S. accessories catalog — Q5 Max+ side-brush compatibility", "url": "https://us.roborock.com/collections/accessories"},
+    {"id": "official-q5-series", "label": "Roborock Q5 Pro Series — Q5+ single brush and Q5 Pro+ detachable mop", "url": "https://us.roborock.com/pages/roborock-q5-pro"},
+    {"id": "official-q10-s5-plus", "label": "Roborock Q10 S5+ — separate anti-tangle brush and VibraRise mop system", "url": "https://us.roborock.com/products/roborock-q10-s5-plus"},
+    {"id": "robot-listing", "label": "Amazon — Roborock Q5 Max+ robot and self-empty dock listing", "url": "https://www.amazon.com/dp/B0CWQP4Y4R"},
+    {"id": "main-brush-listing", "label": "Amazon — third-party dual-roller replacement kit naming Q5 Max+", "url": "https://www.amazon.com/dp/B0DN69QSN7"},
+    {"id": "filter-listing", "label": "Amazon — Roborock two-pack washable filter listing naming Q5 Max+", "url": "https://www.amazon.com/dp/B09TDXXC6T"},
+    {"id": "side-brush-listing", "label": "Amazon — Roborock black two-piece side-brush listing", "url": "https://www.amazon.com/dp/B0BVQC5P6W"},
+    {"id": "bag-listing", "label": "Amazon — Roborock six-pack 2.5 L dock-bag listing naming Q5 Max+", "url": "https://www.amazon.com/dp/B09S3RK92B"}
+  ]
+}

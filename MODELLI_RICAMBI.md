@@ -30,7 +30,7 @@ Segnali espliciti osservati: eufy presenta X10 Pro Omni come bestseller; Roboroc
 | 16 | Roborock Qrevo Pro | Secondo gruppo | Guida pubblicata il 9 ottobre 2026; robot QR1PES, dock EWFD16LRR, filtro, spazzole, panni e sacchetti verificati. Per il rullo, l’inserzione Amazon con compatibilità esplicita è un kit terzo con un roller; non è un ricambio singolo. |
 | 17 | Roborock Qrevo Master | Secondo gruppo | Guida pubblicata il 9 ottobre 2026; QR2PPS/EWFD22LRR, DuoRoller Riser, filtro dedicato, spazzole, panni e sacchetti. Distinta da Qrevo Pro, MaxV e Curv; sacchetti terzi con compatibilità da ricontrollare sulla scheda Amazon. |
 | 18 | Roborock Qrevo Curv | Secondo gruppo | Guida pubblicata il 9 ottobre 2026; V10VIV/EWFD26LRR, DuoDivide, FlexiArm, filtro, panni tondi e sacchetti verificati. CurvX e Curv 2 Flow distinti |
-| 19 | Roborock Q5 Max+ | Secondo gruppo | Parti robot e sacchetti; distinguere Pro+, Q5 e Q10 |
+| 19 | Roborock Q5 Max+ | Secondo gruppo | Guida pubblicata il 9 ottobre 2026; identificati Q50ULE e dock AED06LRR/AED07LRR. Verificati kit DuoRoller terzo, filtro lavabile, spazzole laterali Roborock e sacchetti dock 2,5 L; distinto da Q5/Q5+ e Q5 Pro+ |
 | 20 | Roborock Q7 Max+ | Secondo gruppo | Filtro, rullo e mop del robot; sacchetti del dock |
 | 21 | Roborock Q10 S5+ | Primo gruppo | Ricambi specifici Q10 e dock; è già presente sul sito |
 | 22 | Roborock Saros 10R | Secondo gruppo | Differenze con Saros 10 e Z70, soprattutto filtri e mop |
