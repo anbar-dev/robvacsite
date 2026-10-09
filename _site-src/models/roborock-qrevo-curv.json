@@ -1,0 +1,110 @@
+{
+  "status":"published","slug":"roborock-qrevo-curv","name":"Roborock Qrevo Curv","brand":"Roborock",
+  "variant":"U.S. V10VIV robot with EWFD26LRR Empty Wash Fill Dock",
+  "title":"Roborock Qrevo Curv Replacement Parts: DuoDivide Brush, Filters, Mop Pads & Bags | DustMigo",
+  "description":"Find Roborock Qrevo Curv replacement filters, DuoDivide and FlexiArm brushes, mop pads and dock bags. Check exact model and pack fit before ordering.",
+  "scope":"For the U.S. Roborock Qrevo Curv robot, model V10VIV, with EWFD26LRR Empty Wash Fill Dock. Match your robot and dock labels before choosing parts.",
+  "checkedDate":"2026-10-09","checkedLabel":"October 9, 2026",
+  "warning":"Qrevo Curv uses a DuoDivide main-brush assembly, a FlexiArm Arc side brush and two round spinning mop cloths. Do not assume CurvX or Qrevo Curv 2 Flow accessories fit: the Curv mop cloth listing explicitly excludes CurvX, and Curv 2 Flow uses a different roller-mop system.",
+  "robot":{
+    "asin":"B0D81675BQ",
+    "amazonTitle":"roborock Qrevo Curv Robot Vacuum and Mop, Zero-Tangling, AdaptiLift Chassis, FlexiArm Technology, Al Obstacle Recognition, 17mm Mop Lift, 18,500Pa Suction, Hot Water Mop Washing & Dock Self Cleaning",
+    "image":"https://m.media-amazon.com/images/I/618t1V37iWL._AC_SL1500_.jpg",
+    "imageAlt":"Roborock Qrevo Curv robot and dock shown in its Amazon listing",
+    "description":"This Roborock Amazon listing is for the Qrevo Curv robot-and-dock product. The U.S. manual identifies robot V10VIV and Empty Wash Fill Dock EWFD26LRR; confirm both labels and the selected configuration on Amazon. No featured offer appeared in the page snapshot, so check current buying options.",
+    "sourceIds":["robot-listing","official-manual","official-model"],"listingCheckedDate":"2026-10-09",
+    "sellerAtCheck":"roborock byline; no featured offer appeared in the Amazon snapshot."
+  },
+  "parts":[
+    {
+      "id":"duodivide-main-brush","label":"DuoDivide main-brush assembly","searchLabel":"DuoDivide main-brush replacement","buttonLabel":"DuoDivide brush","type":"Original","brand":"roborock",
+      "pack":"One DuoDivide main-brush assembly with two short parallel rollers.","asin":"B0DJ7THYG1",
+      "amazonTitle":"roborock Zero-Tangling DuoDivide Main Brush Replacement Qrevo Curv, Qrevo CurvX, Qrevo S5V, Saros 10R, Saros 10, Qrevo Curv 2 Flow, Saros 20, Qrevo Edge 2, Qrevo 2 Pro, Qrevo Edge 3 Pro",
+      "image":"https://m.media-amazon.com/images/I/51CIzVSGD2L._AC_SL1500_.jpg","imageAlt":"Roborock DuoDivide main-brush assembly from the Amazon listing that names Qrevo Curv",
+      "fit":"The Roborock-branded Amazon listing explicitly names Qrevo Curv, and Roborock describes the Curv's DuoDivide system as two short parallel rollers with spiral blades. This is the main-brush assembly, not a brush cover.",
+      "buyWhen":"Roborock recommends cleaning the main brushes every 2 weeks and replacing them every 6–12 months, or sooner if worn or damaged.",
+      "check":"Confirm Qrevo Curv in the listing and choose the complete DuoDivide brush assembly. The snapshot showed no featured offer, so check current sellers and buying options.",
+      "sourceIds":["duodivide-listing","official-duodivide","official-manual","official-model"],"listingCheckedDate":"2026-10-09",
+      "sellerAtCheck":"roborock byline; no featured offer appeared in the Amazon snapshot."
+    },
+    {
+      "id":"side-brushes","label":"FlexiArm Arc side brushes","searchLabel":"FlexiArm Arc side-brush replacements","buttonLabel":"side brushes","type":"Original","brand":"roborock",
+      "pack":"Two Roborock zero-tangling side brushes.","asin":"B0DJ7SPVHZ",
+      "amazonTitle":"roborock Zero-Tangling Side Brushes Replacement (2 Pieces) for Roborock QV 35A, Qrevo S5V, Saros 10R, Q7 M5+, Q10 S5+, Q7 L5, Qrevo Curv, Qrevo CurvX, Qrevo Curv S5X, Qrevo Edge S5A",
+      "image":"https://m.media-amazon.com/images/I/51Kchu+MHSL._AC_SL1500_.jpg","imageAlt":"Two Roborock FlexiArm-style side brushes from the Amazon listing that names Qrevo Curv",
+      "fit":"The Roborock-branded Amazon listing explicitly includes Qrevo Curv. Roborock identifies the Curv side brush as its arc-shaped FlexiArm design; this two-piece listing is for the side brushes, not the DuoDivide main brush.",
+      "buyWhen":"Roborock recommends cleaning the side brush monthly and replacing it every 3–6 months, or sooner if worn or damaged.",
+      "check":"Confirm Qrevo Curv and the two-piece option in the current details. Compare the screw mount with your existing brush. The snapshot showed no featured offer, so check current sellers.",
+      "sourceIds":["side-brush-listing","official-accessories","official-manual","official-model"],"listingCheckedDate":"2026-10-09",
+      "sellerAtCheck":"roborock byline; no featured offer appeared in the Amazon snapshot."
+    },
+    {
+      "id":"filters","label":"Washable robot dustbin filters","searchLabel":"replacement filters","buttonLabel":"filters","type":"Original","brand":"roborock",
+      "pack":"Two washable filters.","asin":"B0CXF2C1R3",
+      "amazonTitle":"roborock 2 Pack Washable Filter for Roborock Qrevo S Pro, Qrevo S5V, Qrevo MaxV, Qrevo S, Qrevo Plus, Qrevo Pro, Qrevo Curv, Qrevo Curv S5X, Qrevo Edge, Qrevo Edge S5A QV 35A Robot Vacuum Cleaners",
+      "image":"https://m.media-amazon.com/images/I/61wXKUFVW4L._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg","imageAlt":"Two Roborock washable filters from the Amazon two-pack listing that names Qrevo Curv",
+      "fit":"Roborock's U.S. accessories catalog lists a washable-filter family for Qrevo Curv Series, and the Amazon title explicitly names Qrevo Curv. These filters fit the robot dustbin; they are separate from the filter in the dock cleaning tray and from disposable dock bags.",
+      "buyWhen":"Roborock recommends cleaning the washable filter every 2 weeks and replacing it every 6–12 months, or sooner if damaged or still clogged after cleaning.",
+      "check":"Confirm Qrevo Curv and the two-filter option in the selected Amazon variation. Rinse with clean water only and let the filter dry for at least 24 hours before reinstalling.",
+      "sourceIds":["filter-listing","official-filter","official-accessories","official-manual"],"listingCheckedDate":"2026-10-09",
+      "sellerAtCheck":"roborock listing; check the current seller and selected Filter-E variation."
+    },
+    {
+      "id":"mop-cloths","label":"Round spinning mop cloths","searchLabel":"replacement mop pads","buttonLabel":"mop pads","type":"Third-party","brand":"Rrochio",
+      "pack":"Six microfiber round mop cloths (three pairs).","asin":"B0DDPLB6SK",
+      "amazonTitle":"6Pcs Microfiber Mop Cloth Pad for Roborock Q Revo,Qrevo S,Qrevo Pro,Qrevo Master,Qrevo MaxV,QV35A,QV 35S,Qrevo S5V,Qrevo Edge S5A,Qrevo Curv,Saros 10R Robot Vacuum, Washable Mopping Cloth Accessories",
+      "image":"https://m.media-amazon.com/images/I/71i8EnHEHbL._AC_SX679_.jpg","imageAlt":"Six round microfiber mop cloths from the Amazon listing that names Qrevo Curv",
+      "fit":"The third-party Amazon listing names Qrevo Curv. Roborock's official cloth listing confirms round Qrevo Curv cloths and explicitly says they are not compatible with CurvX. These are cloths only, not the rotating mounts or drive components; third-party fit has not been physically tested.",
+      "buyWhen":"Roborock recommends cleaning mop cloths as required and replacing them every 1–3 months, or sooner if worn or damaged.",
+      "check":"Compare the round cloth shape and attachment with your existing pads, and confirm Qrevo Curv and the six-piece option in the Amazon details. Do not use the Curv cloth listing for CurvX.",
+      "sourceIds":["mop-listing","official-mop-cloths","official-manual"],"listingCheckedDate":"2026-10-09",
+      "sellerAtCheck":"Rrochio is the listing brand; seller and offers can change."
+    },
+    {
+      "id":"dock-dust-bags","label":"Disposable dock dust bags","searchLabel":"replacement dock dust bags","buttonLabel":"dock bags","type":"Third-party","brand":"LOVECO",
+      "pack":"Fourteen disposable dust bags, plus a cleaning brush and screwdriver.","asin":"B0DSBLBJ74",
+      "amazonTitle":"LOVECO 14 Pack Dust Bag Replacement Compatible for Roborock S8 MaxV Ultra/Q Revo/Qrevo Curv/Qrevo Master/Qrevo S/Qrevo Pro/Qrevo Slim/S8 Max Ultra",
+      "image":"https://m.media-amazon.com/images/I/71RbrXxUdbL._AC_SL1500_.jpg","imageAlt":"LOVECO disposable dock dust bags from the Amazon 14-pack listing that names Qrevo Curv",
+      "fit":"The Amazon listing names Qrevo Curv. These third-party disposable bags fit the dock's dust collection system; they are not washable filters for the robot dustbin. Compatibility and seal quality have not been physically tested by DustMigo.",
+      "buyWhen":"Roborock says to replace the disposable dock bag as required. Replace it when full or damaged, and keep a bag installed whenever the dock auto-empties.",
+      "check":"Confirm Qrevo Curv and the 14-bag option in the current listing details. Match the bag collar and dock opening before use; seller and offers can change.",
+      "sourceIds":["bag-listing","official-manual"],"listingCheckedDate":"2026-10-09",
+      "sellerAtCheck":"LOVECO is the listing brand; seller and offers can change."
+    }
+  ],
+  "compatibility":[
+    {"part":"U.S. robot and dock","detail":"The U.S. manual identifies robot V10VIV and Empty Wash Fill Dock EWFD26LRR. Match both labels; this guide's dock-bag advice is for the standard Empty Wash Fill Dock configuration."},
+    {"part":"DuoDivide main brush and FlexiArm side brush","detail":"Qrevo Curv uses two short parallel DuoDivide rollers and an arc-shaped FlexiArm side brush. Check for these exact assemblies; a conventional Qrevo roller or brush cover is a different part."},
+    {"part":"Washable filter vs. dock bag","detail":"The washable filter sits in the robot dustbin. The disposable bag sits inside the dock. They are separate consumables with different fit checks."},
+    {"part":"Mop cloths and model variants","detail":"The standard Curv uses round spinning cloths. Roborock says its Curv cloth listing does not fit CurvX; Qrevo Curv 2 Flow uses a roller-mop system, so this cloth guide is not for that model."}
+  ],
+  "care":[
+    {"part":"DuoDivide main brushes","clean":"Every 2 weeks","replace":"6–12 months"},
+    {"part":"FlexiArm side brush","clean":"Monthly","replace":"3–6 months"},
+    {"part":"Washable robot filter","clean":"Every 2 weeks","replace":"6–12 months"},
+    {"part":"Mop cloths","clean":"As required","replace":"1–3 months"},
+    {"part":"Dock dust bag","clean":"Disposable","replace":"As required or when full"}
+  ],
+  "careTip":"Switch off the robot before servicing brushes or mop parts. Rinse the washable filter with clean water only and let it air-dry for at least 24 hours before reinstalling.",
+  "questions":[
+    {"question":"How do I identify the U.S. Roborock Qrevo Curv?","answer":"The U.S. manual lists robot model V10VIV and Empty Wash Fill Dock model EWFD26LRR. Check both labels before choosing parts."},
+    {"question":"Which main brush does the Qrevo Curv use?","answer":"It uses the DuoDivide assembly with two short parallel rollers and spiral blades. Choose a listing that names Qrevo Curv and shows the complete DuoDivide brush."},
+    {"question":"Do Qrevo Curv mop pads fit CurvX?","answer":"Roborock explicitly says its Qrevo Curv and Edge round mop cloths are not compatible with CurvX. This guide's third-party cloth listing names standard Qrevo Curv; verify your exact model before ordering."},
+    {"question":"Are these all genuine Roborock parts?","answer":"The linked DuoDivide brush, side brushes and washable filters are Roborock-branded. The mop cloths and dock bags are third-party items; DustMigo has not physically tested their fit or durability."},
+    {"question":"How often should I replace Qrevo Curv filters and brushes?","answer":"Roborock recommends replacing the main brushes and washable filter every 6–12 months and the side brush every 3–6 months. Clean the main brushes and filter every 2 weeks, and clean the side brush monthly."}
+  ],
+  "sources":[
+    {"id":"robot-listing","label":"Amazon — Roborock Qrevo Curv robot and dock listing","url":"https://www.amazon.com/dp/B0D81675BQ"},
+    {"id":"official-manual","label":"Roborock Qrevo Curv U.S. manual — model codes and maintenance schedule","url":"https://support.roborock.com/hc/en-us/article_attachments/48525225893273"},
+    {"id":"official-model","label":"Roborock — Qrevo Curv U.S. product page and DuoDivide/FlexiArm system","url":"https://us.roborock.com/pages/roborock-qrevo-curv"},
+    {"id":"official-accessories","label":"Roborock U.S. accessories catalog — Qrevo Curv filter and brush families","url":"https://us.roborock.com/collections/accessories"},
+    {"id":"official-duodivide","label":"Roborock — DuoDivide main brush for Qrevo Curv and Qrevo Edge","url":"https://us.roborock.com/products/main-brush-for-roborock-qrevo-curv-and-qrevo-edge"},
+    {"id":"official-filter","label":"Roborock — washable filter product page for Qrevo-family models including Curv","url":"https://us.roborock.com/products/roborock-washable-filter-2-pcs-for-roborock-qrevo-s-qrevo-maxv-qrevo-pro-qrevo-plus"},
+    {"id":"official-mop-cloths","label":"Roborock — Qrevo Curv and Edge mop cloths; CurvX excluded","url":"https://us.roborock.com/products/roborock-mop-cloth-4pcs-for-qrevo-curv-and-qrevo-edge"},
+    {"id":"duodivide-listing","label":"Amazon — Roborock original DuoDivide brush listing naming Qrevo Curv","url":"https://www.amazon.com/dp/B0DJ7THYG1"},
+    {"id":"side-brush-listing","label":"Amazon — Roborock two-piece zero-tangling side-brush listing naming Qrevo Curv","url":"https://www.amazon.com/dp/B0DJ7SPVHZ"},
+    {"id":"filter-listing","label":"Amazon — Roborock two-pack washable filter listing naming Qrevo Curv","url":"https://www.amazon.com/dp/B0CXF2C1R3"},
+    {"id":"mop-listing","label":"Amazon — Rrochio six-piece mop-cloth listing naming Qrevo Curv","url":"https://www.amazon.com/dp/B0DDPLB6SK"},
+    {"id":"bag-listing","label":"Amazon — LOVECO 14-pack dock-bag listing naming Qrevo Curv","url":"https://www.amazon.com/dp/B0DSBLBJ74"}
+  ]
+}
